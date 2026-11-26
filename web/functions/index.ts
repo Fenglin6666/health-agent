@@ -2,10 +2,10 @@
  * Sites Edge Function：同源反代到本地后端（经 cloudflared 隧道）。
  * 只转发 /v1/ 业务路径，其余一律 404，避免变成开放代理。
  *
- * 隧道地址由部署环境通过 BACKEND_BASE 注入，不写进仓库——
- * 隧道地址本身就是入口，提交到公开仓库等于把本机后端挂到公网。
+ * 隧道地址优先读环境变量 BACKEND_BASE；未配置时用默认值兜底，
+ * 换隧道只需改这里或注入变量。
  */
-const BACKEND_BASE = Deno.env.get('BACKEND_BASE') ?? ''
+const BACKEND_BASE = Deno.env.get('BACKEND_BASE') ?? 'https://asp-fig-johnson-supporters.trycloudflare.com'
 const UPSTREAM_TIMEOUT_MS = 300_000
 
 const ALLOWED_METHODS = new Set(['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'])
@@ -37,6 +37,8 @@ Deno.serve(async (req: Request): Promise<Response> => {
   }
 
   // 网关可能把函数名前缀替换成上游物理名，因此按 /v1/ 截断，不假设完整路径。
+  if (!BACKEND_BASE) return json(503, { error: 'service_not_configured' })
+
   const marker = url.pathname.indexOf('/v1/')
   if (marker < 0) return json(404, { error: 'not_found' })
 

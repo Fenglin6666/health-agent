@@ -1,0 +1,91 @@
+=== 鍩虹嚎鏋勫缓 2026-11-26 01:40:43 ===
+JDK: openjdk version "21.0.12.1" 2026-08-18 LTS
+Maven: Apache Maven 3.9.9 (8e8579a9e76f7d015ee5ec7bfcdc97d260186937)
+---
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] health-agent-parent                                                [pom]
+[INFO] health-agent                                                       [jar]
+[INFO] 
+[INFO] -------------------< com.health:health-agent-parent >-------------------
+[INFO] Building health-agent-parent 0.1.0-SNAPSHOT                        [1/2]
+[INFO]   from pom.xml
+[INFO] --------------------------------[ pom ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ health-agent-parent ---
+[INFO] 
+[INFO] ----------------------< com.health:health-agent >-----------------------
+[INFO] Building health-agent 0.1.0-SNAPSHOT                               [2/2]
+[INFO]   from health-agent\pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ health-agent ---
+[INFO] Deleting D:\agentLearning\health-agent\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ health-agent ---
+[INFO] Copying 18 resources from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ health-agent ---
+[INFO] Recompiling the module because of changed source code.
+[INFO] Compiling 73 source files with javac [debug parameters release 21] to target\classes
+[INFO] /D:/agentLearning/health-agent/src/main/java/com/health/agent/routing/OffTopicFilter.java: D:\agentLearning\health-agent\src\main\java\com\health\agent\routing\OffTopicFilter.java使用了未经检查或不安全的操作。
+[INFO] /D:/agentLearning/health-agent/src/main/java/com/health/agent/routing/OffTopicFilter.java: 有关详细信息, 请使用 -Xlint:unchecked 重新编译。
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ health-agent ---
+[INFO] skip non existing resourceDirectory D:\agentLearning\health-agent\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.13.0:testCompile (default-testCompile) @ health-agent ---
+[INFO] Recompiling the module because of changed dependency.
+[INFO] Compiling 6 source files with javac [debug parameters release 21] to target\test-classes
+[INFO] 
+[INFO] --- surefire:3.2.5:test (default-test) @ health-agent ---
+[INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running com.health.agent.kernel.domain.SessionTurnTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.046 s -- in com.health.agent.kernel.domain.SessionTurnTest
+[INFO] Running com.health.agent.llm.DecisionParserTest
+[INFO] Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.191 s -- in com.health.agent.llm.DecisionParserTest
+[INFO] Running com.health.agent.memory.ContradictionDetectorTest
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.031 s -- in com.health.agent.memory.ContradictionDetectorTest
+[INFO] Running com.health.agent.platform.config.PromptLoaderTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.032 s -- in com.health.agent.platform.config.PromptLoaderTest
+[INFO] Running com.health.agent.routing.OffTopicFilterTest
+01:41:25.882 [main] INFO com.health.agent.routing.OffTopicFilter -- 域外过滤加载：寒暄 13 条，域外信号 37 条，健康信号 38 条
+01:41:25.890 [main] INFO com.health.agent.routing.OffTopicFilter -- 域外过滤加载：寒暄 13 条，域外信号 37 条，健康信号 38 条
+01:41:25.896 [main] INFO com.health.agent.routing.OffTopicFilter -- 域外过滤加载：寒暄 13 条，域外信号 37 条，健康信号 38 条
+01:41:25.901 [main] INFO com.health.agent.routing.OffTopicFilter -- 域外过滤加载：寒暄 13 条，域外信号 37 条，健康信号 38 条
+01:41:25.907 [main] INFO com.health.agent.routing.OffTopicFilter -- 域外过滤加载：寒暄 13 条，域外信号 37 条，健康信号 38 条
+01:41:25.910 [main] INFO com.health.agent.routing.OffTopicFilter -- 域外过滤加载：寒暄 13 条，域外信号 37 条，健康信号 38 条
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.089 s -- in com.health.agent.routing.OffTopicFilterTest
+[INFO] Running com.health.agent.ArchitectureTest
+01:41:25.932 [main] INFO com.tngtech.archunit.core.PluginLoader -- Detected Java version 21.0.12.1
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.787 s -- in com.health.agent.ArchitectureTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 28, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[INFO] 
+[INFO] --- jar:3.4.1:jar (default-jar) @ health-agent ---
+[INFO] Building jar: D:\agentLearning\health-agent\target\health-agent-0.1.0-SNAPSHOT.jar
+[INFO] 
+[INFO] --- spring-boot:3.3.5:repackage (default) @ health-agent ---
+[INFO] Replacing main artifact D:\agentLearning\health-agent\target\health-agent-0.1.0-SNAPSHOT.jar with repackaged archive, adding nested dependencies in BOOT-INF/.
+[INFO] The original artifact has been renamed to D:\agentLearning\health-agent\target\health-agent-0.1.0-SNAPSHOT.jar.original
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary for health-agent-parent 0.1.0-SNAPSHOT:
+[INFO] 
+[INFO] health-agent-parent ................................ SUCCESS [  0.925 s]
+[INFO] health-agent ....................................... SUCCESS [ 44.483 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  47.842 s
+[INFO] Finished at: 2026-11-26T01:41:35+08:00
+[INFO] ------------------------------------------------------------------------
+EXIT_CODE=0
