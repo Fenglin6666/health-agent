@@ -1,0 +1,427 @@
+{
+  "paired": 143,
+  "ours_total": 500,
+  "xiaohe_total": 143,
+  "overall": {
+    "ours": {
+      "n": 143,
+      "chars_median": 454,
+      "chars_p90": 628,
+      "action_rate": 11.9,
+      "question_rate": 92.3,
+      "drug_rate": 7.0,
+      "reassure_rate": 3.5,
+      "bullet_median": 0,
+      "empty": 0
+    },
+    "xiaohe": {
+      "n": 143,
+      "chars_median": 1015,
+      "chars_p90": 1513,
+      "action_rate": 10.5,
+      "question_rate": 88.8,
+      "drug_rate": 17.5,
+      "reassure_rate": 9.1,
+      "bullet_median": 17,
+      "empty": 0
+    }
+  },
+  "by_scene": {
+    "信息不足与表达模糊": {
+      "n": 2,
+      "ours": {
+        "n": 2,
+        "chars_median": 203,
+        "chars_p90": 39,
+        "action_rate": 0.0,
+        "question_rate": 50.0,
+        "drug_rate": 0.0,
+        "reassure_rate": 0.0,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 2,
+        "chars_median": 684,
+        "chars_p90": 622,
+        "action_rate": 0.0,
+        "question_rate": 100.0,
+        "drug_rate": 50.0,
+        "reassure_rate": 0.0,
+        "bullet_median": 12,
+        "empty": 0
+      }
+    },
+    "儿童与新生儿": {
+      "n": 7,
+      "ours": {
+        "n": 7,
+        "chars_median": 451,
+        "chars_p90": 569,
+        "action_rate": 0.0,
+        "question_rate": 100.0,
+        "drug_rate": 0.0,
+        "reassure_rate": 0.0,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 7,
+        "chars_median": 845,
+        "chars_p90": 1083,
+        "action_rate": 14.3,
+        "question_rate": 71.4,
+        "drug_rate": 14.3,
+        "reassure_rate": 14.3,
+        "bullet_median": 15,
+        "empty": 0
+      }
+    },
+    "孕产与哺乳": {
+      "n": 8,
+      "ours": {
+        "n": 8,
+        "chars_median": 442,
+        "chars_p90": 485,
+        "action_rate": 12.5,
+        "question_rate": 87.5,
+        "drug_rate": 0.0,
+        "reassure_rate": 0.0,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 8,
+        "chars_median": 981,
+        "chars_p90": 1233,
+        "action_rate": 12.5,
+        "question_rate": 87.5,
+        "drug_rate": 0.0,
+        "reassure_rate": 12.5,
+        "bullet_median": 12,
+        "empty": 0
+      }
+    },
+    "就医地点与挂号": {
+      "n": 7,
+      "ours": {
+        "n": 7,
+        "chars_median": 429,
+        "chars_p90": 484,
+        "action_rate": 0.0,
+        "question_rate": 85.7,
+        "drug_rate": 14.3,
+        "reassure_rate": 0.0,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 7,
+        "chars_median": 911,
+        "chars_p90": 1523,
+        "action_rate": 0.0,
+        "question_rate": 85.7,
+        "drug_rate": 28.6,
+        "reassure_rate": 14.3,
+        "bullet_median": 12,
+        "empty": 0
+      }
+    },
+    "心理与情绪": {
+      "n": 6,
+      "ours": {
+        "n": 6,
+        "chars_median": 505,
+        "chars_p90": 525,
+        "action_rate": 16.7,
+        "question_rate": 100.0,
+        "drug_rate": 0.0,
+        "reassure_rate": 0.0,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 6,
+        "chars_median": 1327,
+        "chars_p90": 1816,
+        "action_rate": 16.7,
+        "question_rate": 66.7,
+        "drug_rate": 0.0,
+        "reassure_rate": 0.0,
+        "bullet_median": 22,
+        "empty": 0
+      }
+    },
+    "性与生殖健康": {
+      "n": 7,
+      "ours": {
+        "n": 7,
+        "chars_median": 442,
+        "chars_p90": 507,
+        "action_rate": 0.0,
+        "question_rate": 100.0,
+        "drug_rate": 0.0,
+        "reassure_rate": 28.6,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 7,
+        "chars_median": 992,
+        "chars_p90": 1243,
+        "action_rate": 0.0,
+        "question_rate": 71.4,
+        "drug_rate": 0.0,
+        "reassure_rate": 14.3,
+        "bullet_median": 15,
+        "empty": 0
+      }
+    },
+    "慢病管理": {
+      "n": 7,
+      "ours": {
+        "n": 7,
+        "chars_median": 452,
+        "chars_p90": 556,
+        "action_rate": 0.0,
+        "question_rate": 85.7,
+        "drug_rate": 28.6,
+        "reassure_rate": 0.0,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 7,
+        "chars_median": 1416,
+        "chars_p90": 1433,
+        "action_rate": 0.0,
+        "question_rate": 85.7,
+        "drug_rate": 42.9,
+        "reassure_rate": 0.0,
+        "bullet_median": 22,
+        "empty": 0
+      }
+    },
+    "术后与康复": {
+      "n": 7,
+      "ours": {
+        "n": 7,
+        "chars_median": 450,
+        "chars_p90": 483,
+        "action_rate": 0.0,
+        "question_rate": 100.0,
+        "drug_rate": 14.3,
+        "reassure_rate": 0.0,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 7,
+        "chars_median": 1087,
+        "chars_p90": 1339,
+        "action_rate": 14.3,
+        "question_rate": 71.4,
+        "drug_rate": 0.0,
+        "reassure_rate": 0.0,
+        "bullet_median": 15,
+        "empty": 0
+      }
+    },
+    "检查报告解读": {
+      "n": 6,
+      "ours": {
+        "n": 6,
+        "chars_median": 751,
+        "chars_p90": 1248,
+        "action_rate": 0.0,
+        "question_rate": 50.0,
+        "drug_rate": 0.0,
+        "reassure_rate": 16.7,
+        "bullet_median": 4,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 6,
+        "chars_median": 1100,
+        "chars_p90": 1289,
+        "action_rate": 0.0,
+        "question_rate": 100.0,
+        "drug_rate": 16.7,
+        "reassure_rate": 0.0,
+        "bullet_median": 17,
+        "empty": 0
+      }
+    },
+    "用药与药物安全": {
+      "n": 32,
+      "ours": {
+        "n": 32,
+        "chars_median": 464,
+        "chars_p90": 1161,
+        "action_rate": 3.1,
+        "question_rate": 90.6,
+        "drug_rate": 12.5,
+        "reassure_rate": 3.1,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 32,
+        "chars_median": 1005,
+        "chars_p90": 1400,
+        "action_rate": 9.4,
+        "question_rate": 96.9,
+        "drug_rate": 18.8,
+        "reassure_rate": 12.5,
+        "bullet_median": 16,
+        "empty": 0
+      }
+    },
+    "皮肤问题": {
+      "n": 7,
+      "ours": {
+        "n": 7,
+        "chars_median": 424,
+        "chars_p90": 434,
+        "action_rate": 0.0,
+        "question_rate": 85.7,
+        "drug_rate": 0.0,
+        "reassure_rate": 0.0,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 7,
+        "chars_median": 913,
+        "chars_p90": 1097,
+        "action_rate": 0.0,
+        "question_rate": 100.0,
+        "drug_rate": 14.3,
+        "reassure_rate": 14.3,
+        "bullet_median": 15,
+        "empty": 0
+      }
+    },
+    "红旗与急症": {
+      "n": 40,
+      "ours": {
+        "n": 40,
+        "chars_median": 476,
+        "chars_p90": 595,
+        "action_rate": 35.0,
+        "question_rate": 100.0,
+        "drug_rate": 5.0,
+        "reassure_rate": 2.5,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 40,
+        "chars_median": 996,
+        "chars_p90": 1455,
+        "action_rate": 20.0,
+        "question_rate": 95.0,
+        "drug_rate": 22.5,
+        "reassure_rate": 10.0,
+        "bullet_median": 18,
+        "empty": 0
+      }
+    },
+    "肿瘤相关": {
+      "n": 7,
+      "ours": {
+        "n": 7,
+        "chars_median": 398,
+        "chars_p90": 494,
+        "action_rate": 0.0,
+        "question_rate": 100.0,
+        "drug_rate": 0.0,
+        "reassure_rate": 0.0,
+        "bullet_median": 0,
+        "empty": 0
+      },
+      "xiaohe": {
+        "n": 7,
+        "chars_median": 1288,
+        "chars_p90": 1625,
+        "action_rate": 0.0,
+        "question_rate": 71.4,
+        "drug_rate": 14.3,
+        "reassure_rate": 0.0,
+        "bullet_median": 21,
+        "empty": 0
+      }
+    }
+  },
+  "redflag_first_sentence": {
+    "n": 40,
+    "ours_action": 35.0,
+    "xiaohe_action": 20.0,
+    "ours_action_anywhere": 100.0,
+    "xiaohe_action_anywhere": 75.0
+  },
+  "top_length_gap": [
+    {
+      "pid": "P288",
+      "scene": "术后与康复",
+      "question": "我父亲现年72岁,08年底得脑溢血住院,09年2月出院,其间左半边肢体行动不便,现已经可以在家人的帮助下穿行,只是我老是",
+      "ours_chars": 437,
+      "xiaohe_chars": 1775
+    },
+    {
+      "pid": "P318",
+      "scene": "心理与情绪",
+      "question": "宝宝目前一岁九个月，从降生到现在，厌食比较严重，奶粉吃的量少，最多一天三顿吃400毫升，辅食也不爱吃，体重也不全部达标偏",
+      "ours_chars": 488,
+      "xiaohe_chars": 1816
+    },
+    {
+      "pid": "P086",
+      "scene": "用药与药物安全",
+      "question": "女今年26岁，我一直也在治这个病，也都在吃药，但是一直不见好转，我也很烦，用了很多方法也不行，请问：垂体瘤后期怎么办才是",
+      "ours_chars": 483,
+      "xiaohe_chars": 1727
+    },
+    {
+      "pid": "P120",
+      "scene": "检查报告解读",
+      "question": "我婆婆58岁，老家县医院检查出宫颈三度糜烂。妇幼医院前后看了两次，第一个妇科门诊主任医生说是宫颈癌病变前期，建议将阴道炎",
+      "ours_chars": 433,
+      "xiaohe_chars": 1643
+    },
+    {
+      "pid": "P236",
+      "scene": "肿瘤相关",
+      "question": "我朋友今年48岁了，据说他患上了直肠癌，得了癌症就预示着是不治之症，我们都替他伤心，也不知晓怎么方才能协助他，请那位医生",
+      "ours_chars": 398,
+      "xiaohe_chars": 1608
+    },
+    {
+      "pid": "P039",
+      "scene": "红旗与急症",
+      "question": "我11月1日吃的紧急避孕药，11月11日开始阴道出血，是来月经吗？11月23日同房用的是避孕套，可是或许45天后阴道开始",
+      "ours_chars": 540,
+      "xiaohe_chars": 1678
+    },
+    {
+      "pid": "P404",
+      "scene": "就医地点与挂号",
+      "question": "宝宝腹泻一天多于七次奶花状现已轻度脱水就诊医院临汾市二院 曾经的治疗情况和效果：无想得到怎样的帮助：继续输液能治好吗还能",
+      "ours_chars": 552,
+      "xiaohe_chars": 1689
+    },
+    {
+      "pid": "P021",
+      "scene": "红旗与急症",
+      "question": "天患者4天新生儿缺氧缺血性脑病蛛网膜下腔出血左颞顶梗塞不除外这是医院下的结论在出生第二天就发现孩子抽搐想得到怎样的帮助：",
+      "ours_chars": 603,
+      "xiaohe_chars": 1739
+    }
+  ],
+  "balanced": {
+    "ours_chars_median": 473.7,
+    "xiaohe_chars_median": 1071.8,
+    "ours_action": 5.6,
+    "xiaohe_action": 7.3
+  }
+}
