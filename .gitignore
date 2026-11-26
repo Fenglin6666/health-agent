@@ -58,3 +58,6 @@ _launch/llm-key.txt
 
 # 删除前暂存区，按项目约定先移到这里再清理
 _trash/
+
+# 飞书文档用的渲染图，本地生成不入库
+_feishu_img/
