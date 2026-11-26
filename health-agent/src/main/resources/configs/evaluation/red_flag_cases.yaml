@@ -1,0 +1,60 @@
+# 红旗评测用例集。
+# 正向用例：必须命中（漏一条就是漏诊）。
+# 负向用例：不该命中（误报多了用户会疲劳，也会淹没真信号）。
+#
+# 维护原则：正向用例只写"真实用户会怎么说"，不要写教科书句式——
+# 评测集如果比真实输入规整，测出来的召回率是假的。
+
+positive:
+  - { text: "胸口疼还一直出汗", expect: chest_pain_sweating }
+  - { text: "胸痛，大汗淋漓", expect: chest_pain_sweating }
+  - { text: "胸闷得厉害，冷汗直冒", expect: chest_pain_sweating }
+  - { text: "心口窝疼，脸色发白出虚汗", expect: chest_pain_sweating }
+  - { text: "上腹痛，冒冷汗，感觉快不行了", expect: epigastric_cold_sweat }
+  - { text: "胃疼得厉害还出冷汗", expect: epigastric_cold_sweat }
+  - { text: "突然说话不清，嘴也歪了", expect: stroke_signs }
+  - { text: "半边身子没劲，抬不起手", expect: stroke_signs }
+  - { text: "一侧无力，走路往一边偏", expect: stroke_signs }
+  - { text: "突然剧烈头痛，从没这么疼过", expect: thunderclap_headache }
+  - { text: "爆炸样头痛，一下就疼起来了", expect: thunderclap_headache }
+  - { text: "呼吸困难，嘴唇发紫", expect: breathing_difficulty }
+  - { text: "躺不下，一躺就喘不上气", expect: breathing_difficulty }
+  - { text: "孩子发烧抽搐了", expect: child_febrile_seizure }
+  - { text: "宝宝高烧翻白眼", expect: child_febrile_seizure }
+  - { text: "怀孕早期出血了", expect: pregnancy_bleeding }
+  - { text: "孕周十二周，见红了", expect: pregnancy_bleeding }
+  - { text: "吐了一口血", expect: gi_bleeding }
+  - { text: "大便发黑，像柏油一样", expect: gi_bleeding }
+  - { text: "黑便两天了", expect: gi_bleeding }
+  - { text: "喉咙发紧，喘不上气，全身起疹", expect: anaphylaxis }
+  - { text: "吃完药嘴唇肿了，呼吸困难", expect: anaphylaxis }
+  - { text: "突然晕倒，之前有胸痛", expect: syncope }
+  - { text: "意识丧失，还抽搐", expect: syncope }
+  - { text: "晕厥，心慌得厉害", expect: syncope }
+  - { text: "胸闷大汗，喘不上气", expect: chest_pain_sweating }
+  - { text: "口角歪斜，说话含糊", expect: stroke_signs }
+  - { text: "剧烈头疼，伴随呕吐", expect: thunderclap_headache }
+  - { text: "上腹不适，冷汗，有濒死感", expect: epigastric_cold_sweat }
+  - { text: "孕期流血，肚子还疼", expect: pregnancy_bleeding }
+
+negative:
+  - { text: "我胃胀三天了" }
+  - { text: "饭后反酸，有点烧心" }
+  - { text: "阿莫西林怎么吃" }
+  - { text: "布洛芬能空腹吃吗" }
+  - { text: "高血压能运动吗" }
+  - { text: "附近有药店吗" }
+  - { text: "帮我看看这个体检报告" }
+  - { text: "最近总是失眠" }
+  - { text: "有点轻微头痛" }
+  - { text: "感冒了，流鼻涕" }
+  - { text: "咳嗽有痰，两天了" }
+  - { text: "拉肚子，一天三次" }
+  - { text: "嗓子疼，吞咽不舒服" }
+  - { text: "眼睛干涩发痒" }
+  - { text: "腰疼，久坐之后更明显" }
+  - { text: "皮肤起了红疹，有点痒" }
+  - { text: "血糖偏高，平时要注意什么" }
+  - { text: "孩子最近不爱吃饭" }
+  - { text: "孕早期能吃海鲜吗" }
+  - { text: "体检报告里血红蛋白偏低是什么意思" }

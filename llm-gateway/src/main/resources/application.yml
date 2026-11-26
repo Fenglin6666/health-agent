@@ -1,0 +1,27 @@
+server:
+  port: ${GATEWAY_PORT:8081}
+
+spring:
+  application:
+    name: llm-gateway
+  mvc:
+    async:
+      # 流式回答可能持续几十秒，超时要大于模型的最长生成时间
+      request-timeout: 120s
+
+ha:
+  gateway:
+    # 上游地址含版本段。换供应商只改这里。
+    upstream-base-url: ${HA_LLM_UPSTREAM_URL:https://api.deepseek.com/v1}
+    # 凭证只存在网关进程，core 不再持有
+    api-key: ${HA_LLM_API_KEY:}
+    # 主模型失败时的兜底。留空表示不兜底。
+    fallback-model: ${HA_LLM_FALLBACK_MODEL:}
+    timeout-seconds: ${HA_LLM_TIMEOUT:60}
+    # 内网调用令牌。空 = 不校验（仅本地开发）；部署时必须配。
+    internal-token: ${HA_GATEWAY_TOKEN:}
+    fallback-enabled: ${HA_LLM_FALLBACK_ENABLED:true}
+
+logging:
+  level:
+    com.health.gateway: INFO

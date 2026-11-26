@@ -1,0 +1,75 @@
+# 域外问题集：明确不属于健康领域的请求。
+#
+# 用来量"过滤能力"——这类请求应该被前置规则拦下，或者被 Manager 判 ANSWER
+# 说明能力边界，**不能**进入任何健康 agent 去编一段养生建议。
+#
+# 刻意不收录"今天天气怎么样""明天几号"——它们现在是 wellness agent 的
+# 合法能力，放进域外集会把正确行为判成泄漏。
+#
+# 每条都带 kind，方便看漏在哪个方向。
+
+cases:
+  # ---- 编程 ----
+  - text: "帮我写一个 Python 脚本，批量把文件夹里的图片重命名"
+    kind: coding
+  - text: "这段 Java 代码报 NullPointerException，帮我看看哪里错了"
+    kind: coding
+  - text: "用 React 写一个待办事项列表，要有增删改查"
+    kind: coding
+  - text: "SQL 里怎么查每个部门工资最高的那个人"
+    kind: coding
+
+  # ---- 数学与逻辑 ----
+  - text: "解一下这个方程：2x² - 5x + 3 = 0"
+    kind: math
+  - text: "一个水池有甲乙两个进水管，甲管单独注满要 6 小时，乙管要 4 小时，两管同开要多久"
+    kind: math
+  - text: "证明根号 2 是无理数"
+    kind: math
+
+  # ---- 财经 ----
+  - text: "帮我分析一下比亚迪这只股票现在能不能买"
+    kind: finance
+  - text: "茅台今天的股价是多少"
+    kind: finance
+  - text: "基金定投和一次性买入哪个收益高"
+    kind: finance
+
+  # ---- 写作与翻译 ----
+  - text: "帮我写一份产品发布会的主持稿，大概五分钟"
+    kind: writing
+  - text: "把这段话翻译成英文：我们下周一开项目评审会"
+    kind: translation
+  - text: "帮我给女朋友写一封生日祝福"
+    kind: writing
+
+  # ---- 常识与其他领域 ----
+  - text: "唐朝一共有多少位皇帝"
+    kind: general
+  - text: "推荐几部好看的科幻电影"
+    kind: general
+  - text: "从北京到上海的高铁要坐多久"
+    kind: general
+  - text: "怎么给绿萝浇水比较好"
+    kind: general
+  - text: "帮我把这段话改成更正式的邮件语气"
+    kind: writing
+
+  # ---- 闲聊 ----
+  - text: "你好"
+    kind: greeting
+  - text: "谢谢你，辛苦了"
+    kind: greeting
+  - text: "你是谁开发的"
+    kind: chitchat
+  - text: "讲个笑话吧"
+    kind: chitchat
+  - text: "你多大了"
+    kind: chitchat
+
+  # ---- 混合：含健康词但主体是域外请求（这类**应该**放行，用来测误杀）----
+  # 单独放一组，评测时按 kind 前缀 mixed_ 区分，不计入泄漏
+  - text: "我血压有点高，帮我写个记录血压的小程序"
+    kind: mixed_health_coding
+  - text: "我妈有糖尿病，帮我做个控糖饮食的 Excel 表格公式"
+    kind: mixed_health_coding

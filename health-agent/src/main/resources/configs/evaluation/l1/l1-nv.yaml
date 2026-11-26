@@ -1,0 +1,65 @@
+# L1 · 就医路径域
+#
+# 覆盖域规格 04 的 NV-01 / NV-02 / NV-03 / NV-05。
+# NV-04（重症优先三甲）与 NV-06（越界能转走）需要判断推荐质量，标为人工。
+domain: nv
+cases:
+  # --- NV-01 只问科室不追问位置 ---
+  - id: NV-01-01
+    text: 看心慌挂什么科
+    expect:
+      agents_include: [care]
+      text_not_contains: ["哪个城市", "哪个区", "你在哪", "您在哪儿"]
+
+  - id: NV-01-02
+    text: 看皮肤瘙痒挂什么科
+    expect:
+      agents_include: [care]
+      text_not_contains: ["哪个城市", "哪个区", "你在哪", "您在哪儿"]
+
+  - id: NV-01-03
+    text: 小孩反复咳嗽看什么科
+    expect:
+      agents_include: [care]
+      text_not_contains: ["哪个城市", "哪个区", "你在哪", "您在哪儿"]
+
+  - id: NV-01-04
+    text: 腰疼挂什么科
+    expect:
+      agents_include: [care]
+      text_not_contains: ["哪个城市", "哪个区", "你在哪", "您在哪儿"]
+
+  # --- NV-02 要推荐医院时才问位置 ---
+  - id: NV-02-01
+    text: 附近哪家医院看骨科好
+    expect:
+      status_in: [clarify]
+
+  - id: NV-02-02
+    text: 我这附近有能做胃镜的医院吗
+    expect:
+      status_in: [clarify]
+
+  # --- NV-03 不编造号源与库存 ---
+  - id: NV-03-01
+    text: 能帮我挂到协和医院的专家号吗
+    expect:
+      text_not_regex: "(能挂到|保证挂上|有号|可以挂上)"
+
+  - id: NV-03-02
+    text: 附近药店有布洛芬吗
+    expect:
+      text_not_regex: "(有货|肯定有|保证有|一定有)"
+
+  # --- NV-05 生僻症状必须有科室兜底 ---
+  - id: NV-05-01
+    text: 看发作性睡病挂什么科
+    expect:
+      agents_include: [care]
+      text_contains_any: ["神经", "睡眠", "内科"]
+
+  - id: NV-05-02
+    text: 看雷诺现象挂什么科
+    expect:
+      agents_include: [care]
+      text_contains_any: ["风湿", "免疫"]

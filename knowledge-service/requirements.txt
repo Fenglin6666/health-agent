@@ -1,0 +1,20 @@
+# 用下限而不是精确版本：Python 3.13 上旧版本可能没有 wheel
+
+# --- 服务本体 ---
+fastapi>=0.115
+uvicorn[standard]>=0.32
+pydantic>=2.9
+
+# --- 重排 ---
+# 现在只剩重排用它（向量走火山 API，不再本地算）。自带 onnxruntime，不需要 torch。
+# 之前漏了这行：新建环境后服务直接起不来（No module named fastembed）。
+fastembed>=0.4
+
+# --- OCR（可选，不装也能跑）---
+# 不装时 /health 显示 ocr: false，报告图片上传不可用，其余功能不受影响。
+#
+# 注意：这个包的元数据写死了 Python < 3.13，在 3.13 上 pip 会直接拒绝，
+# 但 wheel 实际能在 3.13 上正常导入运行（1.4.4 实测通过）。所以要单独装：
+#   pip install rapidocr-onnxruntime --ignore-requires-python
+#
+# rapidocr-onnxruntime>=1.4

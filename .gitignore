@@ -1,0 +1,57 @@
+# Java
+target/
+*.class
+*.jar
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/timing.properties
+
+# Node
+node_modules/
+dist/
+.vite/
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local
+.tools/
+.tmp/
+logs/
+*.log
+.env
+
+# ---------------------------------------------------------------------------
+# 本地数据与产物（不随仓库分发）
+# ---------------------------------------------------------------------------
+
+# 手机 UI 自动化抓取的原始产物：uiautomator dump、竞品界面截图、真实检查报告照片。
+# 含第三方 App 界面与个人医疗图像，仅留在本机。
+.data/
+
+# 演示视频源文件与导出成片
+video/
+*.mp4
+*.mov
+
+# 真实模型密钥。模板见 _launch/llm-key.txt.example
+_launch/llm-key.txt
+
+# Agent 会话工作记忆（本地过程记录，非项目资产）
+.workbuddy-ai/
+
+# 删除前暂存区，按项目约定先移到这里再清理
+_trash/

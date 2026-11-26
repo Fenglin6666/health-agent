@@ -1,0 +1,17 @@
+# 统一换行符，避免跨平台 checkout 后脚本失效
+* text=auto eol=lf
+
+# Windows 批处理必须是 CRLF，否则 cmd 解析 goto/label 会失败
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# 二进制文件不做换行转换
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.onnx binary
+*.jar binary

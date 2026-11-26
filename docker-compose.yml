@@ -1,0 +1,59 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: ha-mysql
+    # 3307 而不是 3306：本机 3306 往往已经被别的项目占着，共用实例迟早出事故
+    ports: ["3307:3306"]
+    environment:
+      MYSQL_ROOT_PASSWORD: ha_root_dev
+      MYSQL_DATABASE: health_agent
+      MYSQL_USER: ha
+      MYSQL_PASSWORD: ha_local_dev
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_0900_ai_ci
+    volumes:
+      - mysqldata:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-uha", "-pha_local_dev"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  redis:
+    image: redis:7-alpine
+    container_name: ha-redis
+    ports: ["6379:6379"]
+    command: redis-server --appendonly yes
+    volumes:
+      - redisdata:/data
+
+  # 知识层依赖，M1 阶段再启动
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.15.0
+    container_name: ha-es
+    profiles: ["knowledge"]
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - ES_JAVA_OPTS=-Xms1g -Xmx1g
+    ports: ["9200:9200"]
+    volumes:
+      - esdata:/usr/share/elasticsearch/data
+
+  neo4j:
+    image: neo4j:5-community
+    container_name: ha-neo4j
+    profiles: ["knowledge"]
+    environment:
+      - NEO4J_AUTH=neo4j/ha_local_dev
+      - NEO4J_server_memory_heap_max__size=1G
+    ports: ["7474:7474", "7687:7687"]
+    volumes:
+      - neo4jdata:/data
+
+volumes:
+  mysqldata:
+  redisdata:
+  esdata:
+  neo4jdata:

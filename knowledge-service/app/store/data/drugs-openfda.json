@@ -1,0 +1,1152 @@
+{
+  "_meta": {
+    "source": "openFDA 药品标签（美国市场，公有领域 CC0）",
+    "version": "2026-11-20",
+    "note": "由 scripts/import_openfda.py 生成，请勿手工编辑。正文为英文原文，未做翻译——翻译过的说明书不能当依据。药名/规格/剂量按美国市场，与中国说明书可能不一致。"
+  },
+  "drugs": [
+    {
+      "id": "fda-levothyroxine",
+      "name": "左甲状腺素",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "thyroid",
+        "hormone"
+      ],
+      "aliases": [
+        "LEVOTHYROXINE",
+        "甲减",
+        "甲状腺功能减退",
+        "甲状腺"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Hypothyroidism Levothyroxine sodium tablets are indicated in adult and pediatric patients, including neonates, as a replacement therapy in primary (thyroidal), secondary (pituitary), and tertiary (hypothalamic) congenital or acquired hypothyroidism. Pituitary Thyrotropin (Thyroid‑Stimulating Hormone, TSH) Suppression Levothyroxine sodium tablets are indicated in adult and pediatric patients, including neonates, as an adjunct to surgery and radioiodine therapy in the management of thyrotropin-dependent well-differentiated thyroid cancer. Limitations of Use Levothyroxine sodium tablets are not indicated for suppression of benign thyroid nodules and nontoxic diffuse goiter in iodine-sufficient patients as there are no clinical benefits and overtreatment with levothyrox…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Administer once daily, preferably on an empty stomach, one-half to one hour before breakfast with a full glass of water. (2.1) Administer at least 4 hours before or after drugs that are known to interfere with absorption. (2.1) Evaluate the need for dose adjustments when regularly administering within one hour of certain foods that may affect absorption. (2.1) Advise patients to stop biotin and biotin-containing supplements at least 2 days before assessing TSH and/or T4 levels. (2.2) Starting dose depends on a variety of factors, including age, body weight, cardiovascular status, and concomitant medications. Peak therapeutic effect may not be attained for 4 to 6 weeks. (2.2) See full prescribing information for dosing in specific patient populations. (2.3) Adequ…",
+      "contraindications": "4 CONTRAINDICATIONS Levothyroxine sodium tablets are contraindicated in patients with uncorrected adrenal insufficiency [see Warnings and Precautions (5.4) ]. Uncorrected adrenal insufficiency. (4)",
+      "adverse_reactions": "6 ADVERSE REACTIONS Adverse reactions associated with levothyroxine sodium therapy are primarily those of hyperthyroidism due to therapeutic overdosage [see Warnings and Precautions (5) and Overdosage (10) ]. They include the following: General: fatigue, increased appetite, weight loss, heat intolerance, fever, excessive sweating Central nervous system: headache, hyperactivity, nervousness, anxiety, irritability, emotional lability, insomnia Musculoskeletal: tremors, muscle weakness, muscle spasm Cardiovascular: palpitations, tachycardia, arrhythmias, increased pulse and blood pressure, heart failure, angina, myocardial infarction, cardiac arrest Respiratory: dyspnea Gastrointestinal: diarrhea, vomiting, abdominal cramps, elevations in liver function tests Dermatologic: hair loss, flushing…",
+      "interactions": "7 DRUG INTERACTIONS See full prescribing information for drugs that affect thyroid hormone pharmacokinetics and metabolism (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to levothyroxine sodium. (7) 7.1 Drugs Known to Affect Thyroid Hormone Pharmacokinetics Many drugs can exert effects on thyroid hormone pharmacokinetics and metabolism (e.g., absorption, synthesis, secretion, catabolism, protein binding, and target tissue response) and may alter the therapeutic response to levothyroxine sodium (Tables 5 to 8). Table 5. Drugs That May Decrease T4 Absorption (Hypothyroidism) Potential impact: Concurrent use may reduce the efficacy of levothyroxine sodium by binding and delaying or preventing absorption,…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Serious risks related to overtreatment or undertreatment with levothyroxine sodium tablets: Titrate the dose of levothyroxine sodium carefully and monitor response to titration. (5.1) Cardiac adverse reactions in the elderly and in patients with underlying cardiovascular disease: Initiate levothyroxine sodium at less than the full replacement dose because of the increased risk of cardiac adverse reactions, including atrial fibrillation. (2.3 , 5.2 , 8.5) Myxedema coma: Do not use oral thyroid hormone drug products to treat myxedema coma. (5.3) Acute adrenal crisis in patients with concomitant adrenal insufficiency: Treat with replacement glucocorticoids prior to initiation of levothyroxine sodium treatment. (5.4) Worsening of diabetic control: Therapy in patients…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "LEVOTHYROXINE"
+    },
+    {
+      "id": "fda-lisinopril",
+      "name": "赖诺普利",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antihypertensive",
+        "acei"
+      ],
+      "aliases": [
+        "LISINOPRIL",
+        "高血压",
+        "降压药",
+        "心衰"
+      ],
+      "indications": "INDICATIONS AND USAGE Lisinopril and hydrochlorothiazide tablets are indicated for the treatment of hypertension, to lower blood pressure. Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions. These benefits have been seen in controlled trials of antihypertensive drugs from a wide variety of pharmacologic classes including lisinopril and hydrochlorothiazide. Control of high blood pressure should be part of comprehensive cardiovascular risk management, including, as appropriate, lipid control, diabetes management, antithrombotic therapy, smoking cessation, exercise, and limited sodium intake. Many patients will require more than 1 drug to achieve blood pressure goals. For specific advice on goals and management, s…",
+      "adult_dosage": "DOSAGE AND ADMINISTRATION Lisinopril monotherapy is an effective treatment of hypertension in once-daily doses of 10 mg to 80 mg, while hydrochlorothiazide monotherapy is effective in doses of 12.5 mg to 50 mg per day. In clinical trials of lisinopril/hydrochlorothiazide combination therapy using lisinopril doses of 10 mg to 80 mg and hydrochlorothiazide doses of 6.25 mg to 50 mg, the antihypertensive response rates generally increased with increasing dose of either component. The side effects (see WARNINGS ) of lisinopril are generally rare and apparently independent of dose; those of hydrochlorothiazide are a mixture of dose-dependent phenomena (primarily hypokalemia) and dose-independent phenomena (e.g., pancreatitis), the former much more common than the latter. Therapy with any combin…",
+      "contraindications": "CONTRAINDICATIONS Lisinopril and hydrochlorothiazide tablets are contraindicated in patients who are hypersensitive to any component of this product and in patients with a history of angioedema related to previous treatment with an angiotensin converting enzyme inhibitor and in patients with hereditary or idiopathic angioedema. Because of the hydrochlorothiazide component, this product is contraindicated in patients with anuria or hypersensitivity to other sulfonamide-derived drugs. Lisinopril and hydrochlorothiazide tablets are contraindicated in combination with a neprilysin inhibitor (e.g., sacubitril). Do not administer lisinopril and hydrochlorothiazide tablets within 36 hours of switching to or from sacubitril/valsartan, a neprilysin inhibitor (see WARNINGS ). Do not coadminister ali…",
+      "adverse_reactions": "ADVERSE REACTIONS Lisinopril and hydrochlorothiazide tablets have been evaluated for safety in 930 patients, including 100 patients treated for 50 weeks or more. In clinical trials with lisinopril and hydrochlorothiazide tablets no adverse experiences peculiar to this combination drug have been observed. Adverse experiences that have occurred have been limited to those that have been previously reported with lisinopril or hydrochlorothiazide. The most frequent clinical adverse experiences in controlled trials (including open label extensions) with any combination of lisinopril and hydrochlorothiazide tablets were: dizziness (7.5%), headache (5.2%), cough (3.9%), fatigue (3.7%) and orthostatic effects (3.2%) all of which were more common than in placebo-treated patients. Generally, adverse…",
+      "interactions": "Drug Interactions Lisinopril Hypotension - Patients on Diuretic Therapy: Patients on diuretics, and especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with lisinopril. The possibility of hypotensive effects with lisinopril can be minimized by either discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with lisinopril. If it is necessary to continue the diuretic, initiate therapy with lisinopril at a dose of 5 mg daily, and provide close medical supervision after the initial dose for at least two hours and until blood pressure has stabilized for at least an additional hour. (See WARNINGS and DOSAGE AND ADMINISTRATION .) When a diuretic is adde…",
+      "duration": "",
+      "stop_signs": "WARNING: FETAL TOXICITY When pregnancy is detected, discontinue lisinopril and hydrochlorothiazide tablets as soon as possible. Drugs that act directly on the renin-angiotensin system can cause injury and death to the developing fetus. See Warnings, Fetal Toxicity .",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "LISINOPRIL"
+    },
+    {
+      "id": "fda-losartan",
+      "name": "氯沙坦",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antihypertensive",
+        "arb"
+      ],
+      "aliases": [
+        "LOSARTAN",
+        "高血压",
+        "降压药"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Losartan potassium tablets are an angiotensin II receptor blocker (ARB) indicated for: • Treatment of hypertension, to lower blood pressure in adults and children greater than 6 years old. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions. (1.1) • Reduction of the risk of stroke in patients with hypertension and left ventricular hypertrophy. There is evidence that this benefit does not apply to Black patients. (1.2) • Treatment of diabetic nephropathy with an elevated serum creatinine and proteinuria in patients with type 2 diabetes and a history of hypertension. (1.3) 1.1 Hypertension Losartan potassium tablets are indicated for the treatment of hypertension in adults and pediatric pat…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Hypertension • Usual adult dose: 50 mg once daily. (2.1) • Usual pediatric starting dose: 0.7 mg per kg once daily (up to 50 mg). (2.1) Hypertensive Patients with Left Ventricular Hypertrophy • Usual starting dose: 50 mg once daily. (2.2) • Add hydrochlorothiazide 12.5 mg and/or increase losartan potassium to 100 mg followed by an increase to hydrochlorothiazide 25 mg if further blood pressure response is needed. (2.2 , 14.2) Nephropathy in Type 2 Diabetic Patients • Usual dose: 50 mg once daily. (2.3) • Increase dose to 100 mg once daily if further blood pressure response is needed. (2.3) 2.1 Hypertension Adult Hypertension The usual starting dose of losartan potassium tablets is 50 mg once daily. The dosage can be increased to a maximum dose of 100 mg once dai…",
+      "contraindications": "4 CONTRAINDICATIONS Losartan potassium is contraindicated: • In patients who are hypersensitive to any component of this product. • For coadministration with aliskiren in patients with diabetes. • Hypersensitivity to any component. (4) • Coadministration with aliskiren in patients with diabetes. (4)",
+      "adverse_reactions": "6 ADVERSE REACTIONS Most common adverse reactions (incidence ≥2% and greater than placebo) are: dizziness, upper respiratory infection, nasal congestion, and back pain. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Zydus Pharmaceuticals (USA) Inc. at 1-877-993-8779 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice. Hypertension Losartan potassium has been evaluated for safety in more than 3300 adult patients treated for essential hypertension and 4058 patients/subjects overall. Over 1200 patien…",
+      "interactions": "7 DRUG INTERACTIONS • Agents Increasing Serum Potassium: Risk of hyperkalemia. (7.1) • Lithium: Risk of lithium toxicity. (7.2) • NSAIDs: Increased risk of renal impairment and reduced diuretic, natriuretic, and antihypertensive effects. (7.3) • Dual Inhibition of the Renin-Angiotensin System: Increased risk of renal impairment, hypotension, syncope, and hyperkalemia. (7.4) 7.1 Agents Increasing Serum Potassium Coadministration of losartan with other drugs that raise serum potassium levels may result in hyperkalemia. Monitor serum potassium in such patients. 7.2 Lithium Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists. Monitor serum lithium levels during concomitant use. 7…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS • Hypotension: Correct volume or salt depletion prior to administration of losartan potassium. (5.2) • Monitor renal function and potassium in susceptible patients. (5.3 , 5.4) 5.1 Fetal Toxicity Losartan potassium can cause fetal harm when administered to a pregnant woman. Use of drugs that act on the renin-angiotensin system during the second and third trimesters of pregnancy reduces fetal renal function and increases fetal and neonatal morbidity and death. Resulting oligohydramnios can be associated with fetal lung hypoplasia and skeletal deformations. Potential neonatal adverse effects include skull hypoplasia, anuria, hypotension, renal failure, and death. When pregnancy is detected, discontinue losartan potassium as soon as possible [see Use in Specific Pop…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "LOSARTAN"
+    },
+    {
+      "id": "fda-metoprolol",
+      "name": "美托洛尔",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antihypertensive",
+        "beta-blocker"
+      ],
+      "aliases": [
+        "METOPROLOL",
+        "高血压",
+        "心率快",
+        "心绞痛",
+        "倍他乐克"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Metoprolol tartrate tablet is a beta-adrenergic blocker indicated for the treatment of: • Hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and non-fatal cardiovascular events, primarily strokes and myocardial infarctions. ( 1.1 ) • Angina Pectoris. ( 1.2 ) • Myocardial Infarction, to reduce the risk of cardiovascular mortality when used in conjunction with intravenous metoprolol therapy in patients with definite or suspected acute myocardial infarction in hemodynamically stable patients. ( 1.3 ) 1.1 Hypertension Metoprolol tartrate tablets are indicated for the treatment of hypertension in adult patients, to lower blood pressure. Lowering blood pressure lowers the risk of fatal and non-fatal cardiovascular events, primarily st…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION • Administer once daily with food or after a meal. Titrate at weekly or longer intervals as needed and tolerated. ( 2 ) • Hypertension: Recommended starting dosage is 100 mg daily, in single or divided doses. ( 2.1 ) • Angina Pectoris: Recommended starting dosage is 100 mg daily, given as two divided doses. ( 2.2 ) • Myocardial Infarction: The starting dosage depends upon tolerance of intravenous metoprolol, see full prescribing information. ( 2.3 ) 2.1 Hypertension Individualize the dosage of metoprolol tartrate tablets. Metoprolol tartrate tablets should be taken with or immediately following meals. The usual initial dosage is 100 mg daily in single or divided doses. Adjust dosage at weekly (or longer) intervals until optimum blood pressure reduction is achiev…",
+      "contraindications": "4 CONTRAINDICATIONS Metoprolol tartrate tablets are contraindicated in severe bradycardia, second-or third-degree heart block, cardiogenic shock, systolic blood pressure <100, decompensated heart failure, sick sinus syndrome (unless a permanent pacemaker is in place), and in patients who are hypersensitive to any component of this product. • Known hypersensitivity to product components. ( 4 ) • Severe bradycardia: Greater than first degree heart block, or sick sinus syndrome without a pacemaker. ( 4 ) • Cardiogenic shock or decompensated heart failure. ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following adverse reactions are described elsewhere in labeling: Worsening angina or myocardial infarction [see Warnings and Precautions (5)] Worsening heart failure [see Warnings and Precautions (5)]. Worsening AV block [see Contraindications (4)]. • Most common adverse reactions: tiredness, dizziness, depression, shortness of breath, bradycardia, hypotension, diarrhea, pruritus, rash. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Alembic Pharmaceuticals Limited at 1-866-210-9797 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of a…",
+      "interactions": "7 DRUG INTERACTIONS • Catecholamine-depleting drugs may have an additive effect when given with beta-blocking agents. ( 7.1 ) • Patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction. ( 7.2 ) • CYP2D6 Inhibitors are likely to increase metoprolol concentration. ( 7.3 ) • Concomitant use of glycosides, clonidine, and diltiazem and verapamil with beta-blockers can increase the risk of bradycardia. ( 7.4 ) • Beta-blockers including metoprolol, may exacerbate the rebound hypertension that can follow the withdrawal of clonidine. ( 7.4 ) 7.1 Catecholamine Depleting Drugs Catecholamine depleting drugs (e.g., reserpine, monoamine oxidase (MAO) inhibitors) may have an additive effect when given with beta-blocking agents. Observe patients treated with metoprolo…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS • Abrupt cessation may exacerbate myocardial ischemia. ( 5.1 ) • Heart Failure: Worsening cardiac failure may occur. ( 5.2 ) • Bronchospastic Disease: Avoid beta-blockers. ( 5.3 ) • Pheochromocytoma: Initiate therapy with an alpha blocker. ( 5.4 ) • Major Surgery: Avoid initiation of high-dose extended-release metoprolol in patients undergoing non-cardiac surgery. Do not routinely withdraw chronic beta-blocker therapy prior to surgery. ( 5.5 , 6.1 ) • Diabetes: May mask symptoms of hypoglycemia. ( 5.6 ) • Thyrotoxicosis: Abrupt withdrawal in patients with thyrotoxicosis might precipitate a thyroid storm. ( 5.7 ) • Peripheral Vascular Disease: Can aggravate symptoms of arterial insufficiency. ( 5.9 ) 5.1 Abrupt Cessation of Therapy Following abrupt cessation of th…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "METOPROLOL"
+    },
+    {
+      "id": "fda-furosemide",
+      "name": "呋塞米",
+      "forms": [
+        "肌内注射"
+      ],
+      "otc": false,
+      "tags": [
+        "diuretic"
+      ],
+      "aliases": [
+        "FUROSEMIDE",
+        "水肿",
+        "利尿",
+        "心衰"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Furosemide Injection is a loop diuretic indicated for: • The treatment of edema associated with heart failure, cirrhosis of the liver, and renal disease ( 1.1 ) • Acute pulmonary edema as adjunctive therapy ( 1.2 ) 1.1 Edema Furosemide Injection is indicated in adults and pediatric patients for the treatment of edema associated with heart failure, cirrhosis of the liver, and renal disease, including the nephrotic syndrome. 1.2 Acute Pulmonary Edema Furosemide Injection is indicated as adjunctive therapy in acute pulmonary edema.",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Edema : • Initial dose is 20 mg to 40 mg once given intramuscularly or intravenously. The intravenous dose should be administered slowly over 1 minute to 2 minutes ( 2.2 ) • If needed, a second dose may be administered 2 hours after the first dose ( 2.2 ) Acute Pulmonary Edema : • Initial dose is 40 mg injected slowly intravenously over 1 minute to 2 minutes ( 2.2 ) • If needed, a second dose is 80 mg injected intravenously slowly in 1 minute to 2 minutes ( 2.2 ) Pediatric Dosage : • The initial dose in pediatric patients is 1 mg/kg body weight once given slowly intramuscularly or intravenously. If needed, dosage may be increased by 1 mg/kg not sooner than 2 hours after the previous dose, until the desired diuretic effect has been obtained. Doses greater than 6…",
+      "contraindications": "4 CONTRAINDICATIONS • Furosemide Injection is contraindicated in patients with anuria. • Furosemide Injection is contraindicated in patients with a history of hypersensitivity to furosemide. • Anuria ( 4 ) • Hypersensitivity to furosemide ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following adverse reactions are described elsewhere in the labeling: • Fluid, Electrolyte, and Metabolic Abnormalities [see Warnings and Precautions ( 5.1 )] • Ototoxicity [see Warnings and Precautions ( 5.3 )] The following adverse reactions associated with the use of furosemide were identified in clinical studies or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug exposure. Adverse reactions are categorized below by organ system and listed by decreasing severity. Gastrointestinal System Reactions: pancreatitis, jaundice (intrahepatic cholestatic jaundice), increased liver enzymes, anorexia, o…",
+      "interactions": "7 DRUG INTERACTIONS • Aminoglycoside antibiotics : Increased potential ototoxicity of the antibiotics. Avoid combination ( 7.1 ) • Ethacrynic acid : Risk of ototoxicity. Avoid combination ( 7.1 ) • Salicylates : Risk of salicylate toxicity ( 7.1 ) • Cisplatin and nephrotoxic drugs : Risk of ototoxicity and nephrotoxicity ( 7.1 ) • Lithium : Risk of lithium toxicity ( 7.1 ) • Renin-angiotensin inhibitors : Increased risk of hypotension and renal failure. ( 7.1 ) • Adrenergic blocking drugs: Risk of potentiation ( 7.1 ) • Drugs undergoing renal tubular secretion: Risk of toxicity potentiation ( 7.1 ) 7.1 Effects of Furosemide on Other Drugs Drug/Substance Class or Name Drug Interaction Effect Recommendations Aminoglycoside antibiotics Furosemide may increase the ototoxic potential of aminogl…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS • Fluid, Electrolyte, and Metabolic Abnormalities : Monitor serum electrolytes, CO 2 , BUN, creatinine, glucose, and uric acid ( 5.1 ) • Worsening Renal Function : Monitor for dehydration and azotemia. ( 5.2 ) • Ototoxicity: Avoid rapid injection and higher than recommended doses. ( 5.3 , 7.1 ) • Acute Urinary Retention : Monitor patients with symptoms of urinary retention. ( 5.4 ) 5.1 Fluid, Electrolyte, and Metabolic Abnormalities Furosemide may cause fluid, electrolyte, and metabolic abnormalities such as hypovolemia, hypokalemia, azotemia, hyponatremia, hypochloremic alkalosis, hypomagnesemia, hypocalcemia, hyperglycemia, or hyperuricemia, particularly in patients receiving higher doses, patients with inadequate oral electrolyte intake, and in elderly patient…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "FUROSEMIDE"
+    },
+    {
+      "id": "fda-spironolactone",
+      "name": "螺内酯",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "diuretic",
+        "potassium-sparing"
+      ],
+      "aliases": [
+        "SPIRONOLACTONE",
+        "水肿",
+        "利尿",
+        "醛固酮"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Spironolactone is an aldosterone antagonist indicated for: The treatment of NYHA Class III-IV heart failure and reduced ejection fraction to increase survival, manage edema, and to reduce the need for hospitalization for heart failure ( 1.1 ). Use as an add-on therapy for the treatment of hypertension, to lower blood pressure. Lowering blood pressure reduces the risk of fatal and nonfatal cardiovascular events, primarily strokes and myocardial infarctions ( 1.2 ). The management of edema in adult patients who are cirrhotic when edema is not responsive to fluid and sodium restrictions and in the setting of nephrotic syndrome when treatment of the underlying disease, restriction of fluid and sodium intake, and the use of other diuretics produce an inadequate response…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Heart Failure: Initiate treatment at 25 mg once daily ( 2.2 ). Hypertension: Initiate treatment at 25 to 100 mg daily in either single or divided doses ( 2.3 ). Edema: Initiate therapy in a hospital setting and titrate slowly. The recommended initial daily dose is 100 mg in single or divided doses ( 2.4 ). Primary hyperaldosteronism: Initiate treatment at 100 to 400 mg in preparation for surgery. In patients unsuitable for surgery use the lowest effective dosage determined for the individual patient ( 2.5 ). 2.1 General Considerations Spironolactone can be taken with or without food, but should be taken consistently with respect to food [see Clinical Pharmacology (12.3) ] . 2.2 Treatment of Heart Failure In patients with serum potassium ≤5.0 mEq/L and eGFR >50 m…",
+      "contraindications": "4 CONTRAINDICATIONS Spironolactone is contraindicated in the patients with: Hyperkalemia Addison’s disease Concomitant use of eplerenone Spironolactone is contraindicated in patients with ( 4 ): Hyperkalemia Addison’s disease Concomitant use of eplerenone",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: Hyperkalemia [see Warnings and Precautions (5.1) ] Hypotension and Worsening Renal Function [see Warnings and Precautions (5.2) ] Electrolyte and Metabolic Abnormalities [see Warnings and Precautions (5.3) ] Gynecomastia [see Warnings and Precautions (5.4) ] Impaired neurological function/ coma in patients with hepatic impairment, cirrhosis and ascites [see Use in Specific Populations (8.7) ] The following adverse reactions associated with the use of spironolactone were identified in clinical trials or postmarketing reports. Because these reactions were reported voluntarily from a population of uncertain size, it is not always possible to estimate their frequency, reliably, o…",
+      "interactions": "7 DRUG INTERACTIONS Agents increasing serum potassium: Concomitant administration can lead to hyperkalemia ( 5.1 , 7.1 ). Lithium: Increased risk of lithium toxicity ( 7.2 ). NSAIDs: May reduce the diuretic, natriuretic and antihypertensive effect of spironolactone ( 7.3 ). Digoxin: spironolactone can interfere with radioimmunologic assays of digoxin exposure ( 7.4) . Cholestyramine: Hyperkalemic metabolic acidosis has been reported with concomitant use ( 7.5 ). Acetylsalicylic Acid (ASA): ASA may reduce the efficacy of spironolactone ( 7.6 ) Abiraterone: May increase prostate-specific antigen (PSA) levels ( 7.7 ). Mitotane: Avoid concomitant use of spironolactone and mitotane ( 7.8 ). 7.1 Drugs and Supplements Increasing Serum Potassium Concomitant administration of spironolactone with po…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Hyperkalemia: Monitor serum potassium within one week of initiation and regularly thereafter ( 5.1 ). Hypotension and Worsening Renal Function: Monitor volume status and renal function periodically ( 5.2 ). Electrolyte and Metabolic Abnormalities: Monitor serum electrolytes, uric acid and blood glucose periodically ( 5.3 ). Gynecomastia: Spironolactone can cause gynecomastia ( 5.4 ). 5.1 Hyperkalemia Spironolactone can cause hyperkalemia. This risk is increased by impaired renal function or concomitant potassium supplementation, potassium-containing salt substitutes or drugs that increase potassium, such as angiotensin converting enzyme inhibitors and angiotensin receptor blockers [see Drug Interactions (7.1) ] . Monitor serum potassium within 1 week of initiatio…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "SPIRONOLACTONE"
+    },
+    {
+      "id": "fda-clopidogrel",
+      "name": "氯吡格雷",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antiplatelet"
+      ],
+      "aliases": [
+        "CLOPIDOGREL",
+        "抗血小板",
+        "支架",
+        "波立维"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Clopidogrel tablets are a P2Y 12 platelet inhibitor indicated for: Acute coronary syndrome – For patients with non–ST-segment elevation ACS (unstable angina [UA]/non–ST-elevation myocardial infarction [NSTEMI]), clopidogrel tablets have been shown to reduce the rate of myocardial infarction (MI) and stroke. (1.1) – For patients with ST-elevation myocardial infarction (STEMI), clopidogrel tablets have been shown to reduce the rate of MI and stroke. (1.1) Recent MI, recent stroke, or established peripheral arterial disease. Clopidogrel tablets have been shown to reduce the rate of MI and stroke. (1.2) 1.1 Acute Coronary Syndrome (ACS) Clopidogrel tablets are indicated to reduce the rate of myocardial infarction (MI) and stroke in patients with non–ST-segment elevation…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Acute coronary syndrome ( 2.1 ) – Initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. – Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days. Recent MI, recent stroke, or established peripheral arterial disease: 75 mg once daily orally without a loading dose. ( 2.2 ) 2.1 Acute Coronary Syndrome In patients who need an antiplatelet effect within hours, initiate clopidogrel tablets with a single 300 mg oral loading dose and then continue at 75 mg once daily. Initiating clopidogrel tablets without a loading dose will delay establishment of an antiplatelet effect by several days [see Clinical Pharmacology (12.3) and Clinical Studies (14.1) ] . 2…",
+      "contraindications": "4 CONTRAINDICATIONS Active pathological bleeding, such as peptic ulcer or intracranial hemorrhage (4.1) Hypersensitivity to clopidogrel or any component of the product (4.2) 4.1 Active Bleeding Clopidogrel tablets are contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage. 4.2 Hypersensitivity Clopidogrel tablets are contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to clopidogrel or any component of the product [see Adverse Reactions (6.2) ] .",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are discussed below and elsewhere in the labeling: Bleeding [see Warnings and Precautions (5.2) ] Thrombotic thrombocytopenic purpura [see Warnings and Precautions (5.4) ] Bleeding, including life-threatening and fatal bleeding, is the most commonly reported adverse reaction. (6.1) To report SUSPECTED ADVERSE REACTIONS, contact Aurobindo Pharma USA, Inc. at 1-866-850-2876 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions and durations of follow-up, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in pr…",
+      "interactions": "7 DRUG INTERACTIONS CYP2C19 inducers: Increases levels of clopidogrel active metabolite and increases platelet inhibition. ( 7.1 ) Opioids: Decreased exposure to clopidogrel. Consider use of parenteral antiplatelet agent. ( 7.3 ) Nonsteroidal anti-inflammatory drugs (NSAIDs), warfarin, selective serotonin and serotonin norepinephrine reuptake inhibitors (SSRIs, SNRIs): Increases risk of bleeding. ( 7.4 , 7.5 , 7.6 ) Other Antiplatelet Agents: Increases the risk of bleeding due to an additive effect. ( 7.7 ) Repaglinide (CYP2C8 substrates): Increases substrate plasma concentrations. ( 7.8 ) 7.1 CYP2C19 Inducers Since clopidogrel is metabolized to its active metabolite partly by CYP2C19, use of drugs that induce the activity of this enzyme would be expected to result in increased drug levels…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS CYP2C19 inhibitors: Avoid concomitant use of omeprazole or esomeprazole. (5.1) Bleeding: Clopidogrel increases risk of bleeding. (5.2) Discontinuation: Premature discontinuation increases risk of cardiovascular events. Discontinue 5 days prior to elective surgery that has a major risk of bleeding. ( 5.3 ) Thrombotic thrombocytopenic purpura (TTP) has been reported. ( 5.4 ) Cross-reactivity among thienopyridines has been reported. ( 5.5 ) 5.1 Diminished Antiplatelet Activity in Patients with Impaired CYP2C19 Function Clopidogrel is a prodrug. Inhibition of platelet aggregation by clopidogrel is achieved through an active metabolite. The metabolism of clopidogrel to its active metabolite can be impaired by genetic variations in CYP2C19 [see Boxed Warning ] . The me…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "CLOPIDOGREL"
+    },
+    {
+      "id": "fda-rivaroxaban",
+      "name": "利伐沙班",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "anticoagulant"
+      ],
+      "aliases": [
+        "RIVAROXABAN",
+        "抗凝",
+        "血栓",
+        "房颤"
+      ],
+      "indications": "1 INDICATIONS AND USAGE XARELTO is a factor Xa inhibitor indicated: to reduce risk of stroke and systemic embolism in nonvalvular atrial fibrillation ( 1.1 ) for treatment of deep vein thrombosis (DVT) ( 1.2 ) for treatment of pulmonary embolism (PE) ( 1.3 ) for reduction in the risk of recurrence of DVT or PE ( 1.4 ) for the prophylaxis of DVT, which may lead to PE in patients undergoing knee or hip replacement surgery ( 1.5 ) for prophylaxis of venous thromboembolism (VTE) in acutely ill medical patients ( 1.6 ) to reduce the risk of major cardiovascular events in patients with coronary artery disease (CAD) ( 1.7 ) to reduce the risk of major thrombotic vascular events in patients with peripheral artery disease (PAD), including patients after recent lower extremity revascularization due…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Nonvalvular Atrial Fibrillation : 15 or 20 mg, once daily with food ( 2.1 ) Treatment of DVT and/or PE : 15 mg orally twice daily with food for the first 21 days followed by 20 mg orally once daily with food for the remaining treatment ( 2.1 ) Reduction in the Risk of Recurrence of DVT and/or PE in patients at continued risk for DVT and/or PE : 10 mg once daily with or without food, after at least 6 months of standard anticoagulant treatment ( 2.1 ) Prophylaxis of DVT Following Hip or Knee Replacement Surgery : 10 mg orally once daily with or without food ( 2.1 ) Prophylaxis of VTE in Acutely Ill Medical Patients at Risk for Thromboembolic Complications Not at High Risk of Bleeding : 10 mg once daily, with or without food, in hospital and after hospital discharg…",
+      "contraindications": "4 CONTRAINDICATIONS XARELTO is contraindicated in patients with: active pathological bleeding [see Warnings and Precautions (5.2) ] severe hypersensitivity reaction to XARELTO (e.g., anaphylactic reactions) [see Adverse Reactions (6.2) ] Active pathological bleeding ( 4 ) Severe hypersensitivity reaction to XARELTO ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following clinically significant adverse reactions are also discussed in other sections of the labeling: Increased Risk of Stroke After Discontinuation in Nonvalvular Atrial Fibrillation [see Boxed Warning and Warnings and Precautions (5.1) ] Bleeding Risk [see Warnings and Precautions (5.2 , 5.4 , 5.5 , 5.6 , 5.7) ] Spinal/Epidural Hematoma [see Boxed Warning and Warnings and Precautions (5.3) ] The most common adverse reaction (>5%) in adult patients was bleeding ( 6.1 ) The most common adverse reactions (>10%) in pediatric patients were bleeding, cough, vomiting, and gastroenteritis ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Janssen Pharmaceuticals, Inc. at 1-800-526-7736 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience…",
+      "interactions": "7 DRUG INTERACTIONS Avoid combined P-gp and strong CYP3A inhibitors and inducers ( 7.2 , 7.3 ) Anticoagulants: Avoid concomitant use ( 7.4 ) 7.1 General Inhibition and Induction Properties Rivaroxaban is a substrate of CYP3A4/5, CYP2J2, and the P-gp and ATP-binding cassette G2 (ABCG2) transporters, the latter also known as breast cancer resistance protein (BCRP). Combined P-gp and strong CYP3A inhibitors increase exposure to rivaroxaban and may increase the risk of bleeding. Combined P-gp and strong CYP3A inducers decrease exposure to rivaroxaban and may increase the risk of thromboembolic events. 7.2 Drugs that Inhibit Cytochrome P450 3A Enzymes and Drug Transport Systems Interaction with Combined P-gp and Strong CYP3A Inhibitors Avoid concomitant administration of XARELTO with known comb…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Risk of bleeding: XARELTO can cause serious and fatal bleeding ( 5.2 ) Pregnancy-related hemorrhage: Use XARELTO with caution in pregnant women due to the potential for obstetric hemorrhage and/or emergent delivery ( 5.7 , 8.1 ) Prosthetic heart valves: XARELTO use not recommended ( 5.8 ) Increased Risk of Thrombosis in Patients with Triple Positive Antiphospholipid Syndrome: XARELTO use not recommended ( 5.10 ) 5.1 Increased Risk of Thrombotic Events after Premature Discontinuation Premature discontinuation of any oral anticoagulant, including XARELTO, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. An increased rate of stroke was observed during the transition from XARELTO to warfarin in clinical trials in atrial…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "RIVAROXABAN"
+    },
+    {
+      "id": "fda-apixaban",
+      "name": "阿哌沙班",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "anticoagulant"
+      ],
+      "aliases": [
+        "APIXABAN",
+        "抗凝",
+        "血栓",
+        "房颤"
+      ],
+      "indications": "1 INDICATIONS & USAGE Apixaban is a factor Xa inhibitor indicated: to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation. ( 1.1 ) for the prophylaxis of deep vein thrombosis (DVT), which may lead to pulmonary embolism (PE), in patients who have undergone hip or knee replacement surgery. ( 1.2 ) for the treatment of DVT and PE, and for the reduction in the risk of recurrent DVT and PE following initial therapy. ( 1.3 , 1.4 , 1.5 ) 1.1 Reduction of Risk of Stroke and Systemic Embolism in Nonvalvular Atrial Fibrillation Apixaban tablets are indicated to reduce the risk of stroke and systemic embolism in patients with nonvalvular atrial fibrillation. 1.2 Prophylaxis of Deep Vein Thrombosis Following Hip or Knee Replacement Surgery Apixaban tablets…",
+      "adult_dosage": "2 DOSAGE & ADMINISTRATION Reduction of risk of stroke and systemic embolism in nonvalvular atrial fibrillation: The recommended dose is 5 mg orally twice daily. ( 2.1 ) In patients with at least 2 of the following characteristics: age greater than or equal to 80 years, body weight less than or equal to 60 kg, or serum creatinine greater than or equal to 1.5 mg/dL, the recommended dose is 2.5 mg orally twice daily. ( 2.1 ) Prophylaxis of DVT following hip or knee replacement surgery: The recommended dose is 2.5 mg orally twice daily. ( 2.1 ) Treatment of DVT and PE: The recommended dose is 10 mg taken orally twice daily for 7 days, followed by 5 mg taken orally twice daily. ( 2.1 ) Reduction in the risk of recurrent DVT and PE following initial therapy: The recommended dose is 2.5 mg taken…",
+      "contraindications": "4 CONTRAINDICATIONS Apixaban tablets are contraindicated in patients with the following conditions: • Active pathological bleeding [see Warnings and Precautions ( 5.2 ) and Adverse Reactions( 6.1) ] • Severe hypersensitivity reaction to apixaban (e.g., anaphylactic reactions) [see Adverse Reactions ( 6.1 )] Active pathological bleeding ( 4 ) Severe hypersensitivity to apixaban ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following clinically significant adverse reactions are discussed in greater detail in other sections of the prescribing information. • Increased risk of thrombotic events after premature discontinuation [see Warnings and Precautions ( 5.1 )] • Bleeding [see Warnings and Precautions ( 5.2 )] • Spinal/epidural anesthesia or puncture [see Warnings and Precautions ( 5.3 )] Most common adverse reactions (>1%) are related to bleeding. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Indoco Remedies Limited at +1-855-642-2594 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared…",
+      "interactions": "7 DRUG INTERACTIONS Apixaban is a substrate of both CYP3A4 and P-gp. Inhibitors of CYP3A4 and P-gp increase exposure to apixaban and increase the risk of bleeding. Inducers of CYP3A4 and P-gp decrease exposure to apixaban and increase the risk of stroke and other thromboembolic events. Combined P-gp and strong CYP3A4 inhibitors increase blood levels of apixaban. Reduce apixaban dose or avoid coadministration. ( 2.5 , 7.1 , 12.3 ) Simultaneous use of combined P-gp and strong CYP3A4 inducers reduces blood levels of apixaban: Avoid concomitant use. ( 7.2 , 12.3 ) 7.1 Combined P-gp Strong CYP3A4 Inhibitors For patients receiving apixaban 5 mg or 10 mg twice daily, the dose of apixaban should be decreased by 50% when coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Apixaban can cause serious, potentially fatal, bleeding. Promptly evaluate signs and symptoms of blood loss. An agent to reverse the anti-factor Xa activity of apixaban is available ( 5.2 ) Prosthetic heart valves: Apixaban use not recommended. ( 5.4 ) Increased Risk of Thrombosis in Patients with Triple Positive Antiphospholid Syndrome: Apixaban Tablets are use not recommended. ( 5.6 ) 5.1 Increased Risk of Thrombotic Events after Premature Discontinuation Premature discontinuation of any oral anticoagulant, including apixaban tablets, in the absence of adequate alternative anticoagulation increases the risk of thrombotic events. An increased rate of stroke was observed during the transition from apixaban tablets to warfarin in clinical trials in atrial fibrilla…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "APIXABAN"
+    },
+    {
+      "id": "fda-digoxin",
+      "name": "地高辛",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "cardiac-glycoside"
+      ],
+      "aliases": [
+        "DIGOXIN",
+        "心衰",
+        "房颤",
+        "强心"
+      ],
+      "indications": "1 INDICATIONS & USAGE Digoxin is a cardiac glycoside indicated for: Treatment of mild to moderate heart failure in adults. ( 1.1 ) Increasing myocardial contractility in pediatric patients with heart failure. ( 1.2 ) Control of resting ventricular rate in patients with chronic atrial fibrillation in adults. ( 1.3 ) 1.1 Heart Failure in Adults Digoxin is indicated for the treatment of mild to moderate heart failure in adults. Digoxin increases left ventricular ejection fraction and improves heart failure symptoms as evidenced by improved exercise capacity and decreased heart failure-related hospitalizations and emergency care, while having no effect on mortality. Where possible, digoxin should be used in combination with a diuretic and an angiotensin-converting enzyme (ACE) inhibitor. 1.2 H…",
+      "adult_dosage": "2 DOSAGE & ADMINISTRATION Digoxin dose is based on patient-specific factors (age, lean body weight, renal function, etc.). See full prescribing information. Monitor for toxicity and therapeutic effect. 2.1 Important Dosing and Administration Information In selecting a digoxin dosing regimen, it is important to consider factors that affect digoxin blood levels (e.g., body weight, age, renal function, concomitant drugs) since toxic levels of digoxin are only slightly higher than therapeutic levels. Dosing can be either initiated with a loading dose followed by maintenance dosing if rapid titration is desired or initiated with maintenance dosing without a loading dose. Consider interruption or reduction in digoxin dose prior to electrical cardioversion [see Warnings and Precautions (5.4) ] .…",
+      "contraindications": "4 CONTRAINDICATIONS Digoxin is contraindicated in patients with: Ventricular fibrillation [see Warnings and Precautions (5.1)] Known hypersensitivity to digoxin (reactions seen include unexplained rash, swelling of the mouth, lips or throat or a difficulty in breathing). A hypersensitivity reaction to other digitalis preparations usually constitutes a contraindication to digoxin. Ventricular fibrillation. ( 4 ) Known hypersensitivity to digoxin or other forms of digitalis. ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following adverse reactions are included in more detail in the Warnings and Precautions section of the label: Cardiac arrhythmias [see Warnings and Precautions (5.1 , 5.2 )] Digoxin Toxicity [see Warnings and Precautions (5.3) ] The overall incidence of adverse reactions with digoxin has been reported as 5-20%, with 15-20% of adverse events considered serious. Cardiac toxicity accounts for about one-half, gastrointestinal disturbances for about one-fourth, and CNS and other toxicity for about one-fourth of these adverse events. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Oliva Therapeutics at 1-877-200-6088 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions…",
+      "interactions": "7 DRUG INTERACTIONS Digoxin has a narrow therapeutic index, increased monitoring of serum digoxin concentrations and for potential signs and symptoms of clinical toxicity is necessary when initiating, adjusting, or discontinuing drugs that may interact with digoxin. Prescribers should consult the prescribing information of any drug which is co-prescribed with digoxin for potential drug interaction information. PGP Inducers/Inhibitors: Drugs that induce or inhibit PGP have the potential to alter digoxin pharmacokinetics. ( 7.1 ) The potential for drug-drug interactions must be considered prior to and during drug therapy. See full prescribing information. ( 7.2 , 7.3 , 12.3 ) 7.1 P-Glycoprotein (PGP) Inducers/Inhibitors Digoxin is a substrate of P-glycoprotein, at the level of intestinal abs…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Risk of rapid ventricular response leading to ventricular fibrillation in patients with AV accessory pathway. ( 5.1 ) Risk of advanced or complete heart block in patients with sinus node disease and AV block. ( 5.2 ) Digoxin toxicity: Indicated by nausea, vomiting, visual disturbances, and cardiac arrhythmias. Advanced age, low body weight, impaired renal function and electrolyte abnormalities predispose to toxicity. ( 5.3 ) Risk of ventricular arrhythmias during electrical cardioversion. ( 5.4 ) Not recommended in patients with acute myocardial infarction. ( 5.5 ) Avoid digoxin in patients with myocarditis. ( 5.6 ) 5.1 Ventricular Fibrillation in Patients With Accessory AV Pathway (Wolff-Parkinson- White Syndrome) Patients with Wolff-Parkinson-White syndrome who…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "DIGOXIN"
+    },
+    {
+      "id": "fda-amiodarone",
+      "name": "胺碘酮",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antiarrhythmic"
+      ],
+      "aliases": [
+        "AMIODARONE",
+        "心律失常",
+        "房颤",
+        "早搏"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Pacerone is indicated for the treatment of documented, life-threatening recurrent ventricular fibrillation and life-threatening recurrent hemodynamically unstable tachycardia in adults who have not responded to adequate doses of other available antiarrhythmics or when alternative agents cannot be tolerated. Pacerone is an antiarrhythmic indicated for: Recurrent ventricular fibrillation. ( 1 ) Recurrent hemodynamically unstable ventricular tachycardia. ( 1 )",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Dosage must be individualized based on severity of arrhythmia and response. Use the lowest effective dose. Obtain baseline chest x-ray, pulmonary function tests, thyroid function tests, and liver aminotransferases. Correct hypokalemia, hypomagnesemia, and hypocalcemia before initiating treatment. Initiate treatment with a loading dose of 800 to 1600 mg/day until initial therapeutic response occurs (usually 1 to 3 weeks). Once adequate arrhythmia control is achieved, or if side effects become prominent, reduce Pacerone tablets dose to 600 to 800 mg/day for one month and then to the maintenance dose, usually 400 mg/day. ( 2 ) Recommended Dosage: Initiate treatment with a loading dose of 800 to 1600 mg/day until initial therapeutic response occurs (usually 1 to 3 w…",
+      "contraindications": "4 CONTRAINDICATIONS Cardiogenic shock. Sick sinus syndrome, second- or third-degree atrioventricular block, bradycardia leading to syncope without a functioning pacemaker. Known hypersensitivity to the drug or to any of its components, including iodine. Pacerone is contraindicated in patients with ( 4 ): Cardiogenic shock. Sick sinus syndrome, second- or third-degree AV block, bradycardia leading to syncope without a functioning pacemaker. Known hypersensitivity to the drug or any of its components.",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are described in more detail in other sections of the prescribing information: Pulmonary Toxicity [see Warnings and Precautions (5.2) ] Hepatic Injury [see Warnings and Precautions (5.3) ] Worsened Arrhythmia [see Warnings and Precautions (5.4) ] Visual Impairment and Loss of Vision [see Warnings and Precautions (5.5) ] Thyroid Abnormalities [see Warnings and Precautions (5.6) ] Bradycardia [see Warnings and Precautions (5.7) ] Peripheral Neuropathy [see Warnings and Precautions (5.10) ] Photosensitivity and Skin Discoloration [see Warnings and Precautions (5.11) ] The most common reactions (>1%) leading to discontinuation of amiodarone include pulmonary toxicity, paroxysmal ventricular tachycardia, congestive heart failure, and e…",
+      "interactions": "7 DRUG INTERACTIONS Because of amiodarone's long half-life, expect drug interactions to persist for weeks to months after discontinuation of amiodarone. Drug interactions with amiodarone are described in Table 1 below. Table 1: Amiodarone Drug Interactions Concomitant Drug Class/Name Examples Clinical Comment Pharmacodynamic Interactions QT Prolonging Drugs class I and III antiarrhythmics, lithium, certain phenothiazines, tricyclic antidepressants, certain fluoroquinolone and macrolide antibiotics, azole antifungals, halogenated inhalation anesthetic agents Increased risk of Torsade de Pointes. Avoid concomitant use. Negative Chronotropes digoxin, beta blockers, verapamil, diltiazem, clonidine, ivabradine Potentiates the electrophysiologic and hemodynamic effects of amiodarone, resulting i…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Persistence of Adverse Effects: Adverse reactions and drug interaction can persist for several weeks following discontinuation. ( 5.1 ) Impaired Vision: Corneal microdeposits (common; reversible), optic neuropathy/neuritis (rare; may lead to blindness). ( 5.5 ) Thyroid Abnormalities: Hyperthyroidism or hypothyroidism. ( 5.6 ) 5.1 Persistence of Adverse Effects Because of the long half-life of amiodarone (15 to 142 days) and its active metabolite desethylamiodarone (14 to 75 days), adverse reactions and drug interactions can persist for several weeks following amiodarone discontinuation [see Clinical Pharmacology (12.3) ] . 5.2 Pulmonary Toxicity Pacerone may cause a clinical syndrome of cough and progressive dyspnea accompanied by functional, radiographic, galliu…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "AMIODARONE"
+    },
+    {
+      "id": "fda-sertraline",
+      "name": "舍曲林",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antidepressant",
+        "ssri"
+      ],
+      "aliases": [
+        "SERTRALINE",
+        "抑郁",
+        "抗抑郁",
+        "焦虑"
+      ],
+      "indications": "INDICATIONS AND USAGE Major Depressive Disorder – Sertraline hydrochloride is indicated for the treatment of major depressive disorder in adults. The efficacy of Sertraline hydrochloride in the treatment of a major depressive episode was established in six to eight week controlled trials of adult outpatients whose diagnoses corresponded most closely to the DSM-III category of major depressive disorder (see Clinical Trials under CLINICAL PHARMACOLOGY ). A major depressive episode implies a prominent and relatively persistent depressed or dysphoric mood that usually interferes with daily functioning (nearly every day for at least 2 weeks); it should include at least 4 of the following 8 symptoms: change in appetite, change in sleep, psychomotor agitation or retardation, loss of interest in u…",
+      "adult_dosage": "DOSAGE AND ADMINISTRATION Initial Treatment Dosage for Adults Major Depressive Disorder –Sertraline hydrochloride treatment should be administered at a dose of 50 mg once daily. While a relationship between dose and effect has not been established for major depressive disorder, OCD, panic disorder, PTSD or social anxiety disorder, patients were dosed in a range of 50-200 mg/day in the clinical trials demonstrating the effectiveness of Sertraline hydrochloride for the treatment of this indication. Consequently, a dose of 50 mg, administered once daily, is recommended as the initial therapeutic dose. Patients not responding to a 50 mg dose may benefit from dose increases up to a maximum of 200 mg/day. Given the 24 hour elimination half-life of sertraline hydrochloride, dose changes should no…",
+      "contraindications": "CONTRAINDICATIONS All Dosage Forms of Sertraline: The use of MAOIs intended to treat psychiatric disorders with Sertraline hydrochloride or within 14 days of stopping treatment with Sertraline hydrochloride is contraindicated because of an because of an increased risk if serotonin syndrome. The use of Sertraline hydrochloride within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated (see WARNINGS and DOSAGE AND ADMINISTRATION ). Starting Sertraline hydrochloride in a patient who is being treated with MAOIs such as linezolid or intravenous methyelene blue is also contraindicated because of an increased risk of serotonin syndrome (see WARNINGS and DOSAGE AND ADMINISTRATION). Concomitant use in patients taking pimozide is contraindicated (see PRECAUTIO…",
+      "adverse_reactions": "ADVERSE REACTIONS During its premarketing assessment, multiple doses of sertraline hydrochloride were administered to over 4000 adult subjects as of February 18, 2000. The conditions and duration of exposure to sertraline hydrochloride varied greatly, and included (in overlapping categories) clinical pharmacology studies, open and double-blind studies, uncontrolled and controlled studies, inpatient and outpatient studies, fixed-dose and titration studies, and studies for multiple indications, including major depressive disorder and PMDD. Untoward events associated with this exposure were recorded by clinical investigators using terminology of their own choosing. Consequently, it is not possible to provide a meaningful estimate of the proportion of individuals experiencing adverse events wi…",
+      "interactions": "Drug Interactions Potential Effects of Coadministration of Drugs Highly Bound to Plasma Proteins –Because sertraline is tightly bound to plasma protein, the administration of sertraline hydrochloride to a patient taking another drug which is tightly bound to protein (e.g., warfarin, digitoxin) may cause a shift in plasma concentrations potentially resulting in an adverse effect. Conversely, adverse effects may result from displacement of protein bound sertraline hydrochloride by other tightly bound drugs. In a study comparing prothrombin time AUC (0-120 hr) following dosing with warfarin (0.75 mg/kg) before and after 21 days of dosing with either sertraline hydrochloride (50-200 mg/day) or placebo, there was a mean increase in prothrombin time of 8% relative to baseline for sertraline hydr…",
+      "duration": "",
+      "stop_signs": "BOXED WARNING Suicidality and Antidepressant Drugs Antidepressants increased the risk compared to placebo of suicidal thinking and behavior (suicidality) in children, adolescents, and young adults in short-term studies of major depressive disorder (MDD) and other psychiatric disorders. Anyone considering the use of Sertraline hydrochloride or any other antidepressant in a child, adolescent, or young adult must balance this risk with the clinical need. Short-term studies did not show an increase in the risk of suicidality with antidepressants compared to placebo in adults beyond age 24; there was a reduction in risk with antidepressants compared to placebo in adults aged 65 and older. Depression and certain other psychiatric disorders are themselves associated with increases in the risk of…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "SERTRALINE"
+    },
+    {
+      "id": "fda-escitalopram",
+      "name": "艾司西酞普兰",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antidepressant",
+        "ssri"
+      ],
+      "aliases": [
+        "ESCITALOPRAM",
+        "抑郁",
+        "抗抑郁",
+        "焦虑"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Escitalopram is indicated for the treatment of: major depressive disorder (MDD) in adults and pediatric patients 12 years of age and older. generalized anxiety disorder (GAD) in adults. Additional pediatric use information is approved for AbbVie Inc.’s Lexapro (escitalopram) tablets and LEXAPRO (escitalopram) oral solution. However, due to AbbVie Inc.’s marketing exclusivity rights, this drug product is not labeled with that information. Escitalopram is a selective serotonin reuptake inhibitor (SSRI) indicated for the: treatment of major depressive disorder (MDD) in adults and pediatric patients 12 years of age and older ( 1 ) treatment of generalized anxiety disorder (GAD) in adults ( 1 )",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Indication and Population Recommended Dosage MDD in Adults ( 2.1 ) Initial: 10 mg once daily Recommended: 10 mg once daily Maximum: 20 mg once daily MDD in Pediatric Patients 12 years and older ( 2.1 ) Initial: 10 mg once daily Recommended: 10 mg once daily Maximum: 20 mg once daily GAD in Adults ( 2.2 ) Initial: 10 mg once daily Recommended: 10 mg once daily Maximum: 20 mg once daily No additional benefits were seen at 20 mg once daily ( 2.1 ) Administer once daily, morning or evening, with or without food ( 2.3 ) Elderly patients: recommended dosage is 10 mg once daily ( 2.4 ) Hepatic impairment: recommended dosage is 10 mg once daily ( 2.4 , 8.6 ) When discontinuing escitalopram, reduce dose gradually whenever possible ( 2.5 ) 2.1 Major Depressive Disorder Ad…",
+      "contraindications": "4 CONTRAINDICATIONS Escitalopram is contraindicated in patients: taking MAOIs with escitalopram or within 14 days of stopping treatment with escitalopram because of an increased risk of serotonin syndrome. The use of escitalopram within 14 days of stopping an MAOI intended to treat psychiatric disorders is also contraindicated [ see Dosage and Administration (2.7) and Warnings and Precautions (5.2) ]. Starting escitalopram in a patient who is being treated with MAOIs such as linezolid or intravenous methylene blue is also contraindicated because of an increased risk of serotonin syndrome [ see Dosage and Administration (2.6) and Warnings and Precautions (5.2) ]. taking pimozide [ see Drug Interactions (7) ] with a hypersensitivity to escitalopram or citalopram or any of the inactive ingred…",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following adverse reactions are discussed in greater detail in other sections of the labeling: Suicidal thoughts and behaviors in adolescents and young adults [ see Warnings and Precautions (5.1) ] Serotonin syndrome [ see Warnings and Precautions(5.2) ] Discontinuation syndrome [ see Warnings and Precautions(5.3) ] Seizures [ see Warnings and Precautions (5.4) ] Activation of mania or hypomania [ see Warnings and Precautions (5.5) ] Hyponatremia [ see Warnings and Precautions (5.6) ] Increased Risk of Bleeding [ see Warnings and Precautions (5.7) ] Interference with Cognitive and Motor Performance [ see Warnings and Precautions (5.8) ] Angle-closure glaucoma [ see Warnings and Precautions (5.9) ] Use in Patients with Concomitant Illness [ see Warnings and Precautio…",
+      "interactions": "7 DRUG INTERACTIONS Table 6 presents clinically important drug interactions with escitalopram. TABLE 6 Clinically Important Drug Interactions with Escitalopram Monoamine Oxidase Inhibitors (MAOIs) Clinical Impact: Concomitant use of SSRIs, including escitalopram, and MAOIs increases the risk of serotonin syndrome. Intervention: Escitalopram is contraindicated in patients taking MAOIs, including MAOIs such as linezolid or intravenous methylene blue [ see Dosage and Administration (2.7) , Contraindications (4) , and Warnings and Precautions (5.2) ] Pimozide Clinical Impact: Concomitant use of racemic citalopram with pimozide increases plasma concentrations of pimozide, a drug with a narrow therapeutic index, and may increase the risk of QT prolongation and/or ventricular arrhythmias compared…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Serotonin Syndrome: Increased risk when co-administered with other serotonergic agents, but also when taken alone. If it occurs, discontinue escitalopram and serotonergic agents and initiate supportive treatment ( 4 , 5.2 ) Discontinuation syndrome: When discontinuing escitalopram, reduce dosage gradually whenever possible, and monitor for discontinuation symptoms ( 5.3 ) Seizures: Use with caution in patients with a history of seizure ( 5.4 ) Activation of Mania/Hypomania: Screen patients for bipolar disorder ( 5.5 ) Hyponatremia: Can occur in association with syndrome of inappropriate antidiuretic hormone secretion ( 5.6 ) Increased Risk of Bleeding: Concomitant use of nonsteroidal anti-inflammatory drugs, aspirin, other antiplatelet drugs, warfarin and other d…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "ESCITALOPRAM"
+    },
+    {
+      "id": "fda-alprazolam",
+      "name": "阿普唑仑",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "sedative",
+        "benzodiazepine"
+      ],
+      "aliases": [
+        "ALPRAZOLAM",
+        "焦虑",
+        "失眠",
+        "安定类"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Alprazolam tablets are indicated for the: acute treatment of generalized anxiety disorder (GAD) in adults. treatment of panic disorder (PD), with or without agoraphobia in adults. Alprazolam is a benzodiazepine indicated for the: Acute treatment of generalized anxiety disorder in adults. ( 1 ) Treatment of panic disorder with or without agoraphobia in adults. ( 1 )",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Generalized Anxiety Disorder : ( 2.1 ) Recommended starting oral dosage is 0.25 mg to 0.5 mg three times daily. Dosage may be increased, at intervals of every 3 to 4 days, to a maximum recommended daily dose of 4 mg, given in divided doses. Use the lowest possible effective dose and frequently assess the need for continued treatment. Panic Disorder : Recommended starting oral dosage is 0.5 mg three times daily. The dosage may be increased at intervals of every 3 to 4 days in increments of no more than 1 mg per day. ( 2.2 ) When tapering, decrease dosage by no more than 0.5 mg every 3 days. Some patients may require an even slower dosage reduction. ( 2.3 , 5.2 ) See the Full Prescribing Information for the recommended dosage in geriatric patients, patients with h…",
+      "contraindications": "4 CONTRAINDICATIONS Alprazolam tablets are contraindicated in patients: with known hypersensitivity to alprazolam or other benzodiazepines. Angioedema has been reported [see Adverse Reactions (6.2) ] . taking strong cytochrome P450 3A (CYP3A) inhibitors (e.g., ketoconazole, itraconazole), except ritonavir [see Dosage and Administration (2.6) , Warnings and Precautions (5.5) , Drug Interactions (7.1) ] Known hypersensitivity to alprazolam or other benzodiazepines. ( 4 ) Concomitant use with strong cytochrome P450 3A (CYP3A) inhibitors, except ritonavir. ( 4 , 5.5 , 7.1 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: Risks from Concomitant Use with Opioids [see Warnings and Precautions (5.1) ] Abuse, Misuse, and Addiction [see Warnings and Precautions (5.2) ] Dependence and Withdrawal Reactions [see Warnings and Precautions (5.3) ] Effects on Driving and Operating Machinery [see Warnings and Precautions (5.4) ] Patients with Depression [see Warnings and Precautions (5.6) ] Neonatal Sedation and Withdrawal Syndrome [see Warnings and Precautions (5.8) ] Risks in Patients with Impaired Respiratory Function [see Warnings and Precautions (5.9) ] The most common adverse reactions reported in clinical trials for generalized anxiety disorder and panic disorder (incidence > 5% and at least twice t…",
+      "interactions": "7 DRUG INTERACTIONS Use with Opioids: Increase the risk of respiratory depression. ( 7.1 ) Use with Other CNS Depressants: Produces additive CNS depressant effects. ( 7.1 ) Use with Digoxin: Increase the risk of digoxin toxicity. ( 7.1 ) Use with CYP3A Inhibitors (except ritonavir): Increase the risk of adverse reactions of alprazolam. ( 4 , 5.5 , 7.1 ) Use with CYP3A Inducers: Increase the risk of reduced efficacy of alprazolam. ( 7.1 ) 7.1 Drugs Having Clinically Important Interactions with Alprazolam Table 4 includes clinically significant drug interactions with alprazolam [see Clinical Pharmacology (12.3) ] . Table 4: Clinically Significant Drug Interactions with Alprazolam Opioids Clinical implication The concomitant use of benzodiazepines and opioids increases the risk of respiratory…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Effects on Driving and Operating Machinery: Patients receiving alprazolam should be cautioned against operating machinery or driving a motor vehicle, as well as avoiding concomitant use of alcohol and other central nervous system (CNS) depressant drugs. ( 5.4 ) Patients with Depression: Exercise caution in patients with signs or symptoms of depression. Prescribe the least number of tablets feasible to avoid intentional overdosage. ( 5.6 ) Neonatal Sedation and Withdrawal Syndrome: Alprazolam use during pregnancy can result in neonatal sedation and/or neonatal withdrawal. ( 5.8 , 8.1 ) 5.1 Risks from Concomitant Use with Opioids Concomitant use of benzodiazepines, including alprazolam, and opioids may result in profound sedation, respiratory depression, coma, and…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "ALPRAZOLAM"
+    },
+    {
+      "id": "fda-zolpidem",
+      "name": "唑吡坦",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "sedative",
+        "hypnotic"
+      ],
+      "aliases": [
+        "ZOLPIDEM",
+        "失眠",
+        "安眠药"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Zolpidem Tartrate Tablets is indicated for the short-term treatment of insomnia characterized by difficulties with sleep initiation. Zolpidem Tartrate Tablets has been shown to decrease sleep latency for up to 35 days in controlled clinical studies [see Clinical Studies ( 14 )]. The clinical trials performed in support of efficacy were 4–5 weeks in duration with the final formal assessments of sleep latency performed at the end of treatment. Zolpidem Tartrate Tablets, a gamma-aminobutyric acid (GABA) A receptor positive modulator, is indicated for the short-term treatment of insomnia characterized by difficulties with sleep initiation. ( 1 )",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Use the lowest dose effective for the patient and must not exceed a total of 10 mg daily ( 2.1 ) Treatment should be as short as possible ( 2.1 ) Recommended initial dose is a single dose of 5 mg for women and a single dose of 5 or 10 mg for men, immediately before bedtime with at least 7-8 hours remaining before the planned time of awakening ( 2.1 ) Geriatric patients and patients with mild to moderate hepatic impairment: Recommended dose is 5 mg for men and women ( 2.2 ) Lower doses of CNS depressants may be necessary when taken concomitantly with Zolpidem Tartrate Tablets ( 2.3 ) The effect of Zolpidem Tartrate Tablets may be slowed if taken with or immediately after a meal ( 2.4 ) 2.1 Dosage in Adults Use the lowest effective dose for the patient. The recomm…",
+      "contraindications": "4 CONTRAINDICATIONS Zolpidem Tartrate Tablets is contraindicated in patients who have experienced complex sleep behaviors after taking Zolpidem Tartrate Tablets [see Warnings and Precautions ( 5.1 )] with known hypersensitivity to zolpidem. Observed reactions include anaphylaxis and angioedema [see Warnings and Precautions ( 5.4 )] Patients who have experienced complex sleep behaviors after taking Zolpidem Tartrate Tablets ( 4 ) Known hypersensitivity to Zolpidem ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are discussed in greater detail in other sections of the labeling: Complex Sleep Behaviors [see Warnings and Precautions ( 5.1 )] CNS-depressant effects and next-day impairment [see Warnings and Precautions ( 5.2 )] Severe anaphylactic and anaphylactoid reactions [see Warnings and Precautions ( 5.4 )] Abnormal thinking and behavior changes [see Warnings and Precautions ( 5.5 )] Withdrawal effects [see Warnings and Precautions ( 5.9 )] Most commonly observed adverse reactions were: Short-term (<10 nights): Drowsiness, dizziness, and diarrhea Long-term (28-35 nights): Dizziness and drugged feelings ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact ACI Healthcare USA, Inc. at 1- 888-802-1213.or www.acihealthcareusa.com or FDA at…",
+      "interactions": "7 DRUG INTERACTIONS CNS depressants, including alcohol: Possible adverse additive CNS- depressant effects ( 5.1 , 7.1 ) Opioids: Concomitant use may increase risk of respiratory depression ( 5.7 , 7.1 ) Imipramine: Decreased alertness observed ( 7.1 ) Chlorpromazine: Impaired alertness and psychomotor performance observed ( 7.1 ) CYP3A4 inducers (rifampin or St. John's wort): Combination use may decrease effect ( 7.2 ) Ketoconazole: Combination use may increase effect ( 7.2 ) 7.1 CNS-Active Drugs CNS Depressants Coadministration of Zolpidem with other CNS depressants increases the risk of CNS depression. Concomitant use of Zolpidem with these drugs may increase drowsiness and psychomotor impairment, including impaired driving ability [see Warnings and Precautions ( 5.1 , 5.2 )]. Zolpidem T…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS CNS-Depressant Effects: Impairs alertness and motor coordination including risk of morning impairment. Risk increases with dose and use with other CNS depressants and alcohol. Caution patients against driving and other activities requiring mental alertness the morning after use. Instruct patients on correct use. ( 5.2 ) Need to Evaluate for Comorbid Diagnoses: Re-evaluate if insomnia persists after 7 to 10 days of use. ( 5.3 ) Severe Anaphylactic/Anaphylactoid Reactions: Angioedema and anaphylaxis have been reported. Do not rechallenge if such reactions occur. ( 5.4 ) Abnormal Thinking and Behavioral Changes: Changes including decreased inhibition, bizarre behavior, agitation, and depersonalization have been reported. Immediately evaluate any new onset behavioral…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "ZOLPIDEM"
+    },
+    {
+      "id": "fda-prednisone",
+      "name": "泼尼松",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "corticosteroid"
+      ],
+      "aliases": [
+        "PREDNISONE",
+        "激素",
+        "强的松",
+        "抗炎"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Prednisone delayed-release tablets are indicated in the treatment of the following diseases or conditions: Prednisone delayed-release tablets are a corticosteroid indicated as an anti-inflammatory or immunosuppressive agent for certain allergic, dermatologic, gastrointestinal, hematologic, ophthalmologic, nervous system, renal, respiratory, rheumatologic, specific infectious diseases or conditions and organ transplantation ( 1 ) for the treatment of certain endocrine conditions ( 1 ) for palliation of certain neoplastic conditions ( 1 ) 1.1 Allergic Conditions Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment in adults and pediatric populations with: Atopic dermatitis Drug hypersensitivity reactions Seas…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Individualize dosing based on disease severity and patient response. The timing of administration should take into account the delayed-release pharmacokinetics and the disease or condition being treated ( 2 , 12.1 ): Initial dose: Prednisone delayed-release tablets 5 mg administered once per day. Patients currently on immediate-release prednisone, prednisolone, or methylprednisolone should be switched to prednisone delayed-release tablets at an equivalent dose based on relative potency. ( 2.1 , 2.4 ) Maintenance dose: Use lowest dosage that will maintain an adequate clinical response. ( 2.1 ) Discontinuation: Withdraw gradually if discontinuing long-term or high-dose therapy. ( 2.1 ) Prednisone delayed-release tablets should be taken daily with food. ( 2.3 , 12.…",
+      "contraindications": "4 CONTRAINDICATIONS Prednisone delayed-release tablets are contraindicated in patients who have known hypersensitivity to prednisone or to any of the excipients. Rare instances of anaphylaxis have occurred in patients receiving corticosteroid therapy [ see Adverse Reactions (6) ]. Known hypersensitivity to prednisone or any excipients in the formulation ( 4 , 6 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS Common adverse reactions for corticosteroids include fluid retention, alteration in glucose tolerance, elevation in blood pressure, behavioral and mood changes, increased appetite and weight gain. Allergic Reactions: Anaphylaxis, angioedema Cardiovascular: Bradycardia, cardiac arrest, cardiac arrhythmias, cardiac enlargement, circulatory collapse, congestive heart failure, fat embolism, hypertension, hypertrophic cardiomyopathy in premature infants, myocardial rupture following recent myocardial infarction, pulmonary edema, syncope, tachycardia, thromboembolism, thrombophlebitis, vasculitis Dermatologic: Acne, allergic dermatitis, cutaneous and subcutaneous atrophy, dry scalp, edema, facial erythema, hyper or hypopigmentation, impaired wound healing, increased sweating,…",
+      "interactions": "7 DRUG INTERACTIONS Anticoagulant agents: May enhance or diminish anticoagulant effects. ( 7.4 ) Antidiabetic agents: May increase blood glucose concentrations. Dose adjustments of antidiabetic agents may be required. ( 7.5 ) CYP 3A4 inducers and inhibitors: May, respectively, increase or decrease clearance of corticosteroids, necessitating dose adjustment. ( 7.7 , 7.8 ) Cyclosporine: Increase in activity of both, cyclosporine and corticosteroid when administered concurrently. Convulsions have been reported with concurrent use. ( 7.10 ) NSAIDs including aspirin and salicylates: Increased risk of gastrointestinal side effects. ( 7.13 ) 7.1 Aminoglutethimide Aminoglutethimide may lead to loss of corticosteroid-induced adrenal suppression. 7.2 Amphotericin B Injection There have been cases re…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Hypothalamic-pituitary-adrenal (HPA) axis suppression, Cushing's syndrome, and hyperglycemia: Monitor patients for these conditions with chronic use. Taper doses gradually for withdrawal after chronic use. ( 5.1 ) Immunosuppression and Increased Risk of Infection: Increased susceptibility to new infection and increased risk of exacerbation, dissemination, or reactivation of latent infection. Signs and symptoms of infection may be masked. ( 5.2 ) Elevated blood pressure, salt and water retention, and hypokalemia: Monitor blood pressure and sodium, potassium serum levels ( 5.3 ) GI perforation: increased risk in patients with certain GI disorders. Signs and symptoms may be masked. ( 5.4 ) Behavioral and mood disturbances: May include euphoria, insomnia, mood swings…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "PREDNISONE"
+    },
+    {
+      "id": "fda-allopurinol",
+      "name": "别嘌醇",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "gout"
+      ],
+      "aliases": [
+        "ALLOPURINOL",
+        "痛风",
+        "高尿酸",
+        "尿酸高"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Allopurinol tablets are indicated for: The management of adults with signs and symptoms of primary or secondary gout (acute attacks, tophi, joint destruction, uric acid lithiasis, and/or nephropathy) The management of adult and pediatric patients with leukemia, lymphoma and solid tumor malignancies who are receiving cancer therapy which causes elevations of serum and urinary uric acid levels The management of adult patients with recurrent calcium oxalate calculi whose daily uric acid excretion exceeds 800 mg/day in male patients and 750 mg/day in female patients, despite lifestyle changes (such as reduction of dietary sodium, non-dairy animal protein, oxylate rich foods, refined sugars and increases in oral fluids and fruits and vegetables) Limitations of Use Allopu…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Gout : Prior to initiating treatment assess serum uric acid level, complete blood count, chemistry panel, liver and kidney function tests. Prophylactic treatment for gout flares is recommended. ( 2.1 , 2.2 ) Patients with normal kidney function: Initial dosage is 100 mg orally daily. Increase by 100 mg weekly increments until serum uric acid of 6 mg/dl or less is reached (maximum 800 mg daily). ( 2.3 ) Patients with impaired kidney function: The initial dosage is 50 mg orally daily. Follow recommendations for titration in patients with renal impairment until target serum uric acid level is reached. ( 2.6 ) See complete information in the Full Prescribing Information (FPI). Hyperuricemia Associated with Cancer Therapy : The recommended dosage is: Adults: 300 mg t…",
+      "contraindications": "4 CONTRAINDICATIONS Allopurinol tablets are contraindicated in patients with a history of hypersensitivity reaction to allopurinol or to any of the ingredients of allopurinol tablets. Known hypersensitivity to allopurinol or to any of the ingredients of allopurinol tablets.",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: Skin Rash and Hypersensitivity [see Warnings and Precautions ( 5.1 )] Nephrotoxicity [see Warnings and Precautions ( 5.3 )] Hepatoxicity [see Warnings and Precautions ( 5.4 )] Myelosuppression [see Warnings and Precautions ( 5.5 )] Potential Effect on Driving and Use of Machinery [see Warnings and Precautions ( 5.6 )] The following adverse reactions associated with the use of allopurinol tablets were identified in literature, unpublished clinical trials or postmarketing reports. Because some of these reactions were reported voluntarily from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to drug…",
+      "interactions": "7 DRUG INTERACTIONS The following drugs may increase the risk of serious skin reactions: bendamustine, thiazide diuretics, ampicillin and amoxicillin. ( 7.1 ) Capecitabine: Avoid concomitant use. ( 7.2 ) Mercaptopurine or Azathioprine: Reduce mercaptopurine or azathioprine dose as recommended in the respective prescribing information. ( 7.2 ) Pegloticase: Discontinue and refrain from initiating treatment with allopurinol tablets. ( 7.2 ) See FPI for complete list of significant drug interactions. ( 7.2 ) 7.1 Drugs Known to Affect the Occurrence of Skin Rash and Hypersensitivity Concomitant use of the following drugs may increase the risk of skin rash, which may be severe: bendamustine, thiazide diuretics, ampicillin and amoxicillin. Renal impairment may further increase risk with concomita…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Skin Rash and Hypersensitivity: Allopurinol has been associated with serious and sometimes fatal dermatological reactions. Discontinue allopurinol tablets at the first appearance of skin rash or other signs of hypersensitivity reaction. ( 5.1 ) Gout Flares: May occur during initiation of treatment. Concurrent prophylactic treatment with colchicine or anti-inflammatory agents is recommended. ( 5.2 ) Nephrotoxicity: Allopurinol may affect kidney function. Patients with decreased kidney function require lower doses of allopurinol tablets. ( 5.3 ) Hepatoxicity: Cases of reversible hepatotoxicity have occurred. If signs and symptoms of hepatotoxicity develop, evaluate liver function. ( 5.4 ) Myelosuppression: Bone marrow suppression has been reported with allopurinol.…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "ALLOPURINOL"
+    },
+    {
+      "id": "fda-colchicine",
+      "name": "秋水仙碱",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "gout"
+      ],
+      "aliases": [
+        "COLCHICINE",
+        "痛风",
+        "痛风发作"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Colchicine tablets are an alkaloid indicated for: • Prophylaxis and treatment of gout flares in adults ( 1.1 ). • Familial Mediterranean fever (FMF) in adults and children 4 years or older ( Error! Hyperlink reference not valid. ). 1.1 Gout Flares Colchicine tablets are indicated for prophylaxis and the treatment of acute gout flares. • Prophylaxis of Gout Flares: Colchicine tablets are indicated for prophylaxis of gout flares. • Treatment of Gout Flares: Colchicine tablets are indicated for treatment of acute gout flares when taken at the first sign of a flare. 1.2 Familial Mediterranean Fever (FMF) Colchicine tablets are indicated in adults and children four years or older for treatment of familial Mediterranean fever (FMF).",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION The long-term use of colchicine is established for FMF and the prophylaxis of gout flares, but the safety and efficacy of repeat treatment for gout flares has not been evaluated. The dosing regimens for colchicine tablets are different for each indication and must be individualized. The recommended dosage of colchicine tablets depends on the patient’s age, renal function, hepatic function and use of coadministered drugs [see Error! Hyperlink reference not valid. , Error! Hyperlink reference not valid. , Error! Hyperlink reference not valid. ] . Colchicine tablets are administered orally without regard to meals. Colchicine tablets are not an analgesic medication and should not be used to treat pain from other causes. • Gout Flares: Prophylaxis of Gout Flares: 0.6…",
+      "contraindications": "4 CONTRAINDICATIONS Patients with renal or hepatic impairment should not be given colchicine tablets in conjunction with P-gp or strong CYP3A4 inhibitors (this includes all protease inhibitors except fosamprenavir). In these patients, life-threatening and fatal colchicine toxicity has been reported with colchicine taken in therapeutic doses. Patients with renal or hepatic impairment should not be given colchicine tablets in conjunction with P-gp or strong CYP3A4 inhibitors ( Error! Hyperlink reference not valid. ). In these patients, life-threatening and fatal colchicine toxicity has been reported with colchicine taken in therapeutic doses ( Error! Hyperlink reference not valid. ).",
+      "adverse_reactions": "6 ADVERSE REACTIONS Prophylaxis of Gout Flares: The most commonly reported adverse reaction in clinical trials of colchicine for the prophylaxis of gout was diarrhea. Treatment of Gout Flares: The most common adverse reactions reported in the clinical trial with colchicine tablets for treatment of gout flares were diarrhea (23%) and pharyngolaryngeal pain (3%). FMF: Gastrointestinal tract adverse effects are the most frequent side effects in patients initiating colchicine tablets, usually presenting within 24 hours, and occurring in up to 20% of patients given therapeutic doses. Typical symptoms include cramping, nausea, diarrhea, abdominal pain and vomiting. These events should be viewed as dose-limiting if severe, as they can herald the onset of more significant toxicity. • Prophylaxis o…",
+      "interactions": "7 DRUG INTERACTIONS Colchicine is a substrate of the efflux transporter P-glycoprotein (P-gp). Of the cytochrome P450 enzymes tested, CYP3A4 was mainly involved in the metabolism of colchicine. If colchicine tablets are administered with drugs that inhibit P-gp, most of which also inhibit CYP3A4, increased concentrations of colchicine are likely. Fatal drug interactions have been reported. Physicians should ensure that patients are suitable candidates for treatment with colchicine tablets and remain alert for signs and symptoms of toxicities related to increased colchicine exposure as a result of a drug interaction. Signs and symptoms of colchicine tablets toxicity should be evaluated promptly and, if toxicity is suspected, colchicine tablets should be discontinued immediately. Table 4 pro…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS • Fatal overdoses have been reported with colchicine in adults and children. Keep colchicine tablets out of the reach of children ( Error! Hyperlink reference not valid. , Error! Hyperlink reference not valid. ). • Blood dyscrasias: myelosuppression, leukopenia, granulocytopenia, thrombocytopenia and aplastic anemia have been reported ( Error! Hyperlink reference not valid. ). • Monitor for toxicity and if present consider temporary interruption or discontinuation of colchicine ( Error! Hyperlink reference not valid. , Error! Hyperlink reference not valid. , Error! Hyperlink reference not valid. , Error! Hyperlink reference not valid. , Error! Hyperlink reference not valid. ). • Drug interaction P-gp and/or CYP3A4 inhibitors: Coadministration of colchicine with P…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "COLCHICINE"
+    },
+    {
+      "id": "fda-tamsulosin",
+      "name": "坦索罗辛",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "bph"
+      ],
+      "aliases": [
+        "TAMSULOSIN",
+        "前列腺",
+        "排尿困难",
+        "前列腺增生"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Tamsulosin hydrochloride capsules are indicated for the treatment of the signs and symptoms of benign prostatic hyperplasia (BPH) [see Clinical Studies (14)]. Tamsulosin hydrochloride capsules are not indicated for the treatment of hypertension. Tamsulosin hydrochloride capsules are an alpha 1 adrenoceptor antagonist indicated for treatment of the signs and symptoms of benign prostatic hyperplasia (1) Tamsulosin hydrochloride capsules are not indicated for the treatment of hypertension (1)",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Tamsulosin hydrochloride capsules 0.4 mg once daily is recommended as the dose for the treatment of the signs and symptoms of BPH. It should be administered approximately one-half hour following the same meal each day. Tamsulosin hydrochloride capsules should not be crushed, chewed or opened. For those patients who fail to respond to the 0.4 mg dose after 2 to 4 weeks of dosing, the dose of tamsulosin hydrochloride capsules can be increased to 0.8 mg once daily. Tamsulosin hydrochloride capsules 0.4 mg should not be used in combination with strong inhibitors of CYP3A4 (e.g., ketoconazole) [see Warnings and Precautions (5.2)]. If tamsulosin hydrochloride capsules administration is discontinued or interrupted for several days at either the 0.4 mg or 0.8 mg dose, t…",
+      "contraindications": "4 CONTRAINDICATIONS Tamsulosin hydrochloride capsules are contraindicated in patients known to be hypersensitive to tamsulosin hydrochloride or any component of tamsulosin hydrochloride capsules. Reactions have included skin rash, urticaria, pruritus, angioedema, and respiratory symptoms [see Adverse Reactions (6.2)] . Contraindicated in patients known to be hypersensitive to tamsulosin hydrochloride or any component of tamsulosin hydrochloride capsules (4, 6.2)",
+      "adverse_reactions": "6 ADVERSE REACTIONS The most common adverse events (≥2% of patients and at a higher incidence than placebo) with the 0.4 mg dose or 0.8 mg dose were headache, dizziness, rhinitis, infection, abnormal ejaculation, asthenia, back pain, diarrhea, pharyngitis, chest pain, cough increased, somnolence, nausea, sinusitis, insomnia, libido decreased, tooth disorder, and blurred vision (6.1) To report SUSPECTED ADVERSE REACTIONS, contact XLCare Pharmaceuticals, Inc. at 1-866-495-1995 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical studies are conducted under widely varying conditions, adverse reactions rates observed in the clinical studies of a drug cannot be directly compared to rates in the clinical studies of another drug and may not reflect the…",
+      "interactions": "7 DRUG INTERACTIONS • Tamsulosin hydrochloride capsules 0.4 mg should not be used with strong inhibitors of CYP3A4 (e.g., ketoconazole). Tamsulosin hydrochloride capsules should be used with caution in combination with moderate inhibitors of CYP3A4 (e.g., erythromycin), in combination with strong (e.g., paroxetine) or moderate (e.g., terbinafine) inhibitors of CYP2D6, or in patients known to be CYP2D6 poor metabolizers, particularly at a dose higher than 0.4 mg (e.g., 0.8 mg). ( 5.2 , 7.1 , 12.3 ) • Concomitant use of PDE5 inhibitors with tamsulosin can potentially cause symptomatic hypotension ( 5.2 , 7.3 , 12.3 ). 7.1 Cytochrome P450 Inhibition Strong and Moderate Inhibitors of CYP3A4 or CYP2D6 Tamsulosin is extensively metabolized, mainly by CYP3A4 and CYP2D6. Concomitant treatment with…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Advise patients about the possibility of symptoms related to postural hypotension and to avoid situations where injury could result should syncope occur (5.1) Should not be used in combination with strong inhibitors of CYP3A4. Use with caution in combination with moderate inhibitors of CYP3A4, with strong or moderate inhibitors of CYP2D6, in patients known to be CYP2D6 poor metabolizers, or in combination with other cytochrome P450 inhibitors. (5.2, 7.1, 12.3) Should not be used in combination with other alpha adrenergic blocking agents (5.2, 7.2, 12.3) Exercise caution with concomitant administration of warfarin (5.2, 7.4, 12.3) Advise patients about the possibility and seriousness of priapism (5.3) Intraoperative Floppy Iris Syndrome has been observed during ca…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "TAMSULOSIN"
+    },
+    {
+      "id": "fda-montelukast",
+      "name": "孟鲁司特",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "asthma"
+      ],
+      "aliases": [
+        "MONTELUKAST",
+        "哮喘",
+        "过敏性鼻炎",
+        "咳嗽变异性哮喘"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Montelukast sodium chewable tablets are a leukotriene receptor antagonist indicated for: • Prophylaxis and chronic treatment of asthma in patients 2 years of age and older ( 1.1 ). • Acute prevention of exercise-induced bronchoconstriction (EIB) in patients 6 years of age and older ( 1.2 ). • Relief of symptoms of allergic rhinitis (AR): seasonal allergic rhinitis (SAR) in patients 2 years of age and older, and perennial allergic rhinitis (PAR) in patients 2 years of age and older. Reserve use for patients who have an inadequate response or intolerance to alternative therapies ( 1.3 ). 1.1 Asthma Montelukast sodium chewable tablets are indicated for the prophylaxis and chronic treatment of asthma in adults and pediatric patients 2 years of age and older. 1.2 Exercis…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Administration (by indications): • Asthma ( 2.1 ): Once daily in the evening for patients 2 years and older. • Acute prevention of EIB ( 2.2 ): One tablet at least 2 hours before exercise for patients 6 years of age and older. • Seasonal allergic rhinitis ( 2.3 ): Once daily for patients 2 years and older. • Perennial allergic rhinitis ( 2.3 ): Once daily for patients 2 years and older. Dosage (by age) ( 2 ): • 15 years and older: one 10-mg tablet. • 6 to 14 years: one 5-mg chewable tablet. • 2 to 5 years: one 4-mg chewable tablet. Patients with both asthma and allergic rhinitis should take only one dose daily in the evening ( 2.4 ). 2.1 Asthma Montelukast sodium should be taken once daily in the evening. The following doses are recommended: For adults and adole…",
+      "contraindications": "4 CONTRAINDICATIONS • Hypersensitivity to any component of this product. • Hypersensitivity to any component of this product ( 4 ).",
+      "adverse_reactions": "6 ADVERSE REACTIONS Most common adverse reactions (incidence ≥5% and greater than placebo listed in descending order of frequency): upper respiratory infection, fever, headache, pharyngitis, cough, abdominal pain, diarrhea, otitis media, influenza, rhinorrhea, sinusitis, otitis ( 6.1 ). To report SUSPECTED ADVERSE REACTIONS, contact Hetero Labs Limited at 1-866-495-1995 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . See 17 for PATIENT COUNSELING INFORMATION and Medication Guide. Revised: 05/2020 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in clinical p…",
+      "interactions": "7 DRUG INTERACTIONS No dose adjustment is needed when montelukast sodium is co-administered with theophylline, prednisone, prednisolone, oral contraceptives, terfenadine, digoxin, warfarin, gemfibrozil, itraconazole, thyroid hormones, sedative hypnotics, non-steroidal anti-inflammatory agents, benzodiazepines, decongestants, and Cytochrome P450 (CYP) enzyme inducers [see Clinical Pharmacology ( 12.3 )] .",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS • Do not prescribe montelukast sodium to treat an acute asthma attack ( 5.2 ). • Advise patients to have appropriate rescue medication available ( 5.2 ). • Inhaled corticosteroid may be reduced gradually. Do not abruptly substitute montelukast sodium for inhaled or oral corticosteroids ( 5.3 ). • Patients with known aspirin sensitivity should continue to avoid aspirin or non-steroidal anti-inflammatory agents while taking montelukast sodium ( 5.4 ). • Systemic eosinophilia, sometimes presenting with clinical features of vasculitis consistent with Churg-Strauss syndrome, has been reported. These events have been sometimes associated with the reduction of oral corticosteroid therapy ( 5.5 and 6.2 ). • Inform patients with phenylketonuria that the 4-mg and 5-mg chew…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "MONTELUKAST"
+    },
+    {
+      "id": "fda-albuterol",
+      "name": "沙丁胺醇",
+      "forms": [
+        "吸入"
+      ],
+      "otc": false,
+      "tags": [
+        "bronchodilator",
+        "asthma"
+      ],
+      "aliases": [
+        "ALBUTEROL",
+        "哮喘",
+        "喘息",
+        "支气管"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Albuterol Sulfate HFA is a beta 2 -adrenergic agonist indicated for: Treatment or prevention of bronchospasm in adult and pediatric patients aged 4 years and older with reversible obstructive airway disease. ( 1.1 ) Prevention of exercise-induced bronchospasm in adult and pediatric patients aged 4 years and older. ( 1.2 ) 1.1 Bronchospasm Albuterol Sulfate HFA Inhalation Aerosol is indicated for the treatment or prevention of bronchospasm in adult and pediatric patients aged 4 years and older with reversible obstructive airway disease. 1.2 Exercise-Induced Bronchospasm Albuterol Sulfate HFA is indicated for the prevention of exercise-induced bronchospasm in adult and pediatric patients aged 4 years and older.",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION For oral inhalation only. ( 2 ) Treatment or prevention of bronchospasm in adult and pediatric patients aged 4 years and older: 2 inhalations by oral inhalation every 4 to 6 hours. For some patients, 1 inhalation every 4 hours may be sufficient. ( 2.1 ) Prevention of exercise-induced bronchospasm in adult and pediatric patients aged 4 years and older: 2 inhalations by oral inhalation 15 to 30 minutes before exercise. ( 2.2 ) Priming information: Prime Albuterol Sulfate HFA before using for the first time, when the inhaler has not been used for more than 2 weeks, or when the inhaler has been dropped. To prime Albuterol Sulfate HFA, release 4 sprays into the air away from the face, shaking well before each spray. ( 2.3 ) Cleaning information: At least once a week,…",
+      "contraindications": "4 CONTRAINDICATIONS Albuterol Sulfate HFA is contraindicated in patients with a history of hypersensitivity to any of the ingredients [see Warnings and Precautions ( 5.6 ), Description ( 11 )] . Hypersensitivity to any ingredient. ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: Paradoxical bronchospasm [see Warnings and Precautions ( 5.1 )] Cardiovascular effects [see Warnings and Precautions ( 5.4 )] Hypersensitivity reactions, including anaphylaxis [see Warnings and Precautions ( 5.6 )] Hypokalemia [see Warnings and Precautions ( 5.8 )] Most common adverse reactions (incidence ≥3%) are throat irritation, viral respiratory infections, upper respiratory inflammation, cough, and musculoskeletal pain. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Prasco Laboratories at 1-866-525-0688 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse r…",
+      "interactions": "7 DRUG INTERACTIONS Other short-acting sympathomimetic aerosol bronchodilators should not be used concomitantly with albuterol. If additional adrenergic drugs are to be administered by any route, they should be used with caution to avoid deleterious cardiovascular effects. Beta-blockers: Use with caution. May block bronchodilatory effects of beta-agonists and produce severe bronchospasm. ( 7.1 ) Diuretics: Use with caution. Electrocardiographic changes and/or hypokalemia associated with non–potassium-sparing diuretics may worsen with concomitant beta-agonists. ( 7.2 ) Digoxin: May decrease serum digoxin levels. Consider monitoring digoxin levels. ( 7.3 ) Monoamine oxidase inhibitors and tricyclic antidepressants: Use with extreme caution. May potentiate effect of albuterol on vascular syst…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Life-threatening paradoxical bronchospasm may occur. Discontinue Albuterol Sulfate HFA immediately and institute alternative therapy. ( 5.1 ) Need for more doses of Albuterol Sulfate HFA than usual may be a sign of deterioration of asthma and requires reevaluation of treatment. ( 5.2 ) Albuterol Sulfate HFA is not a substitute for corticosteroids. ( 5.3 ) Cardiovascular effects may occur. Use with caution in patients sensitive to sympathomimetic drugs and patients with cardiovascular or convulsive disorders. ( 5.4 , 5.7 ) Excessive use may be fatal. Do not exceed recommended dose. ( 5.5 ) Immediate hypersensitivity reactions may occur. Discontinue Albuterol Sulfate HFA immediately. ( 5.6 ) Hypokalemia and changes in blood glucose may occur. ( 5.7 , 5.8 ) 5.1 Para…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "ALBUTEROL"
+    },
+    {
+      "id": "fda-budesonide",
+      "name": "布地奈德",
+      "forms": [
+        "吸入"
+      ],
+      "otc": false,
+      "tags": [
+        "corticosteroid",
+        "inhaled"
+      ],
+      "aliases": [
+        "BUDESONIDE",
+        "哮喘",
+        "吸入激素",
+        "鼻炎"
+      ],
+      "indications": "1 INDICATIONS AND USAGE BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE INHALATION AEROSOL is a combination product containing a corticosteroid and a long-acting beta 2 -adrenergic agonist indicated for: • Treatment of asthma in patients 6 years of age and older. ( 1.1 ) • Maintenance treatment of airflow obstruction and reducing exacerbations in patients with chronic obstructive pulmonary disease (COPD) including chronic bronchitis and/or emphysema. ( 1.2 ) Important limitations: • Not indicated for the relief of acute bronchospasm. ( 1.1 , 1.2 ) 1.1 Treatment of Asthma BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE INHALATION AEROSOL is indicated for the treatment of asthma in patients 6 years of age and older. BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE INHALATION AEROSOL should be used for…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION For oral inhalation only. • Treatment of asthma in patients 12 years and older: 2 inhalations of BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE INHALATION AEROSOL 80/4.5 or 160/4.5 twice daily. Starting dosage is based on asthma severity. ( 2.2 ) • Treatment of asthma in patients aged 6 to less than 12 years: 2 inhalations of BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE INHALATION AEROSOL 80/4.5 twice daily. ( 2.2 ) • Maintenance treatment in COPD: 2 inhalations of BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE INHALATION AEROSOL 160/4.5 twice daily. ( 2.3 ) 2.1 Administration Information BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE INHALATION AEROSOL should be administered as 2 inhalations twice daily (morning and evening, approximately 12 hours apart), every day b…",
+      "contraindications": "4 CONTRAINDICATIONS The use of budesonide and formoterol fumarate dihydrate is contraindicated in the following conditions: • Primary treatment of status asthmaticus or other acute episodes of asthma or COPD where intensive measures are required. • Hypersensitivity to any of the ingredients in BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE INHALATION AEROSOL. • Primary treatment of status asthmaticus or acute episodes of asthma or COPD requiring intensive measures. ( 4 ) • Hypersensitivity to any of the ingredients in BUDESONIDE AND FORMOTEROL FUMARATE DIHYDRATE INHALATION AEROSOL. ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS LABA use may result in the following: • Serious asthma-related events – hospitalizations, intubations, death [see Warnings and Precautions (5.1) ]. • Cardiovascular and central nervous system effects [see Warnings and Precautions (5.12) ]. Systemic and inhaled corticosteroid use may result in the following: • Candida albicans infection [see Warnings and Precautions (5.4) ] • Pneumonia or lower respiratory tract infections in patients with COPD [see Warnings and Precautions (5.5) ] • Immunosuppression [see Warnings and Precautions (5.6) ] • Hypercorticism and adrenal suppression [see Warnings and Precautions (5.8) ] • Growth effects in pediatric patients [see Warnings and Precautions (5.14) ] • Glaucoma and cataracts [see Warnings and Precautions (5.15) ] Because clinica…",
+      "interactions": "7 DRUG INTERACTIONS In clinical studies, concurrent administration of budesonide and formoterol fumarate dihydrate and other drugs, such as short-acting beta 2 -agonists, intranasal corticosteroids, and antihistamines/decongestants has not resulted in an increased frequency of adverse reactions. No formal drug interaction studies have been performed with budesonide and formoterol fumarate dihydrate. • Strong cytochrome P450 3A4 inhibitors (e.g., ritonavir): Use with caution. May cause increased systemic corticosteroid effects. (7.1) • Monoamine oxidase inhibitors and tricyclic antidepressants: Use with extreme caution. May potentiate effect of formoterol on vascular system. (7.2) • Beta-blockers: Use with caution. May block bronchodilatory effects of beta-agonists and produce severe bronch…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS • Serious asthma-related events: Long-acting beta2-adrenergic agonists as monotherapy increase the risk. ( 5.1 ) • Deterioration of disease and acute episodes: Do not initiate in acutely deteriorating asthma or COPD or to treat acute symptoms. ( 5.2 ) • Use with additional long-acting beta 2 -agonist: Do not use in combination because of risk of overdose. ( 5.3 ) • Localized infections: Candida albicans infection of the mouth and throat may occur. Monitor patients periodically for signs of adverse effects on the oral cavity. Advise the patient to rinse his/her mouth with water without swallowing after inhalation to help reduce the risk. ( 5.4 ) • Pneumonia: Increased risk in patients with COPD. Monitor patients for signs and symptoms of pneumonia and other potent…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "BUDESONIDE"
+    },
+    {
+      "id": "fda-azithromycin",
+      "name": "阿奇霉素",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antibiotic",
+        "macrolide"
+      ],
+      "aliases": [
+        "AZITHROMYCIN",
+        "支原体",
+        "抗生素",
+        "咽炎",
+        "支气管炎"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Azithromycin is a macrolide antibacterial drug indicated for the treatment of patients with mild to moderate infections caused by susceptible strains of the designated microorganisms in the specific conditions listed below. Recommended dosages and durations of therapy in adult and pediatric patient populations vary in these indications. [see Dosage and Administration (2) ] Azithromycin is a macrolide antibacterial drug indicated for mild to moderate infections caused by designated, susceptible bacteria: • Acute bacterial exacerbations of chronic bronchitis in adults () • Acute bacterial sinusitis in adults () • Uncomplicated skin and skin structure infections in adults () • Urethritis and cervicitis in adults () • Genital ulcer disease in men () • Acute otitis media…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION • Adult Patients ( ) Infection Recommended Dose/Duration of Therapy Community-acquired pneumonia (mild severity) Pharyngitis/tonsillitis (second-line therapy) Skin/skin structure (uncomplicated) 500 mg as a single dose on Day 1, followed by 250 mg once daily on Days 2 through 5. Acute bacterial exacerbations of chronic bronchitis (mild to moderate) 500 mg as a single dose on Day 1, followed by 250 mg once daily on Days 2 through 5 or 500 mg once daily for 3 days. Acute bacterial sinusitis 500 mg once daily for 3 days. Genital ulcer disease (chancroid) Non-gonococcal urethritis and cervicitis One single 1 gram dose. Gonococcal urethritis and cervicitis One single 2 gram dose. • Pediatric Patients ( ) Infection Recommended Dose/Duration of Therapy Acute otitis med…",
+      "contraindications": "4 CONTRAINDICATIONS • Patients with known hypersensitivity to azithromycin, erythromycin, any macrolide or ketolide drug. () • Patients with a history of cholestatic jaundice/hepatic dysfunction associated with prior use of azithromycin. () 4.1 Hypersensitivity Azithromycin tablets are contraindicated in patients with known hypersensitivity to azithromycin, erythromycin, any macrolide or ketolide drug. 4.2 Hepatic Dysfunction Azithromycin tablets are contraindicated in patients with a history of cholestatic jaundice/hepatic dysfunction associated with prior use of azithromycin.",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in labeling: • Hypersensitivity [see ] • Hepatotoxicity [see ] • Infantile Hypertrophic Pyloric Stenosis (IHPS) [see ] • QT Prolongation [see Warnings and Precautions (5.4) ] • Cardiovascular Death [see ] • Clostridioides difficile- Associated Diarrhea (CDAD) [see ] • Exacerbation of Myasthenia Gravis [see ] Most common adverse reactions are diarrhea (5 to 14%), nausea (3 to 18%), abdominal pain (3 to 7%), or vomiting (2 to 7%). ( ) To report SUSPECTED ADVERSE REACTIONS, contact Aurobindo Pharma USA, Inc. at 1-866-850-2876 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rat…",
+      "interactions": "7 DRUG INTERACTIONS • Nelfinavir: Close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted. () • Warfarin: Use with azithromycin may increase coagulation times; monitor prothrombin time. () 7.1 Nelfinavir Co-administration of nelfinavir at steady-state with a single oral dose of azithromycin resulted in increased azithromycin serum concentrations. Although a dose adjustment of azithromycin is not recommended when administered in combination with nelfinavir, close monitoring for known adverse reactions of azithromycin, such as liver enzyme abnormalities and hearing impairment, is warranted. [see Adverse Reactions (6) ] 7.2 Warfarin Spontaneous postmarketing reports suggest that concomitant administration of azithro…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS • Serious (including fatal) allergic and skin reactions: Discontinue azithromycin if reaction occurs. () • Hepatotoxicity: Severe, and sometimes fatal, hepatotoxicity has been reported. Discontinue azithromycin immediately if signs and symptoms of hepatitis occur. () • Infantile Hypertrophic Pyloric Stenosis (IHPS): Following the use of azithromycin in neonates (treatment up to 42 days of life), IHPS has been reported. Direct parents and caregivers to contact their physician if vomiting or irritability with feeding occurs. () • Prolongation of QT interval and cases of torsades de pointes have been reported. This risk which can be fatal should be considered in patients with certain cardiovascular disorders including known QT prolongation or history torsades de poi…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "AZITHROMYCIN"
+    },
+    {
+      "id": "fda-levofloxacin",
+      "name": "左氧氟沙星",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antibiotic",
+        "quinolone"
+      ],
+      "aliases": [
+        "LEVOFLOXACIN",
+        "抗生素",
+        "尿路感染",
+        "肺炎"
+      ],
+      "indications": "1 INDICATIONS & USAGE Levofloxacin is a fluoroquinolone antibacterial indicated in adults (18 years of age and older) with infections caused by designated, susceptible bacteria and in pediatric patients where indicated (1, 12.4). • Pneumonia: Nosocomial (1.1) and Community Acquired (1.2, 1.3) • Skin and Skin Structure Infections (SSSI): Complicated (1.4) and Uncomplicated (1.5) • Chronic bacterial prostatitis (1.6) • Inhalational Anthrax, Post-Exposure in adult and pediatric patients (1.7) • Plague in adult and pediatric patients (1.8) • Urinary Tract Infections (UTI): Complicated (1.9, 1.10) and Uncomplicated (1.12) • Acute Pyelonephritis (1.11) • Acute Bacterial Exacerbation of Chronic Bronchitis (1.13) • Acute Bacterial Sinusitis (1.14) Usage To reduce the development of drug-resistant…",
+      "adult_dosage": "2 DOSAGE & ADMINISTRATION • Administer Levofloxacin Tablets to pediatric patients weighing 30 kg and greater only (2.1, 2.2). • Levofloxacin Tablets cannot be administered to pediatric patients who weigh less than 30 kg because of the limitations of the available strengths. Alternative formulations of levofloxacin may be considered for pediatric patients who weigh less than 30 kg (2.2). Dosage in Adult and Pediatric Patients with Creatinine Clearance greater than or equal to 50 mL/minute (2.1. 2.2) Type of Infection Dose Every 24 hours Duration (days) Nosocomial Pneumonia (1.1) 750 mg 7 to 14 Community Acquired Pneumonia (1.2) 500 mg 7 to 14 Community Acquired Pneumonia (1.3) 750 mg 5 Complicated SSSI (1.4) 750 mg 7 to 14 Uncomplicated SSSI (1.5) 500 mg 7 to 10 Chronic Bacterial Prostatiti…",
+      "contraindications": "4 CONTRAINDICATIONS Levofloxacin tablets are contraindicated in persons with known hypersensitivity to levofloxacin, or other quinolone antibacterials [see Warnings and Precautions ( 5.3 )]. Known hypersensitivity to levofloxacin or other quinolones ( 4 , 5.7 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The most common reactions (≥3%) were nausea, headache, diarrhea, insomnia, constipation and dizziness ( 6.2 ). To report SUSPECTED ADVERSE REACTIONS, contact Hetero Labs Limited at 1-866-495-1995 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch . 6.1 Serious and Otherwise Important Adverse Reactions The following serious and otherwise important adverse drug reactions are discussed in greater detail in other sections of labeling: • Disabling and Potentially Irreversible Serious Adverse Reactions [ see Warnings and Precautions (5.1)] • Tendinitis and Tendon Rupture [see Warnings and Precautions ( 5.2)] • Peripheral Neuropathy [see Warnings and Precautions (5.3)] • Central Nervous System Effects [see Warnings and Precautions ( 5.4)] • Exacerbation of Myasthenia Gravis [see…",
+      "interactions": "7 DRUG INTERACTIONS Interacting Drug Interaction Multivalent cation-containing products including antacids, metal cations or didanosine Absorption of levofloxacin is decreased when the tablets are taken within 2 hours of these products. (2.4, 7.1) Warfarin Effect may be enhanced. Monitor prothrombin time, INR and watch for bleeding (7.2) Antidiabetic agents Carefully monitor blood glucose (5.13, 7.3) 7.1 Chelation Agents: Antacids, Sucralfate, Metal Cations, Multivitamins While the chelation by divalent cations is less marked than with other fluoroquinolones, concurrent administration of levofloxacin tablets with antacids containing magnesium, or aluminum, as well as sucralfate, metal cations such as iron, and multivitamin preparations with zinc may interfere with the gastrointestinal abso…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Anaphylactic reactions and allergic skin reactions, serious, occasionally fatal, may occur after first dose ( 4 , 5.7 ) Hematologic (including agranulocytosis, thrombocytopenia), and renal toxicities may occur after multiple doses ( 5.6 ) Hepatotoxicity: Severe, and sometimes fatal, hepatoxicity has been reported. Discontinue immediately if signs and symptoms of hepatitis occur ( 5.8 ) Clostridium difficile -associated colitis: evaluate if diarrhea occurs ( 5.10 ) Prolongation of the QT interval and isolated cases of torsade de pointes have been reported. Avoid use in patients with known prolongation, those with hypokalemia, and with other drugs that prolong the QT interval ( 5.11 , 8.5 ) 5.1 Disabling and Potentially Irreversible Serious Adverse Reactions Includ…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "LEVOFLOXACIN"
+    },
+    {
+      "id": "fda-doxycycline",
+      "name": "多西环素",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antibiotic",
+        "tetracycline"
+      ],
+      "aliases": [
+        "DOXYCYCLINE",
+        "抗生素",
+        "痤疮",
+        "支原体"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Doxycycline hyclate delayed-release tablets are a tetracycline-class drug indicated for: • Rickettsial infections ( 1.1 ) • Sexually transmitted infections ( 1.2 ) • Respiratory tract infections ( 1.3 ) • Specific bacterial infections ( 1.4 ) • Ophthalmic infections ( 1.5 ) • Anthrax, including inhalational anthrax (post-exposure) ( 1.6 ) • Alternative treatment for selected infections when penicillin is contraindicated ( 1.7 ) • Adjunctive therapy in acute intestinal amebiasis and severe acne ( 1.8 ) • Prophylaxis of malaria ( 1.9 ) Usage To reduce the development of drug-resistant bacteria and maintain the effectiveness of doxycycline hyclate delayed-release tablets and other antibacterial drugs, doxycycline hyclate delayed-release tablets should be used only to t…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION • Dosage in Adult Patients: ο The usual dosage is 200 mg on the first day of treatment (administered 100 mg every 12 hours) followed by a maintenance dose of 100 mg daily. ( 2.1 ) ο In the management of more severe infections (particularly chronic infections of the urinary tract), 100 mg every 12 hours is recommended. ( 2.1 ) • Dosage in Pediatric Patients: ο For all pediatric patients weighing less than 45 kg with severe or life-threatening infections (e.g., anthrax, Rocky Mountain spotted fever), the recommended dose is 2.2 mg per kg of body weight administered every 12 hours. Pediatric patients weighing 45 kg or more should receive the adult dose. ( 2.1 ) ο For pediatric patients with less severe disease (greater than 8 years of age and weighing less than 45…",
+      "contraindications": "4 CONTRAINDICATIONS Doxycyline is contraindicated in persons who have shown hypersensitivity to any of the tetracyclines. Doxycycline is contraindicated in persons who have shown hypersensitivity to any of the tetracyclines. ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS Adverse reactions observed in patients receiving tetracyclines include anorexia, nausea, vomiting, diarrhea, rash, photosensitivity, urticaria, and hemolytic anemia. ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Solco Healthcare LLC at 1-866-257-2597 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trial Experience The safety and efficacy of doxycycline hyclate delayed-release tablets, 200 mg as a single daily dose was evaluated in a multicenter, randomized, double-blind, active-controlled study. Doxycycline hyclate delayed-release tablets, 200 mg were given orally once-a-day for 7 days and compared to doxycycline hyclate capsules 100 mg given orally twice daily for 7 days for the treatment of men and women with uncomplicated urogenital C. trachomat…",
+      "interactions": "7 DRUG INTERACTIONS • Patients who are on anticoagulant therapy may require downward adjustment of their anticoagulant dosage ( 7.1 ) • Avoid co-administration of tetracyclines with penicillin ( 7.2 ) • Absorption of tetracyclines, including doxycycline hyclate delayed-release tablets, is impaired by antacids containing aluminum, calcium, or magnesium, bismuth subsalicylate and iron-containing preparations ( 7.3 ) • Concurrent use of tetracyclines, including doxycycline hyclate delayed-release tablets, may render oral contraceptives less effective ( 7.4 ) • Barbiturates, carbamazepine and phenytoin decrease the half-life of doxycycline ( 7.5 ) 7.1 Anticoagulant Drugs Because tetracyclines have been shown to depress plasma prothrombin activity, patients who are on anticoagulant therapy may…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS • The use of drugs of the tetracycline-class during tooth development (last half of pregnancy, infancy and childhood to the age of 8 years) may cause permanent discoloration of the teeth (yellow-gray-brown). ( 5.1 ) • Clostridioides difficile-associated diarrhea (CDAD) has been reported: Evaluate patients if diarrhea occurs. ( 5.2 ) • Photosensitivity manifested by an exaggerated sunburn reaction has been observed in some individuals taking tetracyclines. Limit sun exposure. ( 5.3 ) • Overgrowth of non-susceptible organisms, including fungi, may occur. If such infections occur, discontinue use and institute appropriate therapy. ( 5.4 ) 5.1 Tooth Development The use of drugs of the tetracycline-class during tooth development (last half of pregnancy, infancy and ch…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "DOXYCYCLINE"
+    },
+    {
+      "id": "fda-cephalexin",
+      "name": "头孢氨苄",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antibiotic",
+        "cephalosporin"
+      ],
+      "aliases": [
+        "CEPHALEXIN",
+        "抗生素",
+        "头孢",
+        "皮肤感染"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Cephalexin capsules are a cephalosporin antibacterial drug indicated for the treatment of the following infections caused by susceptible isolates of designated bacteria: Respiratory tract infection ( 1.1 ) Otitis media ( 1.2 ) Skin and skin structure infections ( 1.3 ) Bone infections ( 1.4 ) Genitourinary tract infections ( 1.5 ) To reduce the development of drug-resistant bacteria and maintain the effectiveness of cephalexin capsules and other antibacterial drugs, cephalexin capsules should be used only to treat infections that are proven or strongly suspected to be caused by bacteria. ( 1.6 ) 1.1 Respiratory Tract Infections Cephalexin capsules are indicated for the treatment of respiratory tract infections caused by susceptible isolates of Streptococcus pneumoni…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Adults and patients at least 15 years of age The usual dose is 250 mg every 6 hours, but a dose of 500 mg every 12 hours may be administered ( 2.1 ) Pediatric patients (over 1 year of age) Otitis media: 75 to 100 mg/kg in equally divided doses every 6 hours ( 2.2 ) All other indications: 25 to 50 mg/kg given in equally divided doses ( 2.2 ) In severe infections: 50 to 100 mg/kg may be administered in equally divided doses ( 2.2 ) Duration of therapy ranges from 7 to 14 days depending on the infection type and severity. ( 2 ) Dosage adjustment is required in patients with severe and end stage renal disease (ESRD) defined as creatinine clearance below 30 mL/min. ( 2.3 ) 2.1 Adults and Pediatric Patients at Least 15 Years of Age The usual dose of oral cephalexin ca…",
+      "contraindications": "4 CONTRAINDICATIONS Cephalexin capsules are contraindicated in patients with known hypersensitivity to cephalexin or other members of the cephalosporin class of antibacterial drugs. Patients with known hypersensitivity to cephalexin or other members of the cephalosporin class of antibacterial drugs. ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious events are described in greater detail in the Warning and Precautions section: Hypersensitivity reactions [see Warning and Precautions (5.1) ] Clostridium difficile -associated diarrhea [see Warnings and Precautions (5.2) ] Direct Coombs’ Test Seroconversion [see Warnings and Precautions (5.3) ] Seizure Potential [see Warnings and Precautions (5.4) ] Effect on Prothrombin Activity [see Warnings and Precautions (5.5) ] Development of Drug-Resistant Bacteria [see Warnings and Precautions (5.6) ] The most common adverse reactions associated with cephalexin include diarrhea, nausea, vomiting, dyspepsia and abdominal pain . ( 6 ) To report SUSPECTED ADVERSE REACTIONS, contact Aurobindo Pharma USA, Inc. at 1-866-850-2876 or FDA at 1-800-FDA-1088 or www.f…",
+      "interactions": "7 DRUG INTERACTIONS Metformin: increased metformin concentrations. Monitor for hypoglycemia. ( 7.1 ) Probenecid-The renal excretion of cephalexin is inhibited by probenecid. Co-administration of probenecid with cephalexin is not recommended. ( 7.2 ) Administration of cephalexin may result in a false-positive reaction glucose in the urine. ( 7.3 ) 7.1 Metformin Administration of cephalexin with metformin results in increased plasma metformin concentrations and decreased renal clearance of metformin. Careful patient monitoring and dose adjustment of metformin is recommended in patients concomitantly taking cephalexin and metformin [see Clinical Pharmacology (12.3) ]. 7.2 Probenecid The renal excretion of cephalexin is inhibited by probenecid. Co-administration of probenecid with cephalexin i…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Serious hypersensitivity (anaphylactic) reactions : Prior to use, inquire regarding history of hypersensitivity to beta-lactam antibacterial drugs. Discontinue the drug if signs or symptoms of an allergic reaction occur and institute supportive measures. ( 5.1 ) Clostridium difficile -associated diarrhea (CDAD ): Evaluate if diarrhea occurs. ( 5.2 ) Direct Coombs’ Test Seroconversion : If anemia develops during or after cephalexin therapy, evaluate for drug-induced hemolytic anemia. ( 5.3 ) Seizure Potential : Use lower dose in patients with renal impairment. ( 5.4 ) 5.1 Hypersensitivity Reactions Allergic reactions in the form of rash, urticaria, angioedema, anaphylaxis, erythema multiforme, Stevens-Johnson syndrome, or toxic epidermal necrolysis have been repor…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "CEPHALEXIN"
+    },
+    {
+      "id": "fda-ciprofloxacin",
+      "name": "环丙沙星",
+      "forms": [
+        "滴眼"
+      ],
+      "otc": false,
+      "tags": [
+        "antibiotic",
+        "quinolone"
+      ],
+      "aliases": [
+        "CIPROFLOXACIN",
+        "抗生素",
+        "尿路感染",
+        "腹泻"
+      ],
+      "indications": "INDICATIONS AND USAGE Ciprofloxacin Ophthalmic Solution is indicated for the treatment of infections caused by susceptible strains of the designated microorganisms in the conditions listed below: Corneal Ulcers: Pseudomonas aeruginosa Serratia marcescens * Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae Streptococcus (Viridans Group) * Conjunctivitis: Haemophilus influenzae Staphylococcus aureus Staphylococcus epidermidis Streptococcus pneumoniae *Efficacy for this organism was studied in fewer than 10 infections.",
+      "adult_dosage": "DOSAGE AND ADMINISTRATION Corneal Ulcers: The recommended dosage regimen for the treatment of corneal ulcers is two drops into the affected eye every 15 minutes for the first six hours and then two drops into the affected eye every 30 minutes for the remainder of the first day. On the second day, instill two drops in the affected eye hourly. On the third through the fourteenth day, place two drops in the affected eye every four hours. Treatment may be continued after 14 days if corneal re-epithelialisation has not occurred. Bacterial Conjunctivitis: The recommended dosage regimen for the treatment of bacterial conjunctivitis is one or two drops instilled into the conjunctival sac(s) every two hours while awake for two days and one or two drops every four hours while awake for the next five…",
+      "contraindications": "CONTRAINDICATIONS A history of hypersensitivity to ciprofloxacin or any other component of the medication is a contraindication to its use. A history of hypersensitivity to other quinolones may also contraindicate the use of ciprofloxacin.",
+      "adverse_reactions": "ADVERSE REACTIONS The most frequently reported drug related adverse reaction was local burning or discomfort. In corneal ulcer studies with frequent administration of the drug, white crystalline precipitates were seen in approximately 17% of patients ( see Precautions ). Other reactions occurring in less than 10% of patients included lid margin crusting, crystals/scales, foreign body sensation, itching, conjunctival hyperemia and a bad taste following instillation. Additional events occurring in less than 1% of patients included corneal staining, keratopathy/keratitis, allergic reactions, lid edema, tearing, photophobia, corneal infiltrates, nausea and decreased vision. To report SUSPECTED ADVERSE REACTIONS, contact LEADING PHARMA AT 1-844-740-7500 or FDA at 1-800-FDA-1088 or www.fda.gov/m…",
+      "interactions": "Drug Interactions: Specific drug interaction studies have not been conducted with ophthalmic ciprofloxacin. However, the systemic administration of some quinolones has been shown to elevate plasma concentrations of theophylline, interfere with the metabolism of caffeine, enhance the effects of the oral anticoagulant, warfarin, and its derivatives, and has been associated with transient elevations in serum creatinine in patients receiving cyclosporine concomitantly.",
+      "duration": "",
+      "stop_signs": "WARNINGS NOT FOR INJECTION INTO THE EYE. Serious and occasionally fatal hypersensitivity (anaphylactic) reactions, some following the first dose, have been reported in patients receiving systemic quinolone therapy. Some reactions were accompanied by cardiovascular collapse, loss of consciousness, tingling, pharyngeal or facial edema, dyspnea, urticaria, and itching. Only a few patients had a history of hypersensitivity reactions. Serious anaphylactic reactions require immediate emergency treatment with epinephrine and other resuscitation measures, including oxygen, intravenous fluids, intravenous antihistamines, corticosteroids, pressor amines and airway management, as clinically indicated. Remove contact lenses before using.",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "CIPROFLOXACIN"
+    },
+    {
+      "id": "fda-acyclovir",
+      "name": "阿昔洛韦",
+      "forms": [
+        "外用"
+      ],
+      "otc": false,
+      "tags": [
+        "antiviral"
+      ],
+      "aliases": [
+        "ACYCLOVIR",
+        "疱疹",
+        "带状疱疹",
+        "抗病毒"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Acyclovir Cream is a herpes simplex virus (HSV) deoxynucleoside analogue DNA polymerase inhibitor indicated for the treatment of recurrent herpes labialis (cold sores) in immunocompetent adults and adolescents 12 years of age and older. Acyclovir Cream is a herpes simplex virus (HSV) deoxynucleoside analogue DNA polymerase inhibitor indicated for the treatment of recurrent herpes labialis (cold sores) in immunocompetent adults and adolescents 12 years of age and older. ( 1 )",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Acyclovir Cream should be applied 5 times per day for 4 days. Therapy should be initiated as early as possible following the onset of signs or symptoms of herpes labialis, i.e. during the prodrome or when lesions appear. For adolescents 12 years of age and older, the dosage is the same as in adults. Apply 5 times a day for 4 days. ( 2 ) Administer immediately following the onset of cold sore lesions. ( 2 )",
+      "contraindications": "4 CONTRAINDICATIONS Acyclovir Cream is contraindicated in patients with known hypersensitivity to acyclovir, valacyclovir, or any component of the formulation. Acyclovir Cream is contraindicated in patients with known hypersensitivity to acyclovir, valacyclovir or any component of the formulation. ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The most common adverse reactions reported were local skin reactions at the application site. ( 6.1 ) Angioedema, anaphylaxis, contact dermatitis and eczema have been reported. ( 6.2 ) To report SUSPECTED ADVERSE REACTIONS, contact Bausch Health US, LLC at 1-800-321-4576 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug, and may not reflect the rates observed in clinical practice. In five double-blind, placebo-controlled trials, 1124 patients were treated with Acyclovir Cream and 1161 with placebo (vehicle) cream. Local application…",
+      "interactions": "7 DRUG INTERACTIONS Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with Acyclovir Cream. Due to minimal systemic absorption of Acyclovir Cream, systemic drug interactions are unlikely. Clinical experience has identified no interactions resulting from topical or systemic administration of other drugs concomitantly with Acyclovir Cream. Due to minimal systemic absorption of Acyclovir Cream, systemic drug interactions are unlikely. ( 7 )",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Only for topical use of recurrent HSV lesions on the external aspect of lips and the face. Acyclovir Cream should not be applied on mucous membranes including in the eye or inside the mouth or nose. ( 5.1 ) There is a potential for irritation and contact sensitization. ( 5.2 ) 5.1 General Acyclovir Cream should only be applied on the affected external aspects of the lips and face in patients with herpes labialis. Because no data are available, application to human mucous membranes is not recommended. Acyclovir Cream is intended for cutaneous use only and should not be used in the eye or inside the mouth or nose. 5.2 Contact Sensitization Acyclovir Cream has a potential for irritation and contact sensitization [see Adverse Reactions (6.1) ] . The effect of Acyclov…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "ACYCLOVIR"
+    },
+    {
+      "id": "fda-oseltamivir",
+      "name": "奥司他韦",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antiviral"
+      ],
+      "aliases": [
+        "OSELTAMIVIR",
+        "流感",
+        "甲流",
+        "抗病毒",
+        "达菲"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Oseltamivir phosphate for oral suspension is an influenza neuraminidase inhibitor (NAI) indicated for: Treatment of acute, uncomplicated influenza A and B in patients 2 weeks of age and older who have been symptomatic for no more than 48 hours. ( 1.1 ) Prophylaxis of influenza A and B in patients 1 year and older. ( 1.2 ) Limitations of Use : Not a substitute for annual influenza vaccination. ( 1.3 ) Consider available information on influenza drug susceptibility patterns and treatment effects when deciding whether to use. ( 1.3 ) Not recommended for patients with end-stage renal disease not undergoing dialysis. ( 1.3 ) 1.1 Treatment of Influenza Oseltamivir phosphate for oral suspension is indicated for the treatment of acute, uncomplicated illness due to influenza…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Treatment of influenza Adults and adolescents (13 years and older): 75 mg twice daily for 5 days ( 2.2 ) Pediatric patients 1 to 12 years of age: Based on weight twice daily for 5 days ( 2.2 ) Pediatric patients 2 weeks to less than 1 year of age: 3mg/kg twice daily for 5 days ( 2.2 ) Renally impaired adult patients (creatinine clearance >30 to 60 mL/min): Reduce to 30 mg twice daily for 5 days ( 2.4 ) Renally impaired adult patients (creatinine clearance >10 to 30 mL/min): Reduce to 30 mg once daily for 5 days ( 2.4 ) ESRD patients on hemodialysis: Reduce to 30 mg immediately and then 30 mg after every hemodialysis cycle. Treatment duration not to exceed 5 days ( 2.4 ) ESRD patients on CAPD: Reduce to a single 30 mg dose immediately ( 2.4 ) Prophylaxis of influ…",
+      "contraindications": "4 CONTRAINDICATIONS Oseltamivir phosphate for oral suspension is contraindicated in patients with known serious hypersensitivity to oseltamivir or any component of the product. Severe allergic reactions have included anaphylaxis and serious skin reactions including toxic epidermal necrolysis, Stevens-Johnson Syndrome, and erythema multiforme [see Warnings and Precautions (5.1) ] . Patients with known serious hypersensitivity to oseltamivir or any of the components of oseltamivir phosphate for oral suspension ( 4 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are discussed below and elsewhere in the labeling: Serious skin and hypersensitivity reactions [see Warnings and Precautions (5.1) ] Neuropsychiatric events [see Warnings and Precautions (5.2) ] Most common adverse reactions (> 1% and more common than with placebo): Treatment studies – Nausea, vomiting, headache. ( 6.1 ) Prophylaxis studies – Nausea, vomiting, headache, pain. ( 6.1 ) To report SUSPECTED ADVERSE REACTIONS, contact Lannett Company, Inc. at 1-844-834-0530 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinic…",
+      "interactions": "7 DRUG INTERACTIONS Live attenuated influenza vaccine (LAIV), intranasal: Avoid administration of LAIV within 2 weeks before or 48 hours after oseltamivir phosphate for oral suspension use, unless medically indicated. ( 7 ) 7.1 Influenza Vaccines Live Attenuated Influenza Vaccine The concurrent use of oseltamivir phosphate with live attenuated influenza vaccine (LAIV) intranasal has not been evaluated. However, because of the potential for oseltamivir phosphate to inhibit replication of live vaccine virus and possibly reduce the efficacy of LAIV, avoid administration of LAIV within 2 weeks before or 48 hours after oseltamivir phosphate administration, unless medically indicated. Inactivated Influenza Vaccine Inactivated influenza vaccine can be administered at any time relative to use of o…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Serious skin/hypersensitivity reactions such as Stevens-Johnson Syndrome, toxic epidermal necrolysis and erythema multiforme: Discontinue oseltamivir phosphate for oral suspension and initiate appropriate treatment if allergic-like reactions occur or are suspected. ( 5.1 ) Neuropsychiatric events: Patients with influenza, including those receiving oseltamivir phosphate for oral suspension, particularly pediatric patients, may be at an increased risk of confusion or abnormal behavior early in their illness. Monitor for signs of abnormal behavior. ( 5.2 ) 5.1 Serious Skin/Hypersensitivity Reactions Cases of anaphylaxis and serious skin reactions including toxic epidermal necrolysis, Stevens-Johnson Syndrome, and erythema multiforme have been reported in postmarketi…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "OSELTAMIVIR"
+    },
+    {
+      "id": "fda-pantoprazole",
+      "name": "泮托拉唑",
+      "forms": [
+        "静脉注射"
+      ],
+      "otc": false,
+      "tags": [
+        "ppi",
+        "acid-suppressant"
+      ],
+      "aliases": [
+        "PANTOPRAZOLE",
+        "胃酸",
+        "抑酸",
+        "胃溃疡",
+        "反流"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Pantoprazole Sodium for Injection is indicated for treatment of: gastroesophageal reflux disease (GERD) and a history of erosive esophagitis (EE) for up to 10 days in adults. pathological hypersecretory conditions including Zollinger-Ellison (ZE) Syndrome in adults. Limitations of Use The safety and effectiveness of Pantoprazole Sodium for Injection for the treatment of upper gastrointestinal bleeding have not been established in adult or pediatric patients. Pediatric use information is approved for Pfizer Inc.'s PROTONIX® I.V. (pantoprazole sodium) for Injection. However, due to Pfizer Inc.'s marketing exclusivity rights, this drug product is not labeled with that information. Pantoprazole Sodium for Injection is a proton pump inhibitor (PPI) indicated for treatmen…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION GERD and a History of EE Adults: The recommended dosage is 40 mg once daily by intravenous injection (over at least 2 minutes) or intravenous infusion (for 15 minutes) for up to 10 days. ( 2.1 ) Discontinue as soon as the patient is able to receive oral treatment. Switch to an appropriate oral medication within 10 days of starting pantoprazole sodium for injection. ( 2.1 ) Pathological Hypersecretion Conditions, Including ZE Syndrome The recommended adult dosage is 80 mg every 12 hours by intravenous injection (over at least 2 minutes) or intravenous infusion (for 15 minutes). ( 2.2 ) For information on how to adjust dosing for individual patient needs, see the full prescribing information. ( 2.2 ) When switching between intravenous to oral formulations of gastr…",
+      "contraindications": "4 CONTRAINDICATIONS Pantoprazole sodium is contraindicated in patients with known hypersensitivity reactions including anaphylaxis to the formulation or any substituted benzimidazole. Hypersensitivity reactions may include anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute tubulointerstitial nephritis, and urticaria [see Warnings and Precautions (5.2 , 5.4 ) and Adverse Reactions (6) ] . Proton pump inhibitors (PPIs), including pantoprazole sodium, are contraindicated in patients receiving rilpivirine-containing products [see Drug Interactions (7) ] . Known hypersensitivity to any component of the formulation or to substituted benzimidazoles. ( 4 ) Patients receiving rilpivirine-containing products. ( 4 , 7 )",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are described below and elsewhere in labeling: Injection Site Reactions [see Warnings and Precautions (5.2) ] Potential for Exacerbation of Zinc Deficiency [see Warnings and Precautions (5.3) ] Acute Tubulointerstitial Nephritis [see Warnings and Precautions (5.4) ] Clostridioides difficile -Associated Diarrhea [see Warnings and Precautions (5.5) ] Bone Fracture [see Warnings and Precautions (5.6) ] Severe Cutaneous Adverse Reactions [see Warnings and Precautions (5.7) ] Cutaneous and Systemic Lupus Erythematosus [see Warnings and Precautions (5.8) ] Hepatic Effects [see Warnings and Precautions (5.9) ] Hypomagnesemia and Mineral Metabolism [see Warnings and Precautions (5.10) ] Fundic Gland Polyps [see Warnings and Precautions (5…",
+      "interactions": "7 DRUG INTERACTIONS See the full prescribing information for a list of clinically important drug interactions. ( 7 ) Table 3 includes drugs with clinically important drug interactions and interaction with diagnostics when administered concomitantly with pantoprazole sodium and instructions for preventing or managing them. Consult the labeling of concomitantly used drugs to obtain further information about interactions with PPIs. Table 3: Clinically Relevant Interactions Affecting Drugs Co-Administered with Pantoprazole Sodium and Interaction with Diagnostics Antiretrovirals Clinical Impact: The effect of PPIs on antiretroviral drugs is variable. The clinical importance and the mechanisms behind these interactions are not always known. Decreased exposure of some antiretroviral drugs (e.g.,…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Gastric Malignancy : In adults, symptomatic response to therapy with pantoprazole sodium does not preclude the presence of gastric malignancy. Consider additional follow-up and diagnostic testing. ( 5.1 ) Injection Site Reactions : Thrombophlebitis is associated with the administration of intravenous pantoprazole sodium. Assess the patient and remove the catheter if clinically indicated. ( 5.2 ) Potential Exacerbation of Zinc Deficiency : Consider zinc supplementation in patients who are prone to zinc deficiency. Caution should be used when other EDTA containing products are also co-administered intravenously. ( 5.3 ) Acute Tubulointerstitial Nephritis : Discontinue treatment and evaluate patients. ( 5.4 ) Clostridioides difficile -Associated Diarrhea : PPI thera…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "PANTOPRAZOLE"
+    },
+    {
+      "id": "fda-ondansetron",
+      "name": "昂丹司琼",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antiemetic"
+      ],
+      "aliases": [
+        "ONDANSETRON",
+        "止吐",
+        "恶心",
+        "呕吐"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Ondansetron tablets are indicated for the prevention of nausea and vomiting associated with: highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m 2 . initial and repeat courses of moderately emetogenic cancer chemotherapy. radiotherapy in patients receiving either total body irradiation, single high-dose fraction to the abdomen, or daily fractions to the abdomen Ondansetron tablets are also indicated for the prevention of postoperative nausea and/or vomiting. Ondansetron tablets are 5-HT 3 receptor antagonist indicated for the prevention of: nausea and vomiting associated with highly emetogenic cancer chemotherapy, including cisplatin greater than or equal to 50 mg/m 2 (1) nausea and vomiting associated with initial and repeat…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION See full prescribing information for the recommended dosage in adults and pediatrics (2) Patients with severe hepatic impairment: do not exceed a total daily dose of 8 mg ( 2.2 , 8.6 ) 2.1 Dosage The recommended dosage regimens for adult and pediatric patients are described in Table 1 and Table 2, respectively. Corresponding doses of ondansetron tablets may be used interchangeably. Table 1: Adult Recommended Dosage Regimen for Prevention of Nausea and Vomiting Indication Dosage Regimen Highly Emetogenic Cancer Chemotherapy A single 24 mg dose administered 30 minutes before the start of single-day highly emetogenic chemotherapy, including cisplatin greater than or equal to 50 mg/m 2 Moderately Emetogenic Cancer Chemotherapy 8 mg administered 30 minutes before the…",
+      "contraindications": "4 CONTRAINDICATIONS Ondansetron is contraindicated in patients: known to have hypersensitivity (e.g., anaphylaxis) to ondansetron or any of the components of the formulation [see Adverse Reactions (6.2) ] receiving concomitant apomorphine due to the risk of profound hypotension and loss of consciousness Patients known to have hypersensitivity (e.g., anaphylaxis) to ondansetron or any components of the formulation. (4) Concomitant use of apomorphine (4)",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following clinically significant adverse reactions are described elsewhere in the labeling: Hypersensitivity Reactions [see Warnings and Precautions ( 5.1 )] QT Prolongation [see Warnings and Precautions (5.2 )] Serotonin Syndrome [see Warnings and Precautions ( 5.3 )] Myocardial Ischemia [see Warnings and Precautions ( 5.4 )] Masking of Progressive Ileus and Gastric Distension [see Warnings and Precautions [see Warnings and Precautions ( 5.5 )] The most common adverse reactions in adults for the: prevention of chemotherapy-induced (≥5%) are: headache, malaise/fatigue, constipation, diarrhea ( 6.1 ) prevention of radiation-induced nausea and vomiting (≥2%) are: headache, constipation, and diarrhea ( 6.1 ) prevention of postoperative nausea and vomiting (≥9%) are: he…",
+      "interactions": "7 DRUG INTERACTIONS 7.1 Serotonergic Drugs Serotonin syndrome (including altered mental status, autonomic instability, and neuromuscular symptoms) has been described following the concomitant use of 5-HT 3 receptor antagonists and other serotonergic drugs, including SSRIs and SNRIs. Monitor for the emergence of serotonin syndrome. If symptoms occur, discontinue ondansetron and initiate supportive treatment [see Warnings and Precautions ( 5.3) ]. 7.2 Drugs Affecting Cytochrome P-450 Enzymes Ondansetron does not itself appear to induce or inhibit the cytochrome P-450 drug-metabolizing enzyme system of the liver [see Clinical Pharmacology (12.3)]. Because ondansetron is metabolized by hepatic cytochrome P-450 drug-metabolizing enzymes (CYP3A4, CYP2D6, CYP1A2), inducers or inhibitors of these…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Hypersensitivity Reactions, Including Anaphylaxis and Bronchospasm : Discontinue ondansetron if suspected. Monitor and treat promptly per standard of care until signs and symptoms resolve ( 5.1 ) QT Interval Prolongation and Torsade de Pointes : Avoid ondansetron tablets in patients with congenital long QT syndrome; monitor with electrocardiograms (ECGs) if concomitant electrolyte abnormalities, cardiac failure or arrhythmias, or use of other QT prolonging drugs. ( 5.2 ) Serotonin Syndrome : Reported with 5-HT 3 receptor antagonists alone but particularly with concomitant use of serotonergic drugs. If such symptoms occur, discontinue ondansetron and initiate supportive treatment. If concomitant use of ondansetron with other serotonergic drugs is clinically warran…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "ONDANSETRON"
+    },
+    {
+      "id": "fda-sitagliptin",
+      "name": "西格列汀",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antidiabetic"
+      ],
+      "aliases": [
+        "SITAGLIPTIN",
+        "糖尿病",
+        "降糖"
+      ],
+      "indications": "1 INDICATIONS AND USAGE ZITUVIMET is a combination of sitagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor, and metformin hydrochloride (HCl), a biguanide, indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 ) Limitations of Use: ZITUVIMET is not recommended in patients with type 1 diabetes mellitus. ( 1 ) ZITUVIMET has not been studied in patients with a history of pancreatitis. ( 1 ) ZITUVIMET is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Limitations of Use ZITUVIMET is not recommended in patients with type 1 diabetes mellitus. ZITUVIMET has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of…",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Take ZITUVIMET orally twice daily with meals. ( 2.1 ) Individualize the dosage of ZITUVIMET on the basis of the patient's current regimen, effectiveness, and tolerability. ( 2.1 ) The maximum recommended daily dose is 100 mg of sitagliptin and 2,000 mg of metformin HCl. ( 2.1 ) The recommended starting dose in patients not currently treated with metformin is 50 mg sitagliptin and 500 mg metformin HCl twice daily, with gradual dose escalation recommended to reduce gastrointestinal side effects associated with metformin. ( 2.1 ) The starting dose in patients already treated with metformin should provide sitagliptin dosed as 50 mg twice daily (100 mg total daily dose) and the dose of metformin already being taken. For patients taking metformin HCl 850 mg twice dail…",
+      "contraindications": "4 CONTRAINDICATIONS Severe renal impairment: (eGFR below 30 mL/min/1.73 m 2 ) ( 4) Metabolic acidosis, including diabetic ketoacidosis. ( 4 ) History of a serious hypersensitivity reaction to ZITUVIMET, sitagliptin, or metformin, such as anaphylaxis or angioedema. (4) ZITUVIMET is contraindicated in patients with: Severe renal impairment (eGFR below 30 mL/min/1.73 m 2 ) [see Warnings and Precautions ( 5.1 )]. Acute or chronic metabolic acidosis, including diabetic ketoacidosis. History of a serious hypersensitivity reaction to sitagliptin, metformin, or any of the excipients in ZITUVIMET. Serious hypersensitivity reactions including anaphylaxis or angioedema have been reported. [see Warnings and Precautions ( 5.7 ) and Adverse Reactions ( 6.2 )].",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following adverse reactions are also discussed elsewhere in the prescribing information: Lactic Acidosis [see Warnings and Precautions ( 5.1 )] Pancreatitis [see Warnings and Precautions ( 5.2 )] Heart Failure [see Warnings and Precautions ( 5.3 )] Acute Renal Failure [see Warnings and Precautions ( 5.4 )] Vitamin B12 Deficiency [see Warnings and Precautions ( 5.5 )] Hypoglycemia with Concomitant Use with Insulin or Insulin Secretagogues [see Warnings and Precautions ( 5.6 )] Hypersensitivity Reactions [see Warnings and Precautions ( 5.7 )] Severe and Disabling Arthralgia [see Warnings and Precautions ( 5.8 )] Bullous Pemphigoid [see Warnings and Precautions ( 5.9 )] Most common adverse reactions (incidence ≥5% of patients simultaneously started on sitagliptin and m…",
+      "interactions": "7 DRUG INTERACTIONS Table 4 presents clinically significant drug interactions with ZITUVIMET: Table 4: Clinically Significant Drug Interactions with ZITUVIMET Carbonic Anhydrase Inhibitors Clinical Impact: Carbonic anhydrase inhibitors frequently cause a decrease in serum bicarbonate and induce non-anion gap, hyperchloremic metabolic acidosis. Concomitant use of these drugs with ZITUVIMET may increase the risk for lactic acidosis. Intervention: Consider more frequent monitoring of these patients. Examples: Topiramate, zonisamide, acetazolamide or dichlorphenamide. Drugs that Reduce Metformin Clearance Clinical Impact: Concomitant use of drugs that interfere with common renal tubular transport systems involved in the renal elimination of metformin (e.g., organic cationic transporter-2 [OCT…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Lactic Acidosis: See boxed warning . ( 5.1 ) Pancreatitis: There have been postmarketing reports of acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis. If pancreatitis is suspected, promptly discontinue ZITUVIMET. ( 5.2 ) Heart Failure : Has been observed with two other members of the DPP-4 inhibitor class. Consider risks and benefits of ZITUVIMET in patients who have known risk factors for heart failure. Monitor patients for signs and symptoms. ( 5.3 ) Acute Renal Failure: Has been reported postmarketing, sometimes requiring dialysis. Before initiating ZITUVIMET and at least annually thereafter, assess renal function. ( 5.4 ) Vitamin B 12 Deficiency: Metformin may lower vitamin B 12 levels. Measure hematologic parameters an…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "SITAGLIPTIN"
+    },
+    {
+      "id": "fda-glipizide",
+      "name": "格列吡嗪",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "antidiabetic",
+        "sulfonylurea"
+      ],
+      "aliases": [
+        "GLIPIZIDE",
+        "糖尿病",
+        "降糖"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Glipizide extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Glipizide extended-release tablet is a sulfonylurea indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus Limitations of Use: Not for treatment of type 1 diabetes or diabetic ketoacidosis 1.1 Limitations of Use Glipizide extended-release tablets are not recommended for the treatment of type 1 diabetes mellitus or diabetic ketoacidosis. 1.1 Limitations of Use Glipizide extended-release tablets are not recommended for the treatment of type 1 diabetes mellitus or diabetic ketoacidosis.",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION Recommended starting dose is 5 mg once daily. Dose adjustment can be made based on the patient’s glycemic control. Maximum recommended dose is 20 mg once daily ( 2.1 ). Administer with breakfast or the first meal of the day ( 2.1 ). For combination therapy with other blood-glucose-lowering agents, initiate the agent at the lowest recommended dose, and observe patients for hypoglycemia ( 2.2 ). 2.1 Recommended Dosing Glipizide extended-release tablets should be administered orally with breakfast or the first main meal of the day. The recommended starting dose of glipizide extended-release tablets is 5 mg once daily. Start patients at increased risk for hypoglycemia (e.g. the elderly or patients with hepatic insufficiency) at 2.5 mg [see Use in Specific Population…",
+      "contraindications": "4 CONTRAINDICATIONS Glipizide is contraindicated in patients with: Known hypersensitivity to glipizide or any of the product’s ingredients. Hypersensitivity to sulfonamide derivatives. Known hypersensitivity to glipizide or any of the product’s ingredients ( 4 ). Hypersensitivity to sulfonamide derivatives ( 4 ).",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are discussed in more detail below and elsewhere in the labeling: Hypoglycemia [see Warnings and Precautions (5.1) ] Hemolytic anemia [see Warnings and Precautions (5.2) ] Most common adverse reactions (incidence > 3%) are dizziness, diarrhea, nervousness,tremor, hypoglycemia and flatulence ( 6.1 ). To report SUSPECTED ADVERSE REACTIONS, contact Rising Pharma Holdings, Inc. at 1-844-874-7464 or FDA at 1-800-FDA-1088 or www.fda.gov/medwatch. 6.1 Clinical Trials Experience Because clinical trials are conducted under widely varying conditions, adverse reaction rates observed in the clinical trials of a drug cannot be directly compared to rates in the clinical trials of another drug and may not reflect the rates observed in practice.…",
+      "interactions": "7 DRUG INTERACTIONS • Certain medications may affect glucose metabolism, requiring glipizide extended-release tablets dose adjustment and close monitoring of blood glucose (7.1). • Miconazole: Monitor patients closely. Severe hypoglycemia can occur when glipizide tablets and oral miconazole are used concomitantly ( 7.2 , 12.3 ). • Fluconazole: Monitor patients closely. An increase in glipizide tablets AUC was seen after fluconazole administration ( 7.3 , 12.3 ). • Colesevelam: Glipizide extended-release tablets should be administered at least 4 hours prior to colesevelam (7.4 , 12.3 ). 7.1 Drugs Affecting Glucose Metabolism A number of medications affect glucose metabolism and may require glipizide extended-release tablets dose adjustment and close monitoring for hypoglycemia or worsening…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Hypoglycemia: May be severe. Ensure proper patient selection, dosing, and instructions, particularly in at-risk populations (e.g., elderly, renally impaired) and when used with other anti-diabetic medications ( 5.1 ). Hemolytic Anemia: Can occur if glucose 6-phosphate dehydrogenase (G6PD) deficient. Consider a non-sulfonylurea alternative ( 5.2 ). Potential Increased Risk of Cardiovascular Mortality with Sulfonylureas: Inform patient of risks, benefits and treatment alternatives ( 5.3 ). Macrovascular Outcomes: No clinical studies have established conclusive evidence of macrovascular risk reduction with glipizide extended-release tablets or any other antidiabetic drug ( 5.4 ). 5.1 Hypoglycemia All sulfonylurea drugs, including glipizide, are capable of producing…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "GLIPIZIDE"
+    },
+    {
+      "id": "fda-gabapentin",
+      "name": "加巴喷丁",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "anticonvulsant",
+        "neuropathic-pain"
+      ],
+      "aliases": [
+        "GABAPENTIN",
+        "神经痛",
+        "带状疱疹后遗神经痛",
+        "癫痫"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Gabapentin Capsules, USP are indicated for: Management of postherpetic neuralgia in adults Adjunctive therapy in the treatment of partial onset seizures, with and without secondary generalization, in adults and pediatric patients 3 years and older with epilepsy Gabapentin Capsules, USP are indicated for Postherpetic neuralgia in adults (1) Adjunctive therapy in the treatment of partial onset seizures, with and without secondary generalization, in adults and pediatric patients 3 years and older with epilepsy (1)",
+      "adult_dosage": "2 DOSAGE AND ADMlNlSTRATION Postherpetic Neuralgia (2.1) Dose can be titrated up as needed to a dose of 1800 mg/day Day 1: Single 300 mg dose Day 2: 600 mg/day (i.e., 300 mg two times a day) Day 3: 900 mg/day (i.e., 300 mg three times a day) Epilepsy with Partial Onset Seizures (2.2) Patients 12 years of age and older: starting dose is 300 mg three times daily; may be titrated up to 600 mg three times daily Patients 3 to 11 years of age: starting dose range is 10 to 15 mg/kg/day, given in three divided doses; recommended dose in patients 3 to 4 years of age is 40 mg/kg/day, given in three divided doses; the recommended dose in patients 5 to 11 years of age is 25 to 35 mg/kg/day, given in three divided doses. The recommended dose is reached by upward titration over a period of approximately…",
+      "contraindications": "4 CONTRAINDICATIONS Gabapentin is contraindicated in patients who have demonstrated hypersensitivity to the drug or its ingredients. Known hypersensitivity to gabapentin or its ingredients (4)",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following serious adverse reactions are discussed in greater detail in other sections: Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)/Multiorgan Hypersensitivity [see Warnings and Precautions (5.1) ] Anaphylaxis and Angioedema [see Warnings and Precautions (5.2) ] Somnolence/Sedation and Dizziness [see see Warnings and Precautions (5.4) ] Withdrawal Precipitated Seizure, Status Epilepticus [see see Warnings and Precautions (5.5) ] Suicidal Behavior and Ideation [see see Warnings and Precautions (5.6) ] Respiratory Depression [see Warnings and Precautions (5.7) ] Neuropsychiatric Adverse Reactions (Pediatric Patients 3 to 12 Years of Age) [ see Warnings and Precautions (5.8) ] Sudden and Unexplained Death in Patients with Epilepsy [see Warnings and Pre…",
+      "interactions": "7 DRUG INTERACTIONS Concentrations increased by morphine; may need dose adjustment (5.4, 7.1 ) 7.1 Opioids Respiratory depression and sedation, sometimes resulting in death, have been reported following coadministration of gabapentin with opioids (e.g., morphine, hydrocodone, oxycodone, buprenorphine) [ see Warnings and Precautions (5.7) ]. Hydrocodone Coadministration of gabapentin with hydrocodone decreases hydrocodone exposure [ see Clinical Pharmacology (12.3) ]. The potential for alteration in hydrocodone exposure and effect should be considered when gabapentin is started or discontinued in a patient taking hydrocodone. Morphine When gabapentin is administered with morphine, patients should be observed for signs of CNS depression, such as somnolence, sedation and respiratory depressio…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Drug Reaction with Eosinophilia and Systemic Symptoms (Multiorgan hypersensitivity): Discontinue if alternative etiology is not be established (5.1) Anaphylaxis and Angioedema: Discontinue and evaluate patient immediately (5.2) Driving impairment; Somnolence/Sedation and Dizziness: Warn patients not to drive until they have gained sufficient experience to assess whether their ability to drive or operate heavy machinery will be impaired (5.3, 5.4) Increased seizure frequency may occur in patients with seizure disorders if Gabapentin is abruptly discontinued (5.5) Suicidal Behavior and Ideation: Monitor for suicidal thoughts / behavior (5.6) Respiratory depression: May occur with gabapentin when used with concomitant central nervous system (CNS) depressants, includ…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "GABAPENTIN"
+    },
+    {
+      "id": "fda-sildenafil",
+      "name": "西地那非",
+      "forms": [
+        "口服"
+      ],
+      "otc": false,
+      "tags": [
+        "pde5"
+      ],
+      "aliases": [
+        "SILDENAFIL",
+        "勃起功能障碍",
+        "阳痿"
+      ],
+      "indications": "1 INDICATIONS AND USAGE Sildenafil tablets are indicated for the treatment of erectile dysfunction. Sildenafil is a phosphodiesterase-5 (PDE5) inhibitor indicated for the treatment of erectile dysfunction (ED)",
+      "adult_dosage": "2 DOSAGE AND ADMINISTRATION For most patients, the recommended dose is 50 mg taken, as needed, approximately 1 hour before sexual activity. However, sildenafil tablets may be taken anywhere from 30 minutes to 4 hours before sexual activity ( 2.1 ) Based on effectiveness and toleration, may increase to a maximum of 100 mg or decrease to 25 mg ( 2.1 ) Maximum recommended dosing frequency is once per day ( 2.1 ) 2.1 Dosage Information For most patients, the recommended dose is 50 mg taken, as needed, approximately 1 hour before sexual activity. However, sildenafil tablets may be taken anywhere from 30 minutes to 4 hours before sexual activity. The maximum recommended dosing frequency is once per day. Based on effectiveness and toleration, the dose may be increased to a maximum recommended dos…",
+      "contraindications": "4 CONTRAINDICATIONS Administration of sildenafil tablets to patients using nitric oxide donors, such as organic nitrates or organic nitrites in any form. Sildenafil tablets was shown to potentiate the hypotensive effect of nitrates ( 4.1 , 7.1 , 12.2 ) Known hypersensitivity to sildenafil or any component of tablet ( 4.2 ) Administration with guanylate cyclase (GC) stimulators, such as riociguat ( 4.3 ) 4.1 Nitrates Consistent with its known effects on the nitric oxide/cGMP pathway [ see Clinical Pharmacology (12.1 , 12.2 ) ], sildenafil tablets was shown to potentiate the hypotensive effects of nitrates, and its administration to patients who are using nitric oxide donors such as organic nitrates or organic nitrites in any form either regularly and/or intermittently is therefore contraind…",
+      "adverse_reactions": "6 ADVERSE REACTIONS The following are discussed in more detail in other sections of the labeling: Cardiovascular [ see Warnings and Precautions (5.1) ] Prolonged Erection and Priapism [ see Warnings and Precautions (5.2) ] Effects on the Eye [ see Warnings and Precautions (5.3) ] Hearing Loss [ see Warnings and Precautions (5.4) ] Hypotension when Co-administered with Alpha-blockers or Anti-hypertensives [ see Warnings and Precautions (5.5) ] Adverse Reactions with the Concomitant Use of Ritonavir [ see Warnings and Precautions (5.6) ] Combination with other PDE5 Inhibitors or Other Erectile Dysfunction Therapies [ see Warnings and Precautions (5.7) ] Effects on Bleeding [ see Warnings and Precautions (5.8) ] Counseling Patients About Sexually Transmitted Diseases [ see Warnings and Precau…",
+      "interactions": "7 DRUG INTERACTIONS Sildenafil can potentiate the hypotensive effects of nitrates, alpha blockers, and anti-hypertensives ( 4.1 , 5.5 , 7.1 , 7.2 , 7.3 , 12.2 ) With concomitant use of alpha blockers, initiate sildenafil at 25 mg dose ( 2.3 ) CYP3A4 inhibitors (e.g., ritonavir, ketoconazole, itraconazole, erythromycin): Increase sildenafil exposure ( 2.4 , 7.4 , 12.3 ) Ritonavir: Do not exceed a maximum single dose of 25 mg in a 48 hour period ( 2.4 , 5.6 ) Erythromycin or strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, saquinavir): Consider a starting dose of 25 mg ( 2.4 , 7.4 ) 7.1 Nitrates Administration of sildenafil with nitric oxide donors such as organic nitrates or organic nitrites in any form is contraindicated. Consistent with its known effects on the nitric oxide/cGM…",
+      "duration": "",
+      "stop_signs": "5 WARNINGS AND PRECAUTIONS Patients should not use sildenafil if sexual activity is inadvisable due to cardiovascular status ( 5.1 ) Patients should seek emergency treatment if an erection lasts >4 hours. Use sildenafil with caution in patients predisposed to priapism ( 5.2 ) Patients should stop sildenafil tablets and seek medical care if a sudden loss of vision occurs in one or both eyes, which could be a sign of non arteritic anterior ischemic optic neuropathy (NAION). Sildenafil tablets should be used with caution, and only when the anticipated benefits outweigh the risks, in patients with a history of NAION. Patients with a \"crowded\" optic disc may also be at an increased risk of NAION. ( 5.3 ) Patients should stop sildenafil tablets and seek prompt medical attention in the event of s…",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "SILDENAFIL"
+    },
+    {
+      "id": "fda-loperamide",
+      "name": "洛哌丁胺",
+      "forms": [
+        "口服"
+      ],
+      "otc": true,
+      "tags": [
+        "antidiarrheal"
+      ],
+      "aliases": [
+        "LOPERAMIDE",
+        "止泻",
+        "拉肚子",
+        "腹泻",
+        "易蒙停"
+      ],
+      "indications": "Purpose Anti-diarrheal",
+      "adult_dosage": "Directions • drink plenty of clear fluids to help prevent dehydration caused by diarrhea • find right dose on chart. If possible, use weight to dose; otherwise use age. • shake well before using • use only enclosed dosing cup specifically designed for use with this product. Do not use any other dosing device. • mL = milliliter adults and children 12 years and over 30 mL after the first loose stool; 15 mL after each subsequent loose stool; but no more than 60 mL in 24 hours children 9-11 years (60-95 lbs) 15 mL after the first loose stool; 7.5 mL after each subsequent loose stool; but no more than 45 mL in 24 hours children 6-8 years (48-59 lbs) 15 mL after the first loose stool; 7.5 mL after each subsequent loose stool; but no more than 30 mL in 24 hours children 2-5 years (34 to 47 lbs) a…",
+      "contraindications": "Do not use if you have bloody or black stool Ask a doctor before use if you have • fever • mucus in the stool • a history of liver disease • a history of abnormal heart rhythm",
+      "adverse_reactions": "Warnings Allergy alert: Do not use if you have ever had a rash or other allergic reaction to loperamide HCl Heart alert: Taking more than directed can cause serious heart problems or death Do not use if you have bloody or black stool Ask a doctor before use if you have • fever • mucus in the stool • a history of liver disease • a history of abnormal heart rhythm Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery. Stop use and ask a doctor if • symptoms get worse • diarrhea lasts for more than 2 days • you get abdominal swelling or bulging. These may be signs of a serious condition. If pregnant…",
+      "interactions": "Ask a doctor or pharmacist before use if you are taking a prescription drug. Loperamide may interact with certain prescription drugs. When using this product tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery.",
+      "duration": "",
+      "stop_signs": "Stop use and ask a doctor if • symptoms get worse • diarrhea lasts for more than 2 days • you get abdominal swelling or bulging. These may be signs of a serious condition.",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "LOPERAMIDE"
+    },
+    {
+      "id": "fda-diphenhydramine",
+      "name": "苯海拉明",
+      "forms": [
+        "口服"
+      ],
+      "otc": true,
+      "tags": [
+        "antihistamine",
+        "sedating"
+      ],
+      "aliases": [
+        "DIPHENHYDRAMINE",
+        "抗过敏",
+        "止痒",
+        "助眠",
+        "晕车"
+      ],
+      "indications": "Active ingredients (in each 10 mL) Purposes Acetaminophen 325 mg Pain reliever/fever reducer Diphenhydramine HCl 12.5 mg Antihistamine/cough suppressant Phenylephrine HCl 5 mg Nasal decongestant",
+      "adult_dosage": "Directions this product does not contain directions or complete warnings for adult use do not give more than directed (see Overdose warning ) measure only with dosing cup provided do not use dosing cup with other products dose as follows or as directed by a doctor children 6 to under 12 years of age: 10 mL in dosing cup provided every 4 hours while symptoms last; do not give more than 5 doses in any 24-hour period children under 6 years of age: do not use",
+      "contraindications": "Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. to make a child sleepy with any other product containing diphenhydramine, even one used on the skin in a child who is taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson's disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your child's prescription drug contains an MAOI, ask a doctor or pharmacist before giving this product. Ask a doctor before use if the child has liver disease heart disease diabetes high blood pressure thyroid disease glaucoma a breathing problem such as chronic bronchitis persistent o…",
+      "adverse_reactions": "Warnings Liver warning This product contains acetaminophen. Severe liver damage may occur if your child takes: more than 5 doses in 24 hours, which is the maximum daily amount with other drugs containing acetaminophen Allergy alert Acetaminophen may cause severe skin reactions. Symptoms may include: skin reddening blisters rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning I f sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. to make a child sleepy with any other produ…",
+      "interactions": "Ask a doctor or pharmacist before use if the child is taking the blood thinning drug warfarin taking sedatives or tranquilizers When using this product do not use more than directed (see Overdose warning ) excitability may occur, especially in children marked drowsiness may occur sedatives and tranquilizers may increase drowsiness",
+      "duration": "",
+      "stop_signs": "Stop use and ask a doctor if nervousness, dizziness, or sleeplessness occur pain, nasal congestion, or cough gets worse or lasts more than 5 days fever gets worse or lasts more than 3 days redness or swelling is present new symptoms occur cough comes back, or occurs with fever, rash, or headache that lasts. These could be signs of a serious condition.",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "DIPHENHYDRAMINE"
+    },
+    {
+      "id": "fda-chlorpheniramine",
+      "name": "氯苯那敏",
+      "forms": [
+        "口服"
+      ],
+      "otc": true,
+      "tags": [
+        "antihistamine",
+        "sedating"
+      ],
+      "aliases": [
+        "CHLORPHENIRAMINE",
+        "抗过敏",
+        "扑尔敏",
+        "感冒"
+      ],
+      "indications": "Purposes Pain reliever-fever reducer Antihistamine Nasal decongestant",
+      "adult_dosage": "Directions ■ adults and children 12 years of age and over: take 2 tablets every 4 hours, while symptoms persist, not to exceed 6 doses (12 tablets) in 24 hours, or as directed by a doctor ■ children 6 to under 12 years of age: take 1 tablet every 4 hours, while symptoms persist, not to exceed 5 doses (5 tablets) in 24 hours, or as directed by a doctor ■ children under 6 years of age : consult a doctor",
+      "contraindications": "Do not use ■ with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. ■ if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know whether a prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product.",
+      "adverse_reactions": "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if: ■ adult takes more than 12 tablets in 24 hours, which the maximum daily amount for this product ■ child takes more than 5 doses in 24 hours ■ taken with other drugs containing acetaminophen ■ adult has 3 or more alcoholic drinks everyday while using this product",
+      "interactions": "Ask a doctor before use if the user has ■ heart disease ■ high blood pressure ■ diabetes ■ glaucoma ■ liver disease ■ thyroid disease ■ a high fever ■ a breathing problem such as emphysema or chronic bronchitis ■ difficulty in urination due to enlargement of the prostate gland Ask a doctor or pharmacist before use if the user is ■ taking tranquilizers or sedatives ■ taking the blood thinning drug warfarin When using this product ■ do not exceed recommended dosage ■ may cause excitability especially in children ■ use caution when driving or operating machinery ■ avoid alcoholic beverages ■ may cause drowsiness; alcohol, sedatives, and tranquilizers may increase the drowsiness effect",
+      "duration": "",
+      "stop_signs": "Stop use and ask a doctor if ■ pain or nasal congestion gets worse or lasts more than 5 days (children) or 7 days (adults) ■ sore throat persists for more than 2 days ■ fever gets worse or lasts more than 3 days ■ nasal congestion is accompanied by fever ■ nervousness, dizziness, or sleeplessness occur ■ redness or swelling is present ■ new symptoms occur ■ any of the following occurs (these could be signs of a serious condition): ■ severe sore throat ■ sore throat is accompanied or followed by fever, headache, rash, nausea or vomiting Do not give to children under 6 years of age unless directed by a doctor.",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "CHLORPHENIRAMINE"
+    },
+    {
+      "id": "fda-guaifenesin",
+      "name": "愈创甘油醚",
+      "forms": [
+        "口服"
+      ],
+      "otc": true,
+      "tags": [
+        "expectorant"
+      ],
+      "aliases": [
+        "GUAIFENESIN",
+        "化痰",
+        "咳嗽",
+        "有痰"
+      ],
+      "indications": "Purpose Pain reliever/fever reducer Cough suppressant Expectorant Nasal decongestant",
+      "adult_dosage": "Directions • take only as directed – see Overdose warning • only use the dose cup provided • do not exceed 4 doses per 24 hrs adults & children 12 yrs & over 30 mL every 4 hrs children 6 to under 12 yrs 15 mL every 4 hrs children 4 to under 6 yrs ask a doctor children under 4 yrs do not use Other information • each 15 mL contains: sodium 6 mg • store at 20-25 ° C (68-77 ° F). Do not refrigerate.",
+      "contraindications": "Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not sure whether a drug contains acetaminophen, ask a doctor or pharmacist. • if you are now taking a prescription monoamine oxidase inhibitor (MAOI) (certain drugs for depression, psychiatric, or emotional conditions, or Parkinson’s disease), or for 2 weeks after stopping the MAOI drug. If you do not know if your prescription drug contains an MAOI, ask a doctor or pharmacist before taking this product. • if you have ever had an allergic reaction to this product or any of its ingredients Ask a doctor before use if you have • liver disease • heart disease • thyroid disease • diabetes • high blood pressure • trouble urinating due to an enlarged prostate gland • cough that occurs with too m…",
+      "adverse_reactions": "Warnings Liver warning: This product contains acetaminophen. Severe liver damage may occur if • adult takes more than 4,000 mg of acetaminophen in 24 hours • child takes more than 5 doses in 24 hours • taken with other drugs containing acetaminophen • adult has 3 or more alcoholic drinks every day while using this product Allergy alert: Acetaminophen may cause severe skin reactions. Symptoms may include: • skin reddening • blisters • rash If a skin reaction occurs, stop use and seek medical help right away. Sore throat warning: If sore throat is severe, persists for more than 2 days, is accompanied or followed by fever, headache, rash, nausea, or vomiting, consult a doctor promptly. Do not use • with any other drug containing acetaminophen (prescription or nonprescription). If you are not…",
+      "interactions": "Ask a doctor or pharmacist before use if you are taking the blood thinning drug warfarin When using this product do not use more than directed",
+      "duration": "",
+      "stop_signs": "Stop use and ask a doctor if • you get nervous, dizzy or sleepless • pain, nasal congestion, or cough gets worse or lasts more than 5 days (children) or 7 days (adults) • fever gets worse or lasts more than 3 days • redness or swelling is present • new symptoms occur • cough comes back or occurs with rash or headache that lasts. These could be signs of a serious condition.",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "GUAIFENESIN"
+    },
+    {
+      "id": "fda-meclizine",
+      "name": "美克洛嗪",
+      "forms": [
+        "口服"
+      ],
+      "otc": true,
+      "tags": [
+        "antiemetic",
+        "antihistamine"
+      ],
+      "aliases": [
+        "MECLIZINE",
+        "晕车",
+        "眩晕",
+        "恶心"
+      ],
+      "indications": "Purpose Antiemetic",
+      "adult_dosage": "Directions dosage should be taken one hour before travel starts chew or crush tablets completely before swallowing; do not swallow tablets whole adults and children 12 years and over: take 1 to 2 chewable tablets once daily or as directed by a doctor",
+      "contraindications": "Do not use in children under 12 years of age unless directed by a doctor. Ask a doctor before use if you have difficulty in urination due to enlargement of the prostate gland glaucoma a breathing problem such as emphysema or chronic bronchitis",
+      "adverse_reactions": "Warnings Do not use in children under 12 years of age unless directed by a doctor. Ask a doctor before use if you have difficulty in urination due to enlargement of the prostate gland glaucoma a breathing problem such as emphysema or chronic bronchitis Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness drowsiness may occur use caution when driving a motor vehicle or operating machinery If pregnant or breast-feeding, ask a health professional before use. Keep out of reach of children. In case of overdose, get medical help or contact a Poison Control Center right away.",
+      "interactions": "Ask a doctor or pharmacist before use if you are taking sedatives or tranquilizers. When using this product avoid alcoholic beverages alcohol, sedatives, and tranquilizers may increase drowsiness drowsiness may occur use caution when driving a motor vehicle or operating machinery",
+      "duration": "",
+      "stop_signs": "",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "MECLIZINE"
+    },
+    {
+      "id": "fda-miconazole",
+      "name": "咪康唑",
+      "forms": [
+        "外用"
+      ],
+      "otc": true,
+      "tags": [
+        "antifungal",
+        "topical"
+      ],
+      "aliases": [
+        "MICONAZOLE",
+        "脚气",
+        "真菌",
+        "霉菌",
+        "抗真菌"
+      ],
+      "indications": "Purpose Antifungal",
+      "adult_dosage": "Directions Clean the affected area and dry thoroughly Apply a thin layer of powder over affected area twice daily (morning and night) or as directed by a doctor Supervise children in the use of this product For athlete's foot, pay special attention between spaces in toes; wear well-fitting, ventilated shoes, and change shoes and socks at least once daily For athlete's foot and ringworm, use daily for 4 weeks For jock itch, use daily for 2 weeks If condition persists longer, consult a doctor This product is not effective on the scalp or nails.",
+      "contraindications": "Do not use on children under 2 years of age unless directed by a doctor on scalp or nails",
+      "adverse_reactions": "Warnings For external use only Do not use on children under 2 years of age unless directed by a doctor on scalp or nails When using this product avoid contact with the eyes Stop use and ask a doctor if irritation occurs there is no improvement within 4 weeks when used for the treatment of athlete's foot or ringworm there is no improvement within 2 weeks when used for the treatment of jock itch Keep out of reach of children If swallowed, get medical help or contact a Poison Control center right away.",
+      "interactions": "When using this product avoid contact with the eyes",
+      "duration": "",
+      "stop_signs": "Stop use and ask a doctor if irritation occurs there is no improvement within 4 weeks when used for the treatment of athlete's foot or ringworm there is no improvement within 2 weeks when used for the treatment of jock itch",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "MICONAZOLE"
+    },
+    {
+      "id": "fda-bismuth-subsalicylate",
+      "name": "次水杨酸铋",
+      "forms": [
+        "口服"
+      ],
+      "otc": true,
+      "tags": [
+        "antidiarrheal",
+        "antacid"
+      ],
+      "aliases": [
+        "BISMUTH SUBSALICYLATE",
+        "拉肚子",
+        "腹泻",
+        "胃胀"
+      ],
+      "indications": "Purpose Antidiarrheal/Antacid",
+      "adult_dosage": "Directions chew or dissolve in mouth Adults and children over 12 years : 2 tablets (1 dose) every ½ hour or 4 tablets (2 doses) every hour as needed for diarrhea 2 tablets (1 dose) every 1/2 hour as needed for overindulgence (upset stomach, heartburn, indigestion, nausea) do not exceed 8 doses (16 tablets) in 24 hours use until diarrhea stops but no more than 2 days Children under 12 years of age: ask a doctor drink plenty of clear fluids to prevent dehydration caused by diarrhea",
+      "contraindications": "Do not use if you have an ulcer a bleeding problem bloody or black stool Ask a doctor before use if you have fever mucus in the stool",
+      "adverse_reactions": "Warnings Reye’s syndrome Children and teenagers who have or are recovering from chicken pox or flu-like symptoms should not use this product. When using this product, if changes in behavior with nausea and vomiting occur, consult a doctor because these symptoms could be an early sign of Reye’s syndrome, a rare but serious illness. Allergy alert Contains salicylate. Do not take if you are allergic to salicylates (including aspirin) taking other salicylate products Do not use if you have an ulcer a bleeding problem bloody or black stool Ask a doctor before use if you have fever mucus in the stool Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning the blood) diabetes gout arthritis Stop use and ask a doctor if symptoms get worse or last more than 2…",
+      "interactions": "Ask a doctor or pharmacist before use if you are taking any drug for anticoagulation (thinning the blood) diabetes gout arthritis When using this product a temporary, but harmless, darkening of the stool and/or tongue may occur",
+      "duration": "",
+      "stop_signs": "Stop use and ask a doctor if symptoms get worse or last more than 2 days ringing in the ears or loss of hearing occurs n diarrhea lasts more than 2 days",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "BISMUTH SUBSALICYLATE"
+    },
+    {
+      "id": "fda-simethicone",
+      "name": "二甲硅油",
+      "forms": [
+        "口服"
+      ],
+      "otc": true,
+      "tags": [
+        "antiflatulent"
+      ],
+      "aliases": [
+        "SIMETHICONE",
+        "胀气",
+        "腹胀",
+        "胃胀"
+      ],
+      "indications": "PURPOSES Anti-diarrheal Anti-gas",
+      "adult_dosage": "DIRECTIONS • drink plenty of clear fluids to help prevent dehydration caused by diarrhea • take only on an empty stomach (1 hour before or 2 hours after a meal) • take with a full (8 oz.) glass of water • find right dose on chart below. If possible, use weight to dose; otherwise, use age. adults and children 12 years and over 2 tablets after the first loose stool; 1 tablet after each subsequent loose stool; but no more than 4 tablets in 24 hours children 9-11 years (60-95 lbs) 1 tablet after the first loose stool; 1/2 tablet after each subsequent loose stool; but no more than 3 tablets in 24 hours children 6-8 years (48-59 lbs) 1 tablet after the first loose stool; 1/2 tablet after each subsequent loose stool; but no more than 2 tablets in 24 hours children 2-5 years (34 to 47 lbs) ask a d…",
+      "contraindications": "DO NOT USE • if you have bloody or black stool • if you have difficulty swallowing ASK A DOCTOR BEFORE USE IF YOU HAVE • fever • mucus in the stool • a history of liver disease • a history of abnormal heart rhythm",
+      "adverse_reactions": "WARNINGS Allergy alert: Do not use if you have ever had a rash or other allergic reaction to loperamide hydrochloride Heart alert: Taking more than directed can cause serious heart problems or death",
+      "interactions": "ASK A DOCTOR OR PHARMACIST BEFORE USE IF you are taking a prescription drug. Loperamide may interact with certain prescription drugs. WHEN USING THIS PRODUCT tiredness, drowsiness or dizziness may occur. Be careful when driving or operating machinery.",
+      "duration": "",
+      "stop_signs": "STOP USE AND ASK A DOCTOR IF • symptoms get worse • diarrhea lasts for more than 2 days • you get abdominal swelling or bulging. These may be signs of a serious condition. • you have difficulty swallowing the tablet",
+      "source": "openFDA 药品标签（美国市场，公有领域）",
+      "name_en": "SIMETHICONE"
+    }
+  ]
+}

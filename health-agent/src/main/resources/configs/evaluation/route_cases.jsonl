@@ -1,0 +1,19 @@
+{"id": "R001", "text": "我这两天头疼，要去医院吗", "expect": ["doctor"]}
+{"id": "R002", "text": "孩子发烧38度5，一直不退，怎么办", "expect": ["doctor"]}
+{"id": "R003", "text": "最近总是失眠，躺下两三个小时睡不着", "expect": ["doctor"]}
+{"id": "R004", "text": "我血压高，平时要注意什么", "expect": ["doctor"]}
+{"id": "R005", "text": "咳嗽两周了，有痰不发烧", "expect": ["doctor"]}
+{"id": "R006", "text": "布洛芬一天吃几次，饭前还是饭后", "expect": ["pharma"]}
+{"id": "R007", "text": "阿莫西林有什么副作用", "expect": ["pharma"]}
+{"id": "R008", "text": "二甲双胍能和降压药一起吃吗", "expect": ["pharma"]}
+{"id": "R009", "text": "奥美拉唑要吃多久", "expect": ["pharma"]}
+{"id": "R010", "text": "体检报告白细胞13.5，严重吗", "expect": ["report"]}
+{"id": "R011", "text": "转氨酶偏高，这个指标怎么看", "expect": ["report"]}
+{"id": "R012", "text": "甲状腺结节3类是什么意思", "expect": ["report"]}
+{"id": "R013", "text": "看心慌挂什么科", "expect": ["care"]}
+{"id": "R014", "text": "附近哪有24小时药店", "expect": ["care"]}
+{"id": "R015", "text": "腰疼应该挂哪个科室", "expect": ["care"]}
+{"id": "R016", "text": "我头疼，能吃布洛芬吗", "expect": ["doctor", "pharma"]}
+{"id": "R017", "text": "我胃疼，吃什么药", "expect": ["doctor", "pharma"], "allow_clarify": true}
+{"id": "R019", "text": "我胃疼，需要去医院吗", "expect": ["doctor"]}
+{"id": "R018", "text": "帮我看看这个化验单，另外我最近老头疼", "expect": ["report", "doctor"], "allow_clarify": true}

@@ -1,0 +1,84 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: health-agent
+  # 只排除 Redis：第一版不用它做缓存。DataSource 现在是真的要用（MySQL）
+  autoconfigure:
+    exclude:
+      - org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration
+      # Spring Data JDBC 的自动配置会在启动时无条件拿一条连接来探测方言。
+      # 本项目用 JdbcTemplate 手写 SQL，没有 Repository 接口，这个自动配置纯属多余，
+      # 却让 `ha.persistence.mode=memory` 失效——内存模式本来就是为了"不开 Docker 也能改 prompt"，
+      # 结果被它拖去连库。排掉。
+      - org.springframework.boot.autoconfigure.data.jdbc.JdbcRepositoriesAutoConfiguration
+  datasource:
+    # 独立实例（3307），不动本机 3306 上别的项目的库
+    url: ${HA_DB_URL:jdbc:mysql://localhost:3307/health_agent?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true&useSSL=false}
+    username: ${HA_DB_USER:ha}
+    password: ${HA_DB_PASSWORD:ha_local_dev}
+    hikari:
+      # PG 是进程模型、MySQL 是线程模型，但连接数依然要控：池子开太大只会把库拖死
+      maximum-pool-size: 8
+      minimum-idle: 2
+      connection-timeout: 3000
+      max-lifetime: 1800000
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+# 前缀用 ha.llm 而不是 llm：环境变量 LLM_API_KEY 会被 relaxed binding
+# 直接映射到 llm.api-key，而它常被宿主环境注入，导致配置被静默覆盖。
+ha:
+  # 持久化：jdbc=连不上就启动失败（默认）；memory=显式关闭持久化，仅本地调试
+  persistence:
+    mode: ${HA_PERSISTENCE_MODE:jdbc}
+  # 会话本身不设轮次上限——聊多少轮由用户决定。
+  # 这里配的是「单轮任务」：一次用户输入内部，内核最多走几步（调模型 + 调工具）。
+  agent:
+    # 每次调模型带多少条历史消息。这是上下文窗口，不是轮次限制
+    history-window: ${HA_AGENT_HISTORY_WINDOW:20}
+    # 单轮任务默认最大步数
+    default-max-steps: ${HA_AGENT_MAX_STEPS:4}
+    # 单轮任务的时间护栏（不是延迟 SLA）。多步检索本来就慢，硬杀只会让用户看到 "timeout"
+    deadline-ms: ${HA_AGENT_DEADLINE_MS:15000}
+    # 一轮对话的总步数（跨 agent 交接累计）。max-steps 限单个 agent，这个限整轮。
+    turn-max-steps: ${HA_AGENT_TURN_MAX_STEPS:10}
+    # 按能力覆盖：路由只允许一步（它是分类，不需要循环）；
+    # 问诊要给"检索 → 看结果 → 再检索/回答"留余量
+    max-steps:
+      # manager 只做一次判断，给 1 步；它不循环
+      manager: 1
+      doctor: 6
+      pharma: 4
+      report: 4
+      care: 3
+  llm:
+    # 默认走 llm-gateway（:8081）。网关没起时直接连接失败，不静默降级。
+    base-url: ${HA_LLM_BASE_URL:http://localhost:8081/v1}
+    # 直连模型时才需要；走网关时留空，凭证在网关进程里
+    api-key: ${HA_LLM_API_KEY:}
+    internal-token: ${HA_GATEWAY_TOKEN:}
+    model-manager: ${HA_LLM_MODEL_MANAGER:deepseek-chat}
+    model-execute: ${HA_LLM_MODEL_EXECUTE:deepseek-chat}
+    timeout-seconds: 60
+    max-retries: 1
+    # 强制离线（不发真实请求）。只认这个开关，不再按"有没有 key"推断
+    offline: ${HA_LLM_OFFLINE:false}
+
+knowledge:
+  base-url: ${KNOWLEDGE_BASE_URL:http://localhost:8001}
+
+# 评测数据集路径（相对启动目录）。只是开发期工具，生产不需要它。
+ha-eval:
+  dataset: ${HA_EVAL_DATASET:docs/test-data/medical-agent-5000-questions.csv}
+
+# 路由没有可调阈值：规则只做域外过滤（词表在 configs/rules/off_topic.yaml），
+# 业务意图全部由 Manager 判断。没有阈值，就没有"调阈值来提准确率"这条歪路。
+
+logging:
+  level:
+    root: INFO
+    com.health.agent: DEBUG

@@ -1,0 +1,47 @@
+# 档案页配置（representations 层）。
+#
+# 一页对应一类事实，页与页之间是语义关系，不是数据引用——所以关系写在配置里，
+# 不写死在代码里。加一页 = 加一段配置，不改聚合器。
+#
+# 页面的 type 必须是 FactType 里存在的枚举值（ALLERGY / CHRONIC / MEDICATION /
+# PREGNANCY / SURGERY）。写错会直接启动失败，这是有意的——带着空档案页跑，
+# 只会表现为"页面怎么什么都没有"，查起来比启动失败贵得多。
+#
+# 为什么不做"每个疾病一页"：那需要从自由文本里抽出疾病实体并对齐到标准术语，
+# 是 KG 的活。在账本这一层，按事实类型聚合已经能把散落的信息变成可读的档案，
+# 再往上就是过度设计。
+
+pages:
+  - type: ALLERGY
+    title: 过敏史
+    links:
+      - type: MEDICATION
+        relation: 用药前必须核对
+
+  - type: MEDICATION
+    title: 长期用药
+    links:
+      - type: CHRONIC
+        relation: 与慢病管理相关
+      - type: ALLERGY
+        relation: 需避开过敏原
+
+  - type: CHRONIC
+    title: 慢病
+    links:
+      - type: MEDICATION
+        relation: 长期用药
+      - type: SURGERY
+        relation: 既往手术
+
+  - type: PREGNANCY
+    title: 孕产状态
+    links:
+      - type: MEDICATION
+        relation: 孕期用药需特别核对
+
+  - type: SURGERY
+    title: 手术史
+    links:
+      - type: CHRONIC
+        relation: 与慢病相关
